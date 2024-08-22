@@ -22,7 +22,7 @@ jobs:
       - name: Run script
         run: 
           chmod +x ./.github/scripts/install_requirements.sh
-          bash ./.github/scripts/install_requirements.sh
+          /usr/bin/bash ./.github/scripts/install_requirements.sh
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
