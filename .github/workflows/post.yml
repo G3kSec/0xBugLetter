@@ -1,7 +1,7 @@
 name: Daily Post
 on:
-  push:
-    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -30,7 +30,7 @@ jobs:
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 💣 Automated Daily Post
+          commit_message: 💣 Automated Daily Post 🔥
           commit_user_name: Luciano Griffa [GitHub Actions]
           commit_user_email: lucianogriffa@protonmail.com
           commit_author: lucianogriffa
