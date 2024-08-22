@@ -1,9 +1,10 @@
 import os
+import sys
 import requests
 from bs4 import BeautifulSoup
 
-TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT")
-CHAT_ID = os.getenv("CHAT_ID")
+TELEGRAM_TOKEN = sys.argv[1]
+CHAT_ID = sys.argv[2]
 url_telegram = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
 tags = ['bug-bounty', 'bug-bounty-writeup', 'bug-bounty-hunter']

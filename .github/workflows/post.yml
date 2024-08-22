@@ -5,6 +5,10 @@ on:
 
 jobs:
   build:
+    env:
+      telegram: ${{secrets.TELEGRAM_TOKEN}}
+      chat: ${{secrets.CHAT_ID}}
+
     runs-on: ubuntu-latest
 
     permissions:
@@ -21,7 +25,7 @@ jobs:
       
       - name: Run script
         run: 
-          chmod +x ./.github/scripts/install_requirements.sh && /usr/bin/bash ./.github/scripts/install_requirements.sh
+          chmod +x ./.github/scripts/start.sh && /usr/bin/bash ./.github/scripts/start.sh ${{env.telegram}} ${{env.chat}}
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5

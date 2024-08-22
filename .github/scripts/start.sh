@@ -9,4 +9,4 @@ echo "Install Dependencies..."
 pip install -r requirements.txt
 
 echo "🏃 Run Script..."
-python3 ./index.py
+python3 ./index.py $1 $2
