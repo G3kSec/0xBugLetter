@@ -1,0 +1,12 @@
+📌 How I can easily get four P1 at NASA using Simple Google Dorking.
+✍️ Author: k4tedu
+🔗 Link: https://medium.com/@0xk4tedu/how-i-can-easily-get-four-p1-at-nasa-using-simple-google-dorking-d4457bec1971
+
+📌 Authorization bypass due to cache misconfiguration
+✍️ Author: Bilal Researcher
+🔗 Link: https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374
+
+📌 Best Directory Brute-forcing Tools for Beginner Bug Hunters
+✍️ Author: Josekutty Kunnelthazhe Binu
+🔗 Link: https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055
+
