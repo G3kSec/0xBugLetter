@@ -1,9 +1,6 @@
-from dotenv import load_dotenv
 import os
 import requests
 from bs4 import BeautifulSoup
-
-load_dotenv()
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_BOT")
 CHAT_ID = os.getenv("CHAT_ID")
