@@ -10,3 +10,11 @@
 ✍️ Author: Josekutty Kunnelthazhe Binu
 🔗 Link: https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055
 
+📌 How I Got an Appreciation Letter from NASA for Finding a Simple Bug
+✍️ Author: Om Arora
+🔗 Link: https://medium.com/@omarora1603/how-i-got-an-appreciation-letter-from-nasa-for-finding-a-simple-bug-8812852d0337
+
+📌 Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance
+✍️ Author: Domenico Veneziano
+🔗 Link: https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415
+
