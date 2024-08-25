@@ -18,3 +18,11 @@
 ✍️ Author: Domenico Veneziano
 🔗 Link: https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415
 
+📌 How do I run Nuclei in silent mode to avoid unnecessary output?
+✍️ Author: Ravindra Dagale
+🔗 Link: https://medium.com/@sherlock297/how-do-i-run-nuclei-in-silent-mode-to-avoid-unnecessary-output-25fbb9d2e26d
+
+📌 Reset password Checklist
+✍️ Author: Hozayfa Nasser
+🔗 Link: https://medium.com/@hozayfan782/reset-password-checklist-1ebabdd6c0f3
+
