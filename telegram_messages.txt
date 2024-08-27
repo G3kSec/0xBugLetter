@@ -26,3 +26,15 @@
 ✍️ Author: Hozayfa Nasser
 🔗 Link: https://medium.com/@hozayfan782/reset-password-checklist-1ebabdd6c0f3
 
+📌 Defensive Strategies and Best Practices to Protect Against Web Cache Poisoning
+✍️ Author: Karthikeyan Nagaraj
+🔗 Link: https://medium.com/@cyberw1ng/defensive-strategies-and-best-practices-to-protect-against-web-cache-poisoning-7d9b855658c7
+
+📌 How To Get Stored Xss & RCE Using Bypass Signature & Extension Via File Upload |_|
+✍️ Author: Bilal Researcher
+🔗 Link: https://medium.com/@bilalresearcher/how-to-get-stored-xss-rce-using-bypass-signature-extension-via-file-upload-9b3e8d9348cd
+
+📌 Mobile Pentesting: A Walkthrough of the First  10 Challenges on Injured Android App-Part1
+✍️ Author: mohamed ali
+🔗 Link: https://medium.com/@mly57003/mobile-pentesting-a-walkthrough-of-the-first-10-challenges-on-injured-android-app-part1-0e85c600494f
+
