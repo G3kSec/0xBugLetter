@@ -38,3 +38,7 @@
 ✍️ Author: mohamed ali
 🔗 Link: https://medium.com/@mly57003/mobile-pentesting-a-walkthrough-of-the-first-10-challenges-on-injured-android-app-part1-0e85c600494f
 
+📌 HTML Injection in email via fname field
+✍️ Author: Hossam Hamada
+🔗 Link: https://medium.com/@hossam_hamada/html-injection-in-email-via-fname-field-564c3657e8ad
+
