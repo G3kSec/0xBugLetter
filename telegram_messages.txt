@@ -42,3 +42,11 @@
 ✍️ Author: Hossam Hamada
 🔗 Link: https://medium.com/@hossam_hamada/html-injection-in-email-via-fname-field-564c3657e8ad
 
+📌 OTP Bypassing with Response Manipulation
+✍️ Author: S33NU
+🔗 Link: https://medium.com/@sahilkushwaha275/otp-bypassing-with-response-manipulation-238498b02737
+
+📌 Day 22 of 30 Days — 30 Vulnerabilities | Business Logic Flaws
+✍️ Author: It4chis3c
+🔗 Link: https://medium.com/@it4chis3c/day-22-of-30-days-30-vulnerabilities-business-logic-flaws-2bf75d4df572
+
