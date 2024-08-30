@@ -50,3 +50,11 @@
 ✍️ Author: It4chis3c
 🔗 Link: https://medium.com/@it4chis3c/day-22-of-30-days-30-vulnerabilities-business-logic-flaws-2bf75d4df572
 
+📌 XSS Web Application Firewall Bypass Techniques
+✍️ Author: Bilal Researcher
+🔗 Link: https://medium.com/@bilalresearcher/xss-web-application-firewall-bypass-techniques-e10476b5fa72
+
+📌 XSS Web Application Firewall Bypass Techniques
+✍️ Author: Bilal Researcher
+🔗 Link: https://medium.com/@bilalresearcher/xss-web-application-firewall-bypass-techniques-e10476b5fa72
+
