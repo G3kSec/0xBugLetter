@@ -58,3 +58,11 @@
 ✍️ Author: Bilal Researcher
 🔗 Link: https://medium.com/@bilalresearcher/xss-web-application-firewall-bypass-techniques-e10476b5fa72
 
+📌 DVWA Cheat Sheet (Low & Medium)
+✍️ Author: Loay Salah
+🔗 Link: https://medium.com/@loaysalah276/dvwa-cheat-sheet-low-medium-c7490e76f1b5
+
+📌 My Five Minute Critical Vulnerability Discovery on Hackerone
+✍️ Author: 0xvan
+🔗 Link: https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80
+
