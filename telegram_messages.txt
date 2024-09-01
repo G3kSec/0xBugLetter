@@ -66,3 +66,7 @@
 ✍️ Author: 0xvan
 🔗 Link: https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80
 
+📌 The Wild World of Path Traversal: Sneaking Around the Web’s Dark Corners
+✍️ Author: zaythecluelessdev
+🔗 Link: https://medium.com/@cluelesszay/the-wild-world-of-path-traversal-sneaking-around-the-webs-dark-corners-088f5522e371
+
