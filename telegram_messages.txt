@@ -70,3 +70,11 @@
 ✍️ Author: zaythecluelessdev
 🔗 Link: https://medium.com/@cluelesszay/the-wild-world-of-path-traversal-sneaking-around-the-webs-dark-corners-088f5522e371
 
+📌 Hunting JavaScript Files for Bug Hunters
+✍️ Author: Vijay Gupta
+🔗 Link: https://medium.com/@bevijaygupta/hunting-javascript-files-for-bug-hunters-7355df2215ec
+
+📌 Advanced Techniques for Exploiting SSRF Vulnerabilities
+✍️ Author: BootstrapSecurity
+🔗 Link: https://medium.com/@bootstrapsecurity/advanced-techniques-for-exploiting-ssrf-vulnerabilities-9996cade3a64
+
