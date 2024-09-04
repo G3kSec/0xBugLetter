@@ -78,3 +78,11 @@
 ✍️ Author: BootstrapSecurity
 🔗 Link: https://medium.com/@bootstrapsecurity/advanced-techniques-for-exploiting-ssrf-vulnerabilities-9996cade3a64
 
+📌 Day 25 of 30 Day — 30 Vulnerabilities | HTTP Request Smuggling
+✍️ Author: Abhijeet kumawat
+🔗 Link: https://medium.com/@kumawatabhijeet2002/day-25-of-30-day-30-vulnerabilities-http-request-smuggling-722c3f01dbc4
+
+📌 How to Automate Subdomain Takeover Finding: Low Hang Fruit…🥭
+✍️ Author: Harpy Hunter
+🔗 Link: https://medium.com/@dkcyberz/how-to-automate-subdomain-takeover-finding-low-hang-fruit-5733f2794df1
+
