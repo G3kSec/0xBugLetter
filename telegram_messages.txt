@@ -86,3 +86,11 @@
 ✍️ Author: Harpy Hunter
 🔗 Link: https://medium.com/@dkcyberz/how-to-automate-subdomain-takeover-finding-low-hang-fruit-5733f2794df1
 
+📌 reNgine: Framework Otomatisasi Terbaik untuk Pengumpulan Informasi dan Pengujian Penetrasi Web!
+✍️ Author: Adrian Syah Abidin
+🔗 Link: https://medium.com/@adriansyah1230/rengine-framework-otomatisasi-terbaik-untuk-pengumpulan-informasi-dan-pengujian-penetrasi-web-13e338edff02
+
+📌 Zomatoooo! IDOR in Saved Payments
+✍️ Author: Prateek Srivastava
+🔗 Link: https://medium.com/@prateeksrivastavaa/zomatoooo-idor-in-saved-payments-f8c014879741
+
