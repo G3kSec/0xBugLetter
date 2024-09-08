@@ -94,3 +94,15 @@
 ✍️ Author: Prateek Srivastava
 🔗 Link: https://medium.com/@prateeksrivastavaa/zomatoooo-idor-in-saved-payments-f8c014879741
 
+📌 My recon methodology for hunting CVE-2021–42063 led to discovering an RXSS vulnerability in the…
+✍️ Author: Karthikeyan.V
+🔗 Link: https://medium.com/@karthithehacker/my-recon-methodology-for-hunting-cve-2021-42063-led-to-discovering-an-rxss-vulnerability-in-the-80bd4ca0f623
+
+📌 Bug Bounty Road 🛣️ Map 🗺️
+✍️ Author: Mr Abdullah
+🔗 Link: https://medium.com/the-first-digit/bug-bounty-road-️-map-️-b42c14750a6a
+
+📌 Dependency Confusion: A Namespace Takeover Story
+✍️ Author: Sakshi Rathore
+🔗 Link: https://medium.com/@sakshirathore3478/dependency-confusion-a-namespace-takeover-story-fa334533bd50
+
