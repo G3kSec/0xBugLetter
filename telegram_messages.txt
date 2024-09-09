@@ -106,3 +106,15 @@
 ✍️ Author: Sakshi Rathore
 🔗 Link: https://medium.com/@sakshirathore3478/dependency-confusion-a-namespace-takeover-story-fa334533bd50
 
+📌 How i found xss in goverment website with one tools.
+✍️ Author: Luthfi Sulthany
+🔗 Link: https://medium.com/@sulthanyluthfi/how-i-found-xss-in-goverment-website-with-one-tools-5dd5d431ed03
+
+📌 Discovering a Stored XSS Vulnerability on a Bug Bounty Program
+✍️ Author: Anmolvishwakarma
+🔗 Link: https://medium.com/@anmolvishwakarma7466/discovering-a-stored-xss-vulnerability-on-a-bug-bounty-program-8dad1b475695
+
+📌 Nmap: The Best Network Scanning Utility for Security Expert
+✍️ Author: Mohan Mecktro
+🔗 Link: https://medium.com/@mohanmecktro/nmap-the-best-network-scanning-utility-for-security-expert-ea7a6fd01efb
+
