@@ -118,3 +118,11 @@
 ✍️ Author: Mohan Mecktro
 🔗 Link: https://medium.com/@mohanmecktro/nmap-the-best-network-scanning-utility-for-security-expert-ea7a6fd01efb
 
+📌 Optimal Ethical Hacker Setup for Penetration Testing
+✍️ Author: Ajay Naik
+🔗 Link: https://medium.com/@ajaynaikhack/optimal-ethical-hacker-setup-for-penetration-testing-4847a8afbe45
+
+📌 From Basics to Advanced: SQL Injection Types, Payloads
+✍️ Author: BootstrapSecurity
+🔗 Link: https://medium.com/@bootstrapsecurity/sql-injection-types-payloads-vulnerabilities-508a180c339b
+
