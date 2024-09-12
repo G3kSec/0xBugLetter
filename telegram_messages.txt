@@ -126,3 +126,15 @@
 ✍️ Author: BootstrapSecurity
 🔗 Link: https://medium.com/@bootstrapsecurity/sql-injection-types-payloads-vulnerabilities-508a180c339b
 
+📌 Introducing FavFreak: Unlock the Power of Favicon Hashing for Bug Bounty Hunting
+✍️ Author: Cyber Sentinel X
+🔗 Link: https://medium.com/@unreal_umber_hyena_37/introducing-favfreak-unlock-the-power-of-favicon-hashing-for-bug-bounty-hunting-0361dbb629c3
+
+📌 How I got RCE on an Indian university without admin credentials Tale of directory listing, SQL…
+✍️ Author: Alimuhammadsecured
+🔗 Link: https://medium.com/@alimuhammadsecured/how-i-got-rce-on-an-indian-university-without-admin-credentials-tale-of-directory-listing-sql-1f77e2933011
+
+📌 How to Bypass OTP: Understanding OTP Bypass Techniques for Penetration Testing
+✍️ Author: BootstrapSecurity
+🔗 Link: https://medium.com/@bootstrapsecurity/how-to-bypass-otp-bypass-techniques-for-penetration-testing-76feb3254c7f
+
