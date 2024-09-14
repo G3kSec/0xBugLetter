@@ -138,3 +138,15 @@
 ✍️ Author: BootstrapSecurity
 🔗 Link: https://medium.com/@bootstrapsecurity/how-to-bypass-otp-bypass-techniques-for-penetration-testing-76feb3254c7f
 
+📌 Telnet Takedown: The Port 23 Exploit on Metasploitable 2, Part III
+✍️ Author: Taahir Mujawarr
+🔗 Link: https://medium.com/@thefellowhacker/telnet-takedown-the-port-23-exploit-on-metasploitable-2-part-iii-a10a6e15b468
+
+📌 Open Redirect via Image Upload
+✍️ Author: Osamamohamed
+🔗 Link: https://medium.com/@osamamohamed21212121/open-redirect-via-image-upload-bf6f87f8d447
+
+📌 #2 ANOTHER EASY BUG- HTML INJECTION
+✍️ Author: Josekutty Kunnelthazhe Binu
+🔗 Link: https://medium.com/@josuofficial327/2-another-easy-bug-html-injection-0447a79b6c66
+
