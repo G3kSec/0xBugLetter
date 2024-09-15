@@ -150,3 +150,7 @@
 ✍️ Author: Josekutty Kunnelthazhe Binu
 🔗 Link: https://medium.com/@josuofficial327/2-another-easy-bug-html-injection-0447a79b6c66
 
+📌 Critical Data Breach Exposed: A Deep Dive into a Government Agency’s Security Flaw
+✍️ Author: Adnan K S
+🔗 Link: https://medium.com/@contact.adnanks/critical-data-breach-exposed-a-deep-dive-into-a-government-agencys-security-flaw-3c4a9b431de6
+
