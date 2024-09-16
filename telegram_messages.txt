@@ -154,3 +154,11 @@
 ✍️ Author: Adnan K S
 🔗 Link: https://medium.com/@contact.adnanks/critical-data-breach-exposed-a-deep-dive-into-a-government-agencys-security-flaw-3c4a9b431de6
 
+📌 Subdomain Takeovers for Beginners
+✍️ Author: Hicham Almakroudi
+🔗 Link: https://medium.com/@hichamalmakroudi/subdomain-takeovers-for-beginners-a51ed74db543
+
+📌 How i got 100$ bounty
+✍️ Author: bughunter
+🔗 Link: https://medium.com/@mukkumukku110/how-i-got-100-bounty-b3dd58e82e00
+
