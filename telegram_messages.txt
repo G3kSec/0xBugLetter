@@ -162,3 +162,11 @@
 ✍️ Author: bughunter
 🔗 Link: https://medium.com/@mukkumukku110/how-i-got-100-bounty-b3dd58e82e00
 
+📌 Subdomain takeover amazon S3
+✍️ Author: Hicham Almakroudi
+🔗 Link: https://medium.com/@hichamalmakroudi/subdomain-takeover-amazon-s3-21de0af8a1d3
+
+📌 How to Set Up Proxychains in Kali Linux
+✍️ Author: Vignesh P
+🔗 Link: https://medium.com/@vignesh6872610/how-to-set-up-proxychains-in-kali-linux-ddd44c3502af
+
