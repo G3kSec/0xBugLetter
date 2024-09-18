@@ -170,3 +170,15 @@
 ✍️ Author: Vignesh P
 🔗 Link: https://medium.com/@vignesh6872610/how-to-set-up-proxychains-in-kali-linux-ddd44c3502af
 
+📌 A bypass on GitLab’s Login Email Verification via OAuth ROPC flow.
+✍️ Author: cybxis
+🔗 Link: https://medium.com/@cybxis/a-bypass-on-gitlabs-login-email-verification-via-oauth-ropc-flow-e194242cad96
+
+📌 From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws
+✍️ Author: Vishal Vishwakarma
+🔗 Link: https://medium.com/@rootxvishal/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e
+
+📌 How I Found Live Traffic Exposure on a Public Server: One of my interesting findings
+✍️ Author: Josekutty Kunnelthazhe Binu
+🔗 Link: https://medium.com/@josuofficial327/how-i-found-live-traffic-exposure-on-a-public-server-one-of-my-interesting-findings-0ecde16813a8
+
