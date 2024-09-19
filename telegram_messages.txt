@@ -182,3 +182,11 @@
 ✍️ Author: Josekutty Kunnelthazhe Binu
 🔗 Link: https://medium.com/@josuofficial327/how-i-found-live-traffic-exposure-on-a-public-server-one-of-my-interesting-findings-0ecde16813a8
 
+📌 How I Utilized AI to Discover an Amazon S3 Bucket Takeover Vulnerability in Red Bull’s Bug Bounty…
+✍️ Author: Mohamed Saqib C
+🔗 Link: https://medium.com/@mohamedsaqibc/how-i-utilized-ai-to-discover-an-amazon-s3-bucket-takeover-vulnerability-in-red-bulls-bug-bounty-503d3c4d995f
+
+📌 Hacking-Hub Messagebox (write-up)
+✍️ Author: sys_br3ach3r
+🔗 Link: https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5
+
