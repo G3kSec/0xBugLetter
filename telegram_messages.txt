@@ -190,3 +190,11 @@
 ✍️ Author: sys_br3ach3r
 🔗 Link: https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5
 
+📌 Primary Hacking School #2 After Installing Kali
+✍️ Author: NnFace
+🔗 Link: https://medium.com/@nnface/primary-hacking-school-2-after-installing-kali-6a226c68e7de
+
+📌 How to install Bug Bounty Hunting Tools on Linux and Windows by using Golang(Go)[ProjectDiscovery]
+✍️ Author: OxLegacy52
+🔗 Link: https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c
+
