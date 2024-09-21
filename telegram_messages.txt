@@ -198,3 +198,11 @@
 ✍️ Author: OxLegacy52
 🔗 Link: https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c
 
+📌 Bug Bounty Dark Reality: The Hidden Truth of Successful Bug Hunting
+✍️ Author: Yash Pawar @HackersParadise
+🔗 Link: https://medium.com/@yashpawar1199/bug-bounty-dark-reality-the-hidden-truth-of-successful-bug-hunting-0b9ed547802d
+
+📌 Finding a easy p4
+✍️ Author: loyalonlytoday
+🔗 Link: https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a
+
