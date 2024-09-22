@@ -206,3 +206,11 @@
 ✍️ Author: loyalonlytoday
 🔗 Link: https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a
 
+📌 Accessing full history of Firepad users.
+✍️ Author: Aditya Ahuja
+🔗 Link: https://medium.com/@adityaahuja.work/accessing-full-history-of-firepad-users-ddc889e73936
+
+📌 test:test type of bug
+✍️ Author: Omar ElSayed
+🔗 Link: https://medium.com/@bxrowski0x/test-test-type-of-bug-cfb352d9bf85
+
