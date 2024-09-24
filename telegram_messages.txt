@@ -222,3 +222,15 @@
 ✍️ Author: 1day
 🔗 Link: https://medium.com/@1-day/how-i-hacked-into-a-nationwide-university-database-system-exposing-thousands-of-student-records-65dce4e4ee23
 
+📌 When a Session Token Isn’t Enough, A Full Account Takeover Story
+✍️ Author: Ahmed Ramadan
+🔗 Link: https://medium.com/@ahmedramadan.ar16148/when-a-session-token-isnt-enough-a-full-account-takeover-story-cf99421bb1e3
+
+📌 Unauthenticated API Endpoint to Create Support Ticket Worth $500
+✍️ Author: the_unlucky_guy
+🔗 Link: https://medium.com/@vijetareigns/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00
+
+📌 Automate Bug Hunting  With This Tool
+✍️ Author: Josekutty Kunnelthazhe Binu
+🔗 Link: https://medium.com/@josuofficial327/automate-bug-hunting-with-this-tool-68dfbbaaa0b1
+
