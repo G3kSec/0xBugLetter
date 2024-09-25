@@ -234,3 +234,11 @@
 ✍️ Author: Josekutty Kunnelthazhe Binu
 🔗 Link: https://medium.com/@josuofficial327/automate-bug-hunting-with-this-tool-68dfbbaaa0b1
 
+📌 Mendapatkan Akses SMTP Melalui Celah SQL Injection
+✍️ Author: Radian ID
+🔗 Link: https://medium.com/@rdnzx/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e
+
+📌 Mendapatkan Akses SMTP Melalui Celah SQL Injection
+✍️ Author: Radian ID
+🔗 Link: https://medium.com/@rdnzx/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e
+
