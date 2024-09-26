@@ -242,3 +242,11 @@
 ✍️ Author: Radian ID
 🔗 Link: https://medium.com/@rdnzx/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e
 
+📌 Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and…
+✍️ Author: codingbolt
+🔗 Link: https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631
+
+📌 How I proved impact with Google Map API Key
+✍️ Author: r0b0ts
+🔗 Link: https://medium.com/@r0b0ts/how-i-proved-impact-with-google-map-api-key-7aa801616abb
+
