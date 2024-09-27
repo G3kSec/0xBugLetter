@@ -250,3 +250,11 @@
 ✍️ Author: r0b0ts
 🔗 Link: https://medium.com/@r0b0ts/how-i-proved-impact-with-google-map-api-key-7aa801616abb
 
+📌 Finding subdomains using security trails api key
+✍️ Author: loyalonlytoday
+🔗 Link: https://medium.com/the-first-digit/finding-subdomains-using-security-trails-api-key-8b45d5a4629e
+
+📌 Exploiting XSS to perform CSRF
+✍️ Author: codingbolt
+🔗 Link: https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd
+
