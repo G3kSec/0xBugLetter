@@ -258,3 +258,7 @@
 ✍️ Author: codingbolt
 🔗 Link: https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd
 
+📌 It’s not a bug. It really is a feature.
+✍️ Author: Cloette Zager with FranGuardian Corporation
+🔗 Link: https://medium.com/@info_11548/its-not-a-bug-it-really-is-a-feature-b758f1454970
+
