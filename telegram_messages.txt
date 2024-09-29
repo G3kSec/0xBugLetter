@@ -262,3 +262,15 @@
 ✍️ Author: Cloette Zager with FranGuardian Corporation
 🔗 Link: https://medium.com/@info_11548/its-not-a-bug-it-really-is-a-feature-b758f1454970
 
+📌 Exploring the Role of Port Scanning in Bug Bounty Hunting
+✍️ Author: Vijay Gupta
+🔗 Link: https://medium.com/@bevijaygupta/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-a365e9006b6e
+
+📌 SQL injection attack, querying the database type and version on MySQL and Microsoft
+✍️ Author: codingbolt
+🔗 Link: https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-162715c6cd0e
+
+📌 Exploring the Role of Port Scanning in Bug Bounty Hunting
+✍️ Author: Vijay Gupta
+🔗 Link: https://medium.com/@bevijaygupta/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-a365e9006b6e
+
