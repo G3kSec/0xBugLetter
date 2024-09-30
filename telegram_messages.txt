@@ -274,3 +274,7 @@
 ✍️ Author: Vijay Gupta
 🔗 Link: https://medium.com/@bevijaygupta/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-a365e9006b6e
 
+📌 OWASP juice-shop login as an admin using SQLi and OSINT
+✍️ Author: Abdullah Ahmed
+🔗 Link: https://medium.com/@abdo-eg/owasp-juice-shop-login-as-an-admin-using-sqli-and-osint-90c4abc4322b
+
