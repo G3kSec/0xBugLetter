@@ -278,3 +278,11 @@
 ✍️ Author: Abdullah Ahmed
 🔗 Link: https://medium.com/@abdo-eg/owasp-juice-shop-login-as-an-admin-using-sqli-and-osint-90c4abc4322b
 
+📌 SQL Injection vulnerability in CRMEB v.5.2.2 — $$$$ Bounty
+✍️ Author: Ajay Naik
+🔗 Link: https://medium.com/@ajaynaikhack/sql-injection-vulnerability-in-crmeb-v-5-2-2-bounty-7bc056a19cce
+
+📌 Easy P2 — Pre account takeover via Facebook OAuth misconfiguration
+✍️ Author: sudosuraj
+🔗 Link: https://medium.com/@sudosuraj/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07
+
