@@ -286,3 +286,11 @@
 ✍️ Author: sudosuraj
 🔗 Link: https://medium.com/@sudosuraj/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07
 
+📌 4 Burpsuite Intruder Attack Types You Should Know —Bug Tuesday
+✍️ Author: kerstan
+🔗 Link: https://medium.com/@kerstan/4-burpsuite-intruder-attack-types-you-should-know-bug-tuesday-5c7a0900cb56
+
+📌 Escalating stored XSS to Account Takeover
+✍️ Author: Nyein Chan Aung
+🔗 Link: https://medium.com/@nyein-chan-aung/escalating-stored-xss-to-account-takeover-28c549cd5f6b
+
