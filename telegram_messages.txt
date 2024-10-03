@@ -294,3 +294,11 @@
 ✍️ Author: Nyein Chan Aung
 🔗 Link: https://medium.com/@nyein-chan-aung/escalating-stored-xss-to-account-takeover-28c549cd5f6b
 
+📌 SQL injection UNION attack, finding a column containing text
+✍️ Author: codingbolt
+🔗 Link: https://medium.com/@codingbolt.in/sql-injection-union-attack-finding-a-column-containing-text-09d913162e0f
+
+📌 SQL injection attack, listing the database contents on Oracle
+✍️ Author: codingbolt
+🔗 Link: https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32
+
