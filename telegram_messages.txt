@@ -302,3 +302,15 @@
 ✍️ Author: codingbolt
 🔗 Link: https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32
 
+📌 Write-Up — Telegram Anonymous Chat Hack Bot
+✍️ Author: EroHack
+🔗 Link: https://medium.com/@EroHack/write-up-telegram-anonymous-chat-hack-bot-ad3497f813ed
+
+📌 VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website
+✍️ Author: enigma
+🔗 Link: https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c
+
+📌 GraphQL vs REST: Comparison and exploit
+✍️ Author: Kabi_777
+🔗 Link: https://medium.com/@kabi_777/graphql-vs-rest-comparison-and-security-insights-f481f3389e43
+
