@@ -314,3 +314,11 @@
 ✍️ Author: Kabi_777
 🔗 Link: https://medium.com/@kabi_777/graphql-vs-rest-comparison-and-security-insights-f481f3389e43
 
+📌 My First XSS Vulnerability Discovery on WebApp
+✍️ Author: Sulton hasan
+🔗 Link: https://medium.com/@sultonhasan017/my-first-xss-vulnerability-discovery-on-webapp-60cfad40f67a
+
+📌 Sensitive Data Leak using Cors Misconfiguration in prominent Domain Registrar
+✍️ Author: Ronak Patel
+🔗 Link: https://medium.com/@ronak-9889/sensitive-data-leak-using-cors-misconfiguration-in-prominent-domain-registrar-b3010e4e6501
+
