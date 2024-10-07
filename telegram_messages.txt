@@ -322,3 +322,15 @@
 ✍️ Author: Ronak Patel
 🔗 Link: https://medium.com/@ronak-9889/sensitive-data-leak-using-cors-misconfiguration-in-prominent-domain-registrar-b3010e4e6501
 
+📌 Asset discovery with favicon hash.
+✍️ Author: loyalonlytoday
+🔗 Link: https://medium.com/the-first-digit/asset-discovery-with-favicon-hash-515d1c8a85cd
+
+📌 Race Condition , Allows creation of unlimited projects, bypassing free-tier limits.
+✍️ Author: Mahmoud Hatem (0xDark)
+🔗 Link: https://medium.com/@dark0x/race-condition-allows-creation-of-unlimited-projects-bypassing-free-tier-limits-109dd91c6783
+
+📌 File Upload Vulnerabilities
+✍️ Author: MkNayek
+🔗 Link: https://medium.com/@mknayek101/file-upload-vulnerabilities-fde628c84d71
+
