@@ -334,3 +334,7 @@
 ✍️ Author: MkNayek
 🔗 Link: https://medium.com/@mknayek101/file-upload-vulnerabilities-fde628c84d71
 
+📌 How I Got my First Bounty €€ ?
+✍️ Author: Murali Dharan
+🔗 Link: https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0
+
