@@ -338,3 +338,11 @@
 ✍️ Author: Murali Dharan
 🔗 Link: https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0
 
+📌 Account Takeover via Hidden Parameters in BBP
+✍️ Author: CYB3RC4T
+🔗 Link: https://medium.com/@cyb3rc4t/account-takeover-via-hidden-parameters-in-bbp-f65ce42ca96f
+
+📌 How I got a 5000 $ Bounty from Microsoft
+✍️ Author: Bashir Mohamed
+🔗 Link: https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7
+
