@@ -346,3 +346,11 @@
 ✍️ Author: Bashir Mohamed
 🔗 Link: https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7
 
+📌 Finding a no ratelimit bug on invite teammate page.
+✍️ Author: loyalonlytoday
+🔗 Link: https://medium.com/the-first-digit/finding-a-no-ratelimit-bug-on-invite-teammate-page-02c97e845b00
+
+📌 No Easy P1s on the fly if your site runs WP or Drupal
+✍️ Author: JAI NIRESH J
+🔗 Link: https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b
+
