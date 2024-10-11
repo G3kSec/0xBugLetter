@@ -354,3 +354,15 @@
 ✍️ Author: JAI NIRESH J
 🔗 Link: https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b
 
+📌 Critical IDOR Vulnerability leads to PII leakage
+✍️ Author: Snc0pe
+🔗 Link: https://medium.com/@snc0pe/critical-idor-vulnerability-leads-to-pii-leakage-684795ede850
+
+📌 Easy P1s on the fly if your site runs WP or Drupal
+✍️ Author: JAI NIRESH J
+🔗 Link: https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b
+
+📌 The Truth About Bug Bounty Hunting.
+✍️ Author: The Hunt Tribe
+🔗 Link: https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0
+
