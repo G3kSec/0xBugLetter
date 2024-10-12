@@ -366,3 +366,11 @@
 ✍️ Author: The Hunt Tribe
 🔗 Link: https://medium.com/@thebughunttribe/the-truth-about-bug-bounty-hunting-597e54acd2a0
 
+📌 Broken Access Control Vulnerability in an Order Management System
+✍️ Author: Omdubey
+🔗 Link: https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926
+
+📌 Introduction to Netcat
+✍️ Author: N4!TR0 07
+🔗 Link: https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756
+
