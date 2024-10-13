@@ -374,3 +374,15 @@
 ✍️ Author: N4!TR0 07
 🔗 Link: https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756
 
+📌 Unlocking Some Effective Information Gathering Methodologies
+✍️ Author: Prasanna Acharya
+🔗 Link: https://medium.com/@prasanna.acharya/unlocking-some-effective-information-gathering-methodologies-1f67787019d1
+
+📌 How I Discovered Account Takeover (ATO) via Cross-Site Scripting (XSS)
+✍️ Author: JEETPAL
+🔗 Link: https://medium.com/the-first-digit/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009
+
+📌 Uncovering Path Traversal Through Host Monitoring
+✍️ Author: ABDELKARIM MOUCHQUELITA
+🔗 Link: https://medium.com/@mchklt/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5
+
