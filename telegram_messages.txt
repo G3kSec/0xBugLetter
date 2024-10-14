@@ -386,3 +386,11 @@
 ✍️ Author: ABDELKARIM MOUCHQUELITA
 🔗 Link: https://medium.com/@mchklt/uncovering-path-traversal-vulnerabilities-through-host-monitoring-c8abb65f48f5
 
+📌 OAuth Misconfiguration: How I Hijacked Accounts with 0 Clicks and Got Paid! 💰
+✍️ Author: Raunak Gupta Aka Biscuit
+🔗 Link: https://medium.com/the-first-digit/oauth-misconfiguration-how-i-hijacked-accounts-with-0-clicks-and-got-paid-df8f7a20b438
+
+📌 Breaking the Game: Score Manipulation and Leaderboard Takeover
+✍️ Author: Aminudin
+🔗 Link: https://medium.com/@aminudin/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060
+
