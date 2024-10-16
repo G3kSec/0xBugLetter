@@ -394,3 +394,15 @@
 ✍️ Author: Aminudin
 🔗 Link: https://medium.com/@aminudin/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060
 
+📌 Admin Panel Takeover Using a Leaky JS File
+✍️ Author: Raunak Gupta Aka Biscuit
+🔗 Link: https://medium.com/@RaunakGupta1922/admin-panel-takeover-using-a-leaky-js-file-dc41fac0f86d
+
+📌 Phone Number Takeover via OTP Bypass in inDrive
+✍️ Author: Regan Temudo
+🔗 Link: https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047
+
+📌 My First Cybersec Internship
+✍️ Author: Krishna
+🔗 Link: https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63
+
