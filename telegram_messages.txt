@@ -406,3 +406,7 @@
 ✍️ Author: Krishna
 🔗 Link: https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63
 
+📌 Birdie Flies in to Save the Day: Our Custom Bug Tracking Tool for Android & iOS Apps
+✍️ Author: Probo
+🔗 Link: https://medium.com/probo-engineering/birdie-flies-in-to-save-the-day-our-custom-bug-tracking-tool-for-android-ios-apps-3834ab2bc434
+
