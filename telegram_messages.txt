@@ -410,3 +410,11 @@
 ✍️ Author: Probo
 🔗 Link: https://medium.com/probo-engineering/birdie-flies-in-to-save-the-day-our-custom-bug-tracking-tool-for-android-ios-apps-3834ab2bc434
 
+📌 Electron JS Application Penetration Testing
+✍️ Author: Ajay Naik
+🔗 Link: https://medium.com/@ajaynaikhack/electron-js-application-penetration-testing-b0809af324f6
+
+📌 Use Case: Bypassing In-App Purchase By Payment Client-Side Validation
+✍️ Author: Mohamed K. Fathy
+🔗 Link: https://medium.com/@secfathy0x1/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c
+
