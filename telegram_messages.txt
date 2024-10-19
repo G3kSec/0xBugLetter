@@ -418,3 +418,7 @@
 ✍️ Author: Mohamed K. Fathy
 🔗 Link: https://medium.com/@secfathy0x1/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c
 
+📌 Exploiting Session Fixation via Stored XSS and Cookie Jar Overflow Attack
+✍️ Author: Akash c
+🔗 Link: https://medium.com/@akashc99/exploiting-session-fixation-via-stored-xss-and-cookie-jar-overflow-attack-7cf8d60e1f9e
+
