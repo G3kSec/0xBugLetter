@@ -422,3 +422,15 @@
 ✍️ Author: Akash c
 🔗 Link: https://medium.com/@akashc99/exploiting-session-fixation-via-stored-xss-and-cookie-jar-overflow-attack-7cf8d60e1f9e
 
+📌 🔴From JavaScript Analysis To UUID Pattern Exploration Revealed a Critical IDOR!
+✍️ Author: CyberOz
+🔗 Link: https://medium.com/@ozomarzu/from-javascript-analysis-to-uuid-pattern-exploration-revealed-a-critical-idor-5c526451e7ec
+
+📌 How I Found a Subdomain Takeover Bug and Earned a $500 Bounty
+✍️ Author: D2Cy
+🔗 Link: https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994
+
+📌 My Bug Hunting Journey Begins
+✍️ Author: Ahmad Syahmi
+🔗 Link: https://medium.com/@ahmsyhmi/my-bug-hunting-journey-begins-c75c291ffe9c
+
