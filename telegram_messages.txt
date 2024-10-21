@@ -434,3 +434,11 @@
 ✍️ Author: Ahmad Syahmi
 🔗 Link: https://medium.com/@ahmsyhmi/my-bug-hunting-journey-begins-c75c291ffe9c
 
+📌 The Deceptive Dance of Self-XSS: How to Protect Yourself from Your Own Browser
+✍️ Author: Mrutunjaya Senapati
+🔗 Link: https://medium.com/@mrutunjayasenapati0/the-deceptive-dance-of-self-xss-how-to-protect-yourself-from-your-own-browser-303ffe642073
+
+📌 How i tricked Crypto Trading Site into sending Dangerous email to it’s Users
+✍️ Author: Rahulkrishnan R Panicker
+🔗 Link: https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f
+
