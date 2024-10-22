@@ -442,3 +442,11 @@
 ✍️ Author: Rahulkrishnan R Panicker
 🔗 Link: https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f
 
+📌 Requisições Web  —  Tudo que você deve saber para começar em cybersegurança
+✍️ Author: Marília Rocha
+🔗 Link: https://medium.com/@malwarilia/requisições-web-tudo-que-você-deve-saber-para-começar-em-cybersegurança-ef01a89b250c
+
+📌 Bug Bounty Methodology for SQL Injection with Waybash URLs
+✍️ Author: Imhunterand
+🔗 Link: https://medium.com/@pwn0sec/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa
+
