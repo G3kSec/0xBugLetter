@@ -450,3 +450,15 @@
 ✍️ Author: Imhunterand
 🔗 Link: https://medium.com/@pwn0sec/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa
 
+📌 Breaking Boundaries: Discovering Session Invalidation Failures in User Roles
+✍️ Author: Hawkeye
+🔗 Link: https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2
+
+📌 Forget password OTP flaw lead to Account Takeover.
+✍️ Author: BUG HUNTER
+🔗 Link: https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b
+
+📌 Ultimately, both Red and Blue Teams play vital roles in securing today’s digital landscape, and…
+✍️ Author: Rishav anand
+🔗 Link: https://medium.com/@anandrishav2228/ultimately-both-red-and-blue-teams-play-vital-roles-in-securing-todays-digital-landscape-and-2ad19c30748d
+
