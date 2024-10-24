@@ -462,3 +462,15 @@
 ✍️ Author: Rishav anand
 🔗 Link: https://medium.com/@anandrishav2228/ultimately-both-red-and-blue-teams-play-vital-roles-in-securing-todays-digital-landscape-and-2ad19c30748d
 
+📌 Entering The Dark Web And Explaining The Art Of Deep Anonymity | Primary Hacking School #8
+✍️ Author: NnFace
+🔗 Link: https://medium.com/@nnface/entering-the-dark-web-and-explaining-the-art-of-deep-anonymity-primary-hacking-school-8-20239706e4fc
+
+📌 50€ Rabbit Hole — Plain as Cake Bugs
+✍️ Author: Abu Hurayra
+🔗 Link: https://medium.com/@rootplinix/50-rabbit-hole-plain-as-cake-bugs-e3e0940f93ce
+
+📌 Stored XSS Critical or NOT?
+✍️ Author: Whoami
+🔗 Link: https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029
+
