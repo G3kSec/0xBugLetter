@@ -474,3 +474,15 @@
 ✍️ Author: Whoami
 🔗 Link: https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029
 
+📌 Red Hat SSO 7.6 Host Header Injection Vulnerability
+✍️ Author: Mark R.
+🔗 Link: https://medium.com/@mark.roy.1337/exploiting-and-securing-red-hat-sso-7-6-host-header-injection-vulnerability-654424f6889a
+
+📌 Unreleased function leads to 150$ bounty
+✍️ Author: Noureldin(0x_5wf)
+🔗 Link: https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8
+
+📌 Bugcrowd Triage is Terrible
+✍️ Author: Cybersecnoneed
+🔗 Link: https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff
+
