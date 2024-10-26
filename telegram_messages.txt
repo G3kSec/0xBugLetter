@@ -486,3 +486,7 @@
 ✍️ Author: Cybersecnoneed
 🔗 Link: https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff
 
+📌 My step by step process on how I do Bug Bounty Program: From finding targets to Submission of the…
+✍️ Author: Pwndec0c0
+🔗 Link: https://medium.com/@pwndecoco/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3
+
