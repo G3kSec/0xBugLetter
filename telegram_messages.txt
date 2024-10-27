@@ -490,3 +490,15 @@
 ✍️ Author: Pwndec0c0
 🔗 Link: https://medium.com/@pwndecoco/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3
 
+📌 Bug Bounty with AI in Real-Time: The Future of Cybersecurity
+✍️ Author: Lets Unlearn
+🔗 Link: https://medium.com/@prakash888kpk/bug-bounty-with-ai-in-real-time-the-future-of-cybersecurity-b3f783c7f0de
+
+📌 SQL Injections and the cute $2000 bounty
+✍️ Author: JAI NIRESH J
+🔗 Link: https://medium.com/@nireshpandian19/sql-injections-and-the-cute-2000-bounty-2d18441ee0e3
+
+📌 How To Choose Self-Hosted Bug Bounty Program | Programs Insights
+✍️ Author: the_air_cyborg
+🔗 Link: https://medium.com/@the.air.cyborg/how-to-choose-self-hosted-bug-bounty-program-programs-insights-01b0297c6b21
+
