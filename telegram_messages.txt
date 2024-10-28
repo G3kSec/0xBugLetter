@@ -502,3 +502,15 @@
 ✍️ Author: the_air_cyborg
 🔗 Link: https://medium.com/@the.air.cyborg/how-to-choose-self-hosted-bug-bounty-program-programs-insights-01b0297c6b21
 
+📌 How I Leveraged HTML Injection to Create an Account Using Someone Else’s Email
+✍️ Author: Devansh
+🔗 Link: https://medium.com/@D2Cy/how-i-leveraged-html-injection-to-create-an-account-using-someone-elses-email-b80f83ab9465
+
+📌 My Roadmap and the Tools I plan to use to aid my journey.
+✍️ Author: Cybersec with Hemmars
+🔗 Link: https://medium.com/@cybersechemmars/my-roadmap-and-the-tools-i-plan-to-use-to-aid-my-journey-4f720504fce6
+
+📌 Dependency Confusion Unleashed: How One Misconfiguration Can Compromise an Entire System
+✍️ Author: omar gamal
+🔗 Link: https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341
+
