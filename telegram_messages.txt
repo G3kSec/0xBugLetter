@@ -514,3 +514,11 @@
 ✍️ Author: omar gamal
 🔗 Link: https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341
 
+📌 Blind Cross Site Scripting in License Application
+✍️ Author: Abdullah
+🔗 Link: https://medium.com/@abdullah12987654/blind-cross-site-scripting-in-license-application-aa865c0e0496
+
+📌 Breaking Down My Bug Bounty Find: Exploiting EC-Council’s iClass Platform
+✍️ Author: Salaheddine KALADA
+🔗 Link: https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460
+
