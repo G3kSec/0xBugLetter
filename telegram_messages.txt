@@ -522,3 +522,7 @@
 ✍️ Author: Salaheddine KALADA
 🔗 Link: https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460
 
+📌 How I Started My Bug Bounty Journey…!!!
+✍️ Author: Harsh Bardhan
+🔗 Link: https://medium.com/@harshbardhanx/how-i-started-my-bug-bounty-journey-1b9683fa6252
+
