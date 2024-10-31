@@ -526,3 +526,15 @@
 ✍️ Author: Harsh Bardhan
 🔗 Link: https://medium.com/@harshbardhanx/how-i-started-my-bug-bounty-journey-1b9683fa6252
 
+📌 My First Remote Code Execution (RCE)
+✍️ Author: Prasenjit Kanti Paul
+🔗 Link: https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f
+
+📌 Lets Get into the Real field.
+✍️ Author: Harsh Bardhan
+🔗 Link: https://medium.com/@harshbardhanx/lets-get-into-the-real-field-b2c9278d0b63
+
+📌 Lets Get into the Real field.
+✍️ Author: Harsh Bardhan
+🔗 Link: https://medium.com/@harshbardhanx/lets-get-into-the-real-field-b2c9278d0b63
+
