@@ -538,3 +538,11 @@
 ✍️ Author: Harsh Bardhan
 🔗 Link: https://medium.com/@harshbardhanx/lets-get-into-the-real-field-b2c9278d0b63
 
+📌 💥 7 Real-Life Bug Bounties That Made Headlines: Lessons You Can’t Afford to Miss! 🚀
+✍️ Author: Qasim Mahmood Khalid
+🔗 Link: https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa
+
+📌 Tale of Zendesk 0 day and a potential 25K $ bounty
+✍️ Author: Rikesh Baniya
+🔗 Link: https://medium.com/@rikeshbaniya/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06
+
