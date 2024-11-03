@@ -546,3 +546,11 @@
 ✍️ Author: Rikesh Baniya
 🔗 Link: https://medium.com/@rikeshbaniya/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06
 
+📌 My Journey as a Bug Bounty Hunter and Web3 Enthusiast: Tips for Beginners
+✍️ Author: Veerendra Vamshi
+🔗 Link: https://medium.com/@veerendravamshi/my-journey-as-a-bug-bounty-hunter-and-web3-enthusiast-tips-for-beginners-50aa0bfbfc78
+
+📌 Simple Tips for Bug Bounty Beginners: Escalating to XSS (XSS Series Part — 2)
+✍️ Author: Anish Narayan
+🔗 Link: https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-escalating-to-xss-xss-series-part-2-1d6b75ecf942
+
