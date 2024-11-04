@@ -554,3 +554,7 @@
 ✍️ Author: Anish Narayan
 🔗 Link: https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-escalating-to-xss-xss-series-part-2-1d6b75ecf942
 
+📌 AcquiFinder | a tool to grab acquisitions of a company by Crunchbase
+✍️ Author: xLe0x
+🔗 Link: https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813
+
