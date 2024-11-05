@@ -558,3 +558,11 @@
 ✍️ Author: xLe0x
 🔗 Link: https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813
 
+📌 📢 Columbus Ransomware Attack: Data of 500,000 Stolen 🔒
+✍️ Author: WIRE TOR
+🔗 Link: https://medium.com/@wiretor/columbus-ransomware-attack-data-of-500-000-stolen-93076d58689c
+
+📌 The OAuth Oversight: When Configuration Errors Turn into Account Hijacks
+✍️ Author: Nightcoders
+🔗 Link: https://medium.com/@nightcoders0/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16
+
