@@ -566,3 +566,15 @@
 ✍️ Author: Nightcoders
 🔗 Link: https://medium.com/@nightcoders0/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16
 
+📌 How I Got Paid for an Out-of-Scope Vulnerability
+✍️ Author: Abdul Rehman Parkar
+🔗 Link: https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c
+
+📌 How I found my first bug!
+✍️ Author: Karim Mohamed
+🔗 Link: https://medium.com/@karim.engmohamed/how-i-found-my-first-bug-b1f21046deb7
+
+📌 Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity
+✍️ Author: Akash Ghosh
+🔗 Link: https://medium.com/@myselfakash20/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068
+
