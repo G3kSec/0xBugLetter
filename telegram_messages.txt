@@ -586,3 +586,11 @@
 ✍️ Author: Pwndec0c0
 🔗 Link: https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563
 
+📌 Advanced Google Dorking Techniques for Bug Bounty Hunting: Finding Responsible Disclosure Programs…
+✍️ Author: DiNeSh_PaThRo
+🔗 Link: https://medium.com/@dineshpathro9/advanced-google-dorking-techniques-for-bug-bounty-hunting-finding-responsible-disclosure-programs-5a00a0d9d0e9
+
+📌 Why is recon so very important? API key exposure by only recon
+✍️ Author: Karim Mohamed
+🔗 Link: https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3
+
