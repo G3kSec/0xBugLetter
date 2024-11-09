@@ -594,3 +594,7 @@
 ✍️ Author: Karim Mohamed
 🔗 Link: https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3
 
+📌 BugBounty — Mastering the Basics (along with Resources)[Part-3]
+✍️ Author: Abhinav Pathak
+🔗 Link: https://medium.com/@iabhipathak/bugbounty-mastering-the-basics-along-with-resources-part-3-1619f6854e20
+
