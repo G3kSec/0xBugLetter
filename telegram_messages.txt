@@ -598,3 +598,7 @@
 ✍️ Author: Abhinav Pathak
 🔗 Link: https://medium.com/@iabhipathak/bugbounty-mastering-the-basics-along-with-resources-part-3-1619f6854e20
 
+📌 CVE-2023–27350 : PaperCut Tryhackme Write up
+✍️ Author: Jawstar
+🔗 Link: https://medium.com/@jawstar/cve-2023-27350-papercut-tryhackme-write-up-2237fe48d3a7
+
