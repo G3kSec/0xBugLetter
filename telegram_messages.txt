@@ -602,3 +602,11 @@
 ✍️ Author: Jawstar
 🔗 Link: https://medium.com/@jawstar/cve-2023-27350-papercut-tryhackme-write-up-2237fe48d3a7
 
+📌 How I able to inject my malicious link in Email Confirmation Link ( Link Injection / Open Redirect…
+✍️ Author: Abdul Rehman Parkar
+🔗 Link: https://medium.com/@abdulparkar/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c
+
+📌 How a Unique Combination Opened the Door to an IDOR
+✍️ Author: Supun Halangoda (Suppa)
+🔗 Link: https://medium.com/@suppaboy/how-a-unique-combination-opened-the-door-to-an-idor-f44a3efe51e8
+
