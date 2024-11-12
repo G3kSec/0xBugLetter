@@ -610,3 +610,11 @@
 ✍️ Author: Supun Halangoda (Suppa)
 🔗 Link: https://medium.com/@suppaboy/how-a-unique-combination-opened-the-door-to-an-idor-f44a3efe51e8
 
+📌 P4 bug’s and their POC steps | Part 7 | $Easy Money$
+✍️ Author: socalledhacker
+🔗 Link: https://medium.com/@socalledhacker/p4-bugs-and-their-poc-steps-part-7-easy-money-d7cb9270f539
+
+📌 Exposing the Dark Side of Google Dorks: How I Extracted Millions of Emails.
+✍️ Author: Pwndec0c0
+🔗 Link: https://medium.com/@pwndecoco/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b
+
