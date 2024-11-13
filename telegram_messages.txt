@@ -618,3 +618,11 @@
 ✍️ Author: Pwndec0c0
 🔗 Link: https://medium.com/@pwndecoco/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b
 
+📌 How I Found an SQL Injection in coupon code
+✍️ Author: Ghee1337
+🔗 Link: https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720
+
+📌 How I Found an SQL Injection in coupon code
+✍️ Author: Ghee1337
+🔗 Link: https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720
+
