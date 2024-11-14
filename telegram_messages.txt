@@ -626,3 +626,11 @@
 ✍️ Author: Ghee1337
 🔗 Link: https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720
 
+📌 Easy Bug: How I Uncovered and Re-Exploited a Resolved Vulnerability from a Disclosed Report
+✍️ Author: Barbarossa
+🔗 Link: https://medium.com/@cvjvqmmsm/easy-bug-how-i-uncovered-and-re-exploited-a-resolved-vulnerability-from-a-disclosed-report-ab2211a98b7b
+
+📌 1500$ Open Reduction Bug: Performed Restricted Actions in login page
+✍️ Author: bugbounty_learners
+🔗 Link: https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2
+
