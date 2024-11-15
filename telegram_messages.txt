@@ -634,3 +634,15 @@
 ✍️ Author: bugbounty_learners
 🔗 Link: https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2
 
+📌 Account Takeover: How I Gained Access to Any User Account Through a Simple Registration Flaw
+✍️ Author: Amr
+🔗 Link: https://medium.com/@0d-amr/account-takeover-how-i-gained-access-to-any-user-account-through-a-simple-registration-flaw-96f9f6bdc0ae
+
+📌 My Journey to Drugs Hall of Fame in just 10 minutes
+✍️ Author: bugbounty_learners
+🔗 Link: https://medium.com/@bugbounty_learners/my-journey-to-drugs-hall-of-fame-in-just-10-minutes-dcd03240e42a
+
+📌 My First Remote Code Execution (RCE)
+✍️ Author: BongHaxor
+🔗 Link: https://medium.com/@bonghaxor/my-first-remote-code-execution-rce-ea9c3e32943f
+
