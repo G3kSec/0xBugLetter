@@ -646,3 +646,15 @@
 ✍️ Author: BongHaxor
 🔗 Link: https://medium.com/@bonghaxor/my-first-remote-code-execution-rce-ea9c3e32943f
 
+📌 New Script — Leakix CLI by VECERT
+✍️ Author: VECERT
+🔗 Link: https://medium.com/@vecert/new-script-leakix-cli-by-vecert-68abbf35d08d
+
+📌 3 reflected XSS in one program
+✍️ Author: Samet Yiğit
+🔗 Link: https://medium.com/@xsametyigit/3-reflected-xss-in-one-program-c50469c6d522
+
+📌 How I Escalated a Simple JWT from Archives to ATO!
+✍️ Author: Phantom 🇮🇳
+🔗 Link: https://medium.com/@phantom9863/how-i-escalated-a-simple-jwt-from-archives-to-ato-2544b913978f
+
