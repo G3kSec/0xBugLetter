@@ -658,3 +658,15 @@
 ✍️ Author: Phantom 🇮🇳
 🔗 Link: https://medium.com/@phantom9863/how-i-escalated-a-simple-jwt-from-archives-to-ato-2544b913978f
 
+📌 Bypass of Username Policy: Breaking the Rules with a Simple Trick
+✍️ Author: mrci0x1
+🔗 Link: https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c
+
+📌 Bypass of Username Policy: Breaking the Rules with a Simple Trick
+✍️ Author: mrci0x1
+🔗 Link: https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c
+
+📌 Journey to Bug Bounty Hunter in 12 Months
+✍️ Author: Robert Simpson
+🔗 Link: https://medium.com/@rwsimpson99/journey-to-bug-bounty-hunter-in-12-months-d0808cb13d66
+
