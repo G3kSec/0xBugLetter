@@ -686,3 +686,11 @@
 ✍️ Author: LS
 🔗 Link: https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917
 
+📌 Bypass Email Verification in Mozilla
+✍️ Author: Amr
+🔗 Link: https://medium.com/@0d-amr/bypass-email-verification-in-mozilla-2ab45ac36c42
+
+📌 How I Reported Over 50 security vulnerability in a Single Program with Just the Main App in Scope
+✍️ Author: Abdalah
+🔗 Link: https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644
+
