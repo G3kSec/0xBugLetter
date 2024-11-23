@@ -694,3 +694,11 @@
 ✍️ Author: Abdalah
 🔗 Link: https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644
 
+📌 Bug House Exterminator in Wilton: Your Ultimate Guide to a Pest-Free Home
+✍️ Author: Muhammadmohsinsiddique
+🔗 Link: https://medium.com/@muhammadmohsinsiddique46/bug-house-exterminator-in-wilton-your-ultimate-guide-to-a-pest-free-home-47d56773c394
+
+📌 Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
+
