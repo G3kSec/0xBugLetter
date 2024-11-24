@@ -702,3 +702,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/cybersecuritywriteups/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
 
+📌 GitTrash: Digging Deep into Git Repositories for Hidden Treasures
+✍️ Author: Sheryx00
+🔗 Link: https://medium.com/@sheryx00/gittrash-digging-deep-into-git-repositories-for-hidden-treasures-dfa6b3ff9251
+
