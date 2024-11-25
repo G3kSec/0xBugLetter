@@ -706,3 +706,11 @@
 ✍️ Author: Sheryx00
 🔗 Link: https://medium.com/@sheryx00/gittrash-digging-deep-into-git-repositories-for-hidden-treasures-dfa6b3ff9251
 
+📌 My Bug Bounty Hunting Methodology
+✍️ Author: Cybersec with Hemmars
+🔗 Link: https://medium.com/@cybersechemmars/my-bug-bounty-hunting-methodology-51ac0a891978
+
+📌 My Bug Bounty Hunting Methodology
+✍️ Author: Cybersec with Hemmars
+🔗 Link: https://medium.com/@cybersechemmars/my-bug-bounty-hunting-methodology-51ac0a891978
+
