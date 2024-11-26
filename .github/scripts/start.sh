@@ -42,13 +42,13 @@ fi
 # Verificar si 'notify' está instalado
 if ! command -v notify &> /dev/null; then
   echo -e "${YELLOW}'notify' no encontrado. Instalando...${NC}"
-  # Instalar notify usando Go
-  go install -v github.com/projectdiscovery/notify/cmd/notify@latest || {
+  mv ~/go/bin/notify /usr/local/bin || {
     echo -e "${RED}Error al instalar 'notify'.${NC}"
     exit 1
   }
 else
   echo -e "${GREEN}'notify' ya está instalado.${NC}"
+  
 fi
 
 # Crear el archivo config.yaml
