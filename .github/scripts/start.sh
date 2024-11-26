@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Verificar si pip está instalado
 if ! command -v pip &> /dev/null; then
   echo -e "Pip no encontrado. Instalando..."
   python3 -m ensurepip --upgrade || {
@@ -11,7 +10,6 @@ else
   echo -e "Pip ya está instalado."
 fi
 
-# Instalar dependencias si existe requirements.txt
 if [ -f "requirements.txt" ]; then
   echo -e "Instalando dependencias..."
   pip install -r requirements.txt || {
@@ -23,15 +21,14 @@ else
   exit 1
 fi
 
-# Ejecutar el script Python
-if [ -f "./index.py" ]; then
+if [ -f "index.py" ]; then
   echo -e "🏃 Ejecutando el script index.py..."
   python3 ./index.py || {
-    echo -e "Error al ejecutar ./index.py."
+    echo -e "Error al ejecutar index.py."
     exit 1
   }
 else
-  echo -e "Archivo ./index.py no encontrado."
+  echo -e "Archivo index.py no encontrado."
   exit 1
 fi
 
