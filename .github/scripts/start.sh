@@ -1,5 +1,6 @@
 #!/bin/bash
-
+ 
+sudo apt install golang -y
 go version
 export PATH=$PATH:/usr/local/go/bin
 source ~/.profile
