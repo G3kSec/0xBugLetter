@@ -39,21 +39,21 @@ if [ -z "$TELEGRAM_TOKEN" ] || [ -z "$CHAT_ID" ] || [ -z "$DISCORD_WEBHOOK" ]; t
 fi
 
 echo -e "${YELLOW}Generando archivo config.yaml...${NC}"
-echo -e " 
+cat <<EOF > ./config.yaml
 discord:
-  - id: \"notify-discord\"
-    discord_channel: \"notify\"
-    discord_username: \"Bot-Alert (By Notify)\"
-    discord_format: \"{{data}}\"
-    discord_webhook_url: \"${DISCORD_WEBHOOK}\"
+  - id: "notify-discord"
+    discord_channel: "notify"
+    discord_username: "Bot-Alert (By Notify)"
+    discord_format: "{{data}}"
+    discord_webhook_url: "${DISCORD_WEBHOOK}"
 
 telegram:
-  - id: \"notify-telegram\"
-    telegram_api_key: \"${TELEGRAM_TOKEN}\"
-    telegram_chat_id: \"${CHAT_ID}\"
-    telegram_format: \"{{data}}\"
-    telegram_parsemode: \"Markdown\"
-" > ./config.yaml
+  - id: "notify-telegram"
+    telegram_api_key: "${TELEGRAM_TOKEN}"
+    telegram_chat_id: "${CHAT_ID}"
+    telegram_format: "{{data}}"
+    telegram_parsemode: "Markdown"
+EOF
 
 if [ $? -eq 0 ]; then
   echo -e "${GREEN}Archivo ./config.yaml generado exitosamente.${NC}"
