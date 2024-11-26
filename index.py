@@ -30,7 +30,7 @@ for tag in tags:
         # With Notify
         os.system(f"echo '{message}' > temp_notify.txt" )
         os.system(f"cat temp_notify.txt | notify -pc config.yaml -p discord,telegram -bulk")
-        print("🟢¡Success!")
+        print("🟢¡Success!!")
         with open("telegram_messages.txt", "a", encoding="utf-8") as file:
           file.write(message + "\n\n")
         os.system(f"rm temp_notify.txt")
