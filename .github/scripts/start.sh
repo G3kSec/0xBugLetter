@@ -2,4 +2,8 @@
  
 which go
 go version
+export GOROOT=/usr/local/go
+export GOPATH="$HOME/go_projects"
+export GOBIN="$GOPATH/bin"
+source ~/.profile
 go env
