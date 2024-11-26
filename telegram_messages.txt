@@ -705,3 +705,11 @@
 📌 GitTrash: Digging Deep into Git Repositories for Hidden Treasures
 ✍️ Author: Sheryx00
 🔗 Link: https://medium.com/@sheryx00/gittrash-digging-deep-into-git-repositories-for-hidden-treasures-dfa6b3ff9251
+📌 IDOR is NOT only on the ID
+✍️ Author: M Shulkhan
+🔗 Link: https://medium.com/@mshulkhan/idor-is-not-only-on-the-id-8e94b5cc193e
+
+📌 Decoding API Vulnerabilities: My Bug Bounty Saga on API Vulnerabilities
+✍️ Author: Akash Ghosh
+🔗 Link: https://medium.com/@myselfakash20/decoding-api-vulnerabilities-my-bug-bounty-saga-on-api-vulnerabilities-affaf6a7c575
+
