@@ -22,6 +22,8 @@ else
 fi
 
 if [ -f "index.py" ]; then
+  go install -v github.com/projectdiscovery/notify/cmd/notify@latest
+  ls -l $HOME/go/bin/
   echo -e "🏃 Ejecutando el script index.py..."
   python3 ./index.py || {
     echo -e "Error al ejecutar index.py."
