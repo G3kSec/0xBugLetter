@@ -1,15 +1,21 @@
 #!/bin/bash
+# Colores para los mensajes
+GREEN='\033[0;32m'
+RED='\033[0;31m'
+YELLOW='\033[0;33m'
+NC='\033[0m' # Sin color
 
-if ! command -v go &> /dev/null; then
-  echo -e "${YELLOW}'Go' no encontrado. Instalando...${NC}"
-  # Asegúrate de que tu sistema tenga acceso para instalar Go.
-  # Aquí puedes agregar la instalación de Go para tu sistema operativo si es necesario.
-  echo -e "${RED}Error: Go no está instalado. Por favor, instálalo manualmente.${NC}"
-  exit 1
+# Ejecutar el script Python
+if [ -f "./index.py" ]; then
+  ls -l
+  echo -e "${YELLOW}🏃 Ejecutando el script index.py...${NC}"
+  python3 ./index.py || {
+    echo -e "${RED}Error al ejecutar ./index.py.${NC}"
+    exit 1
+  }
 else
-  echo -e "${GREEN}'Go' ya está instalado.${NC}"
-  find / -name "notify" 2>/dev/null
+  echo -e "${RED}Archivo ./index.py no encontrado.${NC}"
+  exit 1
 fi
 
-
-
+echo -e "${GREEN}✅ Script completado con éxito.${NC}"
