@@ -49,9 +49,6 @@ for tag in tags:
           print(f"Error al enviar el mensaje. Código de estado: {response_telegram.status_code}")
         """
       else:
-        os.system(f"ls -l $HOME/")
-        os.system(f"ls -l $HOME/go/bin/")
-        os.system(f"ls -l")
         print("🟡Mensaje duplicado, no enviado.")
     else:
       print("🟡No se encontraron artículos.")
