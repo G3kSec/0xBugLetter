@@ -29,7 +29,7 @@ for tag in tags:
       if message not in sent_messages:
         # With Notify
         os.system(f"echo '{message}' > temp_notify.txt" )
-        os.system(f"cat temp_notify.txt | /run/systemd/notify -pc config.yaml -p discord,telegram -bulk")
+        os.system(f"cat temp_notify.txt | `/go/bin/notify -pc config.yaml -p discord,telegram -bulk")
         print("🟢¡Success!!")
         with open("telegram_messages.txt", "a", encoding="utf-8") as file:
           file.write(message + "\n\n")
