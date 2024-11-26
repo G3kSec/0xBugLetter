@@ -1,7 +1,8 @@
 name: Daily Post
 on:
-  schedule:
-    - cron: "*/2 * * * *"
+  push:
+    branches: [ main ]
+    
 jobs:
   build:
     env:
