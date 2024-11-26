@@ -1,13 +1,15 @@
+
 discord:
-  - id: "notify-discord"
-    discord_channel: "notify"
-    discord_username: "Bot-Alert (By Notify)"
-    discord_format: "{{data}}"
-    discord_webhook_url: "https://discord.com/channels/1270397639766310912/1270397639766310915/1310958334379298816"
+  - id: 'notify-discord'
+    discord_channel: 'notify'
+    discord_username: 'Bot-Alert (By Notify)'
+    discord_format: '{{data}}'
+    discord_webhook_url: 'https://discord.com/channels/1270397639766310912/1270397639766310915/1310958334379298816'
 
 telegram:
-  - id: "notify-telegram"
-    telegram_api_key: "[REDACTED-TELEGRAM-TOKEN-ROTATED]"
-    telegram_chat_id: "6883533936"
-    telegram_format: "{{data}}"
-    telegram_parsemode: "Markdown"
+  - id: 'notify-telegram'
+    telegram_api_key: '[REDACTED-TELEGRAM-TOKEN-ROTATED]'
+    telegram_chat_id: '6883533936'
+    telegram_format: '{{data}}'
+    telegram_parsemode: 'Markdown'
+
