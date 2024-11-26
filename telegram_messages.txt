@@ -703,3 +703,11 @@
 🔗 Link: https://medium.com/cybersecuritywriteups/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
 
 
+📌 Google dorking the right way.
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/google-dorking-the-right-way-27b0eeb31212
+
+📌 Decoding API Vulnerabilities: My Bug Bounty Saga on API Vulnerabilities
+✍️ Author: Akash Ghosh
+🔗 Link: https://medium.com/@myselfakash20/decoding-api-vulnerabilities-my-bug-bounty-saga-on-api-vulnerabilities-affaf6a7c575
+
