@@ -28,40 +28,6 @@ else
   exit 1
 fi
 
-# Crear el archivo config.yaml
-TELEGRAM_TOKEN=$1
-CHAT_ID=$2
-DISCORD_WEBHOOK=$3
-
-if [ -z "$TELEGRAM_TOKEN" ] || [ -z "$CHAT_ID" ] || [ -z "$DISCORD_WEBHOOK" ]; then
-  echo -e "${RED}Faltan variables necesarias para crear ./config.yaml.${NC}"
-  exit 1
-fi
-
-echo -e "${YELLOW}Generando archivo config.yaml...${NC}"
-echo -e "
-discord:
-  - id: 'notify-discord'
-    discord_channel: 'notify'
-    discord_username: 'Bot-Alert (By Notify)'
-    discord_format: '{{data}}'
-    discord_webhook_url: '${DISCORD_WEBHOOK}'
-
-telegram:
-  - id: 'notify-telegram'
-    telegram_api_key: '${TELEGRAM_TOKEN}'
-    telegram_chat_id: '${CHAT_ID}'
-    telegram_format: '{{data}}'
-    telegram_parsemode: 'Markdown'
-" > ./config.yaml
-
-if [ $? -eq 0 ]; then
-  echo -e "${GREEN}Archivo ./config.yaml generado exitosamente.${NC}"
-else
-  echo -e "${RED}Error al generar ./config.yaml.${NC}"
-  exit 1
-fi
-
 # Ejecutar el script Python
 if [ -f "./index.py" ]; then
   echo -e "${YELLOW}🏃 Ejecutando el script index.py...${NC}"
