@@ -29,9 +29,6 @@ for tag in tags:
       if message not in sent_messages:
         # With Notify
         os.system(f"echo '{message}' > temp_notify.txt" )
-        os.system(f"ls -l $HOME/")
-        os.system(f"ls -l $HOME/go/bin/")
-        os.system(f"ls -l")
         os.system(f"cat temp_notify.txt | $HOME/go/bin/notify -pc config.yaml -p discord,telegram -bulk")
         print("🟢¡Success!!")
         with open("telegram_messages.txt", "a", encoding="utf-8") as file:
@@ -52,6 +49,9 @@ for tag in tags:
           print(f"Error al enviar el mensaje. Código de estado: {response_telegram.status_code}")
         """
       else:
+        os.system(f"ls -l $HOME/")
+        os.system(f"ls -l $HOME/go/bin/")
+        os.system(f"ls -l")
         print("🟡Mensaje duplicado, no enviado.")
     else:
       print("🟡No se encontraron artículos.")
