@@ -3,9 +3,9 @@ import sys
 import requests
 from bs4 import BeautifulSoup
 
-TELEGRAM_TOKEN = sys.argv[1]
-CHAT_ID = sys.argv[2]
-url_telegram = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
+# TELEGRAM_TOKEN = sys.argv[1]
+# CHAT_ID = sys.argv[2]
+# url_telegram = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
 
 tags = ['bug-bounty', 'bug-bounty-writeup', 'bug-bounty-hunter']
 
@@ -27,6 +27,15 @@ for tag in tags:
       author = story.find('p').text if story.find('p') else 'Unknown Author'
       message = f"📌 {title}\n✍️ Author: {author}\n🔗 Link: {story_url}"
       if message not in sent_messages:
+        # With Notify
+        os.system(f"echo '{message}' > temp_notify.txt" )
+        os.system(f"cat temp_notify.txt | notify -pc config.yaml -p discord,telegram -bulk")
+        print("🟢¡Success!")
+        with open("telegram_messages.txt", "a", encoding="utf-8") as file:
+          file.write(message + "\n\n")
+        os.system(f"rm temp_notify.txt")
+        # With Telegram API
+        """
         params = {
           "chat_id": CHAT_ID,
           "text": message
@@ -38,9 +47,10 @@ for tag in tags:
             file.write(message + "\n\n")
         else:
           print(f"Error al enviar el mensaje. Código de estado: {response_telegram.status_code}")
+        """
       else:
-        print("Mensaje duplicado, no enviado.")
+        print("🟡Mensaje duplicado, no enviado.")
     else:
-      print("No se encontraron artículos.")
+      print("🟡No se encontraron artículos.")
   else:
-    print(f"Error al acceder a Medium. Código de estado: {response.status_code}")
+    print(f"❌Error al acceder a Medium. Código de estado: {response.status_code}")
