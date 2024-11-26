@@ -29,6 +29,28 @@ else
   exit 1
 fi
 
+if ! command -v go &> /dev/null; then
+  echo -e "${YELLOW}'Go' no encontrado. Instalando...${NC}"
+  # Asegúrate de que tu sistema tenga acceso para instalar Go.
+  # Aquí puedes agregar la instalación de Go para tu sistema operativo si es necesario.
+  echo -e "${RED}Error: Go no está instalado. Por favor, instálalo manualmente.${NC}"
+  exit 1
+else
+  echo -e "${GREEN}'Go' ya está instalado.${NC}"
+fi
+
+# Verificar si 'notify' está instalado
+if ! command -v notify &> /dev/null; then
+  echo -e "${YELLOW}'notify' no encontrado. Instalando...${NC}"
+  # Instalar notify usando Go
+  go install -v github.com/projectdiscovery/notify/cmd/notify@latest || {
+    echo -e "${RED}Error al instalar 'notify'.${NC}"
+    exit 1
+  }
+else
+  echo -e "${GREEN}'notify' ya está instalado.${NC}"
+fi
+
 # Crear el archivo config.yaml
 TELEGRAM_TOKEN=$1
 CHAT_ID=$2
@@ -40,38 +62,27 @@ if [ -z "$TELEGRAM_TOKEN" ] || [ -z "$CHAT_ID" ] || [ -z "$DISCORD_WEBHOOK" ]; t
 fi
 
 echo -e "${YELLOW}Generando archivo config.yaml...${NC}"
-cat <<EOF > ./config.yaml
+echo -e " 
 discord:
-  - id: "notify-discord"
-    discord_channel: "notify"
-    discord_username: "Bot-Alert (By Notify)"
-    discord_format: "{{data}}"
-    discord_webhook_url: "${DISCORD_WEBHOOK}"
+  - id: \"notify-discord\"
+    discord_channel: \"notify\"
+    discord_username: \"Bot-Alert (By Notify)\"
+    discord_format: \"{{data}}\"
+    discord_webhook_url: \"${DISCORD_WEBHOOK}\"
 
 telegram:
-  - id: "notify-telegram"
-    telegram_api_key: "${TELEGRAM_TOKEN}"
-    telegram_chat_id: "${CHAT_ID}"
-    telegram_format: "{{data}}"
-    telegram_parsemode: "Markdown"
-EOF
+  - id: \"notify-telegram\"
+    telegram_api_key: \"${TELEGRAM_TOKEN}\"
+    telegram_chat_id: \"${CHAT_ID}\"
+    telegram_format: \"{{data}}\"
+    telegram_parsemode: \"Markdown\"
+" > ./config.yaml
 
 if [ $? -eq 0 ]; then
   echo -e "${GREEN}Archivo ./config.yaml generado exitosamente.${NC}"
 else
   echo -e "${RED}Error al generar ./config.yaml.${NC}"
   exit 1
-fi
-
-# Verificar si 'notify' está instalado
-if ! command -v notify &> /dev/null; then
-  echo -e "${YELLOW}'notify' no encontrado. Instalando...${NC}"
-  apt install notify || {
-    echo -e "${RED}Error al instalar 'notify'.${NC}"
-    exit 1
-  }
-else
-  echo -e "${GREEN}'notify' ya está instalado.${NC}"
 fi
 
 # Ejecutar el script Python
