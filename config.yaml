@@ -4,7 +4,7 @@ discord:
     discord_channel: 'notify'
     discord_username: 'Bot-Alert (By Notify)'
     discord_format: '{{data}}'
-    discord_webhook_url: 'https://discord.com/channels/1270397639766310912/1270397639766310915/1310958334379298816'
+    discord_webhook_url: 'https://discord.com/api/webhooks/[REDACTED-ROTATED]'
 
 telegram:
   - id: 'notify-telegram'
