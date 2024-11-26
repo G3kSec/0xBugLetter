@@ -21,9 +21,17 @@ else
   exit 1
 fi
 
+if [ -f "$HOME/go/bin/notify" ]; then
+  echo -e "Notify ya está instalado. No se descargará nuevamente."
+else
+  echo -e "Notify no encontrado. Instalando..."
+  go install -v github.com/projectdiscovery/notify/cmd/notify@latest || {
+    echo -e "Error al instalar Notify."
+    exit 1
+  }
+fi
+
 if [ -f "index.py" ]; then
-  go install -v github.com/projectdiscovery/notify/cmd/notify@latest
-  ls -l $HOME/go/bin/
   echo -e "🏃 Ejecutando el script index.py..."
   python3 ./index.py || {
     echo -e "Error al ejecutar index.py."
