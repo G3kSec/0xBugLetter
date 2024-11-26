@@ -714,3 +714,7 @@
 ✍️ Author: Akash Ghosh
 🔗 Link: https://medium.com/@myselfakash20/decoding-api-vulnerabilities-my-bug-bounty-saga-on-api-vulnerabilities-affaf6a7c575
 
+📌 VOIP Penetration Testing Checklist
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/voip-penetration-testing-checklist-890bb4e09bac
+
