@@ -66,8 +66,7 @@ fi
 # Verificar si 'notify' está instalado
 if ! command -v notify &> /dev/null; then
   echo -e "${YELLOW}'notify' no encontrado. Instalando...${NC}"
-  # Aquí puedes cambiar el método de instalación según cómo se instale notify (pip, apt, npm, etc.)
-  pip install notify || {
+  apt install notify || {
     echo -e "${RED}Error al instalar 'notify'.${NC}"
     exit 1
   }
