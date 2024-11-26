@@ -37,12 +37,14 @@ if ! command -v go &> /dev/null; then
   exit 1
 else
   echo -e "${GREEN}'Go' ya está instalado.${NC}"
+  env
+  echo $GOPATH
 fi
 
 # Verificar si 'notify' está instalado
 if ! command -v notify &> /dev/null; then
   echo -e "${YELLOW}'notify' no encontrado. Instalando...${NC}"
-  mv ~/go/bin/notify /usr/local/bin || {
+  mv $GOPATH/notify /usr/local/bin || {
     echo -e "${RED}Error al instalar 'notify'.${NC}"
     exit 1
   }
