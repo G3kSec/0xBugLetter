@@ -702,15 +702,4 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/cybersecuritywriteups/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140
 
-📌 VOIP Penetration Testing Checklist
-✍️ Author: In
-🔗 Link: https://medium.com/bugbountywriteup/voip-penetration-testing-checklist-890bb4e09bac
-
-📌 Decoding API Vulnerabilities: My Bug Bounty Saga on API Vulnerabilities
-✍️ Author: Akash Ghosh
-🔗 Link: https://medium.com/@myselfakash20/decoding-api-vulnerabilities-my-bug-bounty-saga-on-api-vulnerabilities-affaf6a7c575
-
-📌 IDOR is NOT only on the ID
-✍️ Author: M Shulkhan
-🔗 Link: https://medium.com/@mshulkhan/idor-is-not-only-on-the-id-8e94b5cc193e
 
