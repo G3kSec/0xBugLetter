@@ -1,0 +1,13 @@
+discord:
+  - id: "notify-discord"
+    discord_channel: "notify"
+    discord_username: "Bot-Alert (By Notify)"
+    discord_format: "{{data}}"
+    discord_webhook_url: "${{env.discord}}"
+
+telegram:
+  - id: "notify-telegram"
+    telegram_api_key: "${{env.telegram}}"
+    telegram_chat_id: "${{env.chat}}"
+    telegram_format: "{{data}}"
+    telegram_parsemode: "Markdown"
