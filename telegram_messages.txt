@@ -702,3 +702,7 @@
 ✍️ Author: M Shulkhan
 🔗 Link: https://medium.com/@mshulkhan/idor-is-not-only-on-the-id-8e94b5cc193e
 
+📌 VOIP Penetration Testing Checklist
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/voip-penetration-testing-checklist-890bb4e09bac
+
