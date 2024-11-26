@@ -1,8 +1,4 @@
 #!/bin/bash
  
-which go
-go version
-export GOPATH="$HOME/go"
-export GOBIN="$GOPATH/bin"
-source ~/.profile
-go env
+go install -v github.com/projectdiscovery/notify/cmd/notify@latest
+ls -l ~/go/bin
