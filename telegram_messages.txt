@@ -693,3 +693,11 @@
 ✍️ Author: Akash Ghosh
 🔗 Link: https://medium.com/@myselfakash20/decoding-api-vulnerabilities-my-bug-bounty-saga-on-api-vulnerabilities-affaf6a7c575
 
+📌 Website’s for fake mobile numbers and sms services.
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/websites-for-fake-mobile-numbers-and-sms-services-9057442ef82b
+
+📌 How I abled to get users/admins PII Disclosure
+✍️ Author: Ahmad Yussef
+🔗 Link: https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11
+
