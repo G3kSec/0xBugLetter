@@ -701,3 +701,7 @@
 ✍️ Author: Ahmad Yussef
 🔗 Link: https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11
 
+📌 Finding more subdomains.(part 2)
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/finding-more-subdomains-part-2-1850ead4dd92
+
