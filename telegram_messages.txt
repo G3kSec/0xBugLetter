@@ -705,3 +705,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/finding-more-subdomains-part-2-1850ead4dd92
 
+📌 POC — CVE-2024–21534 Jsonpath-plus vulnerable to Remote Code Execution (RCE) due to improper input…
+✍️ Author: Very Lazy Tech
+🔗 Link: https://medium.com/@verylazytech/poc-cve-2024-21534-jsonpath-plus-vulnerable-to-remote-code-execution-rce-due-to-improper-input-a466ae69aa92
+
+📌 The P2 Bug You Could Miss Without Reading the Documentation
+✍️ Author: Mohsin khan
+🔗 Link: https://medium.com/@mokhansec/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587
+
