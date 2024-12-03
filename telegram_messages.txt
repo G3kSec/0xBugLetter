@@ -729,3 +729,11 @@
 ✍️ Author: Mohsin khan
 🔗 Link: https://medium.com/@mokhansec/week-4-a-drive-to-recharge-and-reconnect-4d0f8b7258d0
 
+📌 Command Injection: Mastering Exploitation Techniques with a Comprehensive Cheatsheet
+✍️ Author: Very Lazy Tech
+🔗 Link: https://medium.com/@verylazytech/command-injection-mastering-exploitation-techniques-with-a-comprehensive-cheatsheet-6f549fee46b8
+
+📌 Unpacking an IDOR-Based Exploit in International Shipping (70 Million+ PII Data Breach)
+✍️ Author: susapr
+🔗 Link: https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d
+
