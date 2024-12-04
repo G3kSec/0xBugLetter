@@ -737,3 +737,15 @@
 ✍️ Author: susapr
 🔗 Link: https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d
 
+📌 Bug Bounty Tips Series: 10 Ways To Find HTTP Host Header Injection Vulnerability
+✍️ Author: Shoaib Ali
+🔗 Link: https://medium.com/@alishoaib5929/bug-bounty-tips-series-10-ways-to-find-http-host-header-injection-vulnerability-1ad56c9dddd2
+
+📌 Story Of 15 Vulnerabilities in one public BBP !
+✍️ Author: Ahmex000
+🔗 Link: https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991
+
+📌 Story Of 15 Vulnerabilities in one public BBP !
+✍️ Author: Ahmex000
+🔗 Link: https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991
+
