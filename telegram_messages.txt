@@ -749,3 +749,7 @@
 ✍️ Author: Ahmex000
 🔗 Link: https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991
 
+📌 How to Bypass Firewalls and IDS on Filtered Ports: The Ultimate Step-by-Step Guide to Advanced…
+✍️ Author: Shaikh Minhaz
+🔗 Link: https://medium.com/@shaikhminhaz1975/how-to-bypass-firewalls-and-ids-on-filtered-ports-the-ultimate-step-by-step-guide-to-advanced-9cb238d66450
+
