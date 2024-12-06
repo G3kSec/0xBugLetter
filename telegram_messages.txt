@@ -753,3 +753,11 @@
 ✍️ Author: Shaikh Minhaz
 🔗 Link: https://medium.com/@shaikhminhaz1975/how-to-bypass-firewalls-and-ids-on-filtered-ports-the-ultimate-step-by-step-guide-to-advanced-9cb238d66450
 
+📌 How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts
+✍️ Author: Ahmed Samir Ghallab
+🔗 Link: https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70
+
+📌 How I Broke Into My Dev Friend’s Website in Less Than 24 Hour
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1
+
