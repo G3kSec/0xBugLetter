@@ -761,3 +761,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1
 
+📌 List of Top Bug Bounty Platforms for 2024
+✍️ Author: Levente Molnar
+🔗 Link: https://medium.com/@hackrate/list-of-top-bug-bounty-platforms-for-2024-fc31553c2e78
+
+📌 🌟 “The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” 🕵️‍♂️📍
+✍️ Author: JEETPAL
+🔗 Link: https://medium.com/@jeetpal2007/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-️-️-fd044d2031b6
+
