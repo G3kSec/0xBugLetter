@@ -769,3 +769,11 @@
 ✍️ Author: JEETPAL
 🔗 Link: https://medium.com/@jeetpal2007/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-️-️-fd044d2031b6
 
+📌 Misconfigurations That Paid Me Big: How I Exploited Them (And How You Can Stop Me)
+✍️ Author: Akash Ghosh
+🔗 Link: https://medium.com/@myselfakash20/misconfigurations-that-paid-me-big-how-i-exploited-them-and-how-you-can-stop-me-788a5375aa3c
+
+📌 How I Found an ATO Vulnerability in Stripe Program in an Overlooked Corner
+✍️ Author: Ahmed Samir Ghallab
+🔗 Link: https://medium.com/@mrasg/how-i-found-an-ato-vulnerability-in-stripe-program-in-an-overlooked-corner-dce7d2cdaaf9
+
