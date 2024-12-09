@@ -777,3 +777,11 @@
 ✍️ Author: Ahmed Samir Ghallab
 🔗 Link: https://medium.com/@mrasg/how-i-found-an-ato-vulnerability-in-stripe-program-in-an-overlooked-corner-dce7d2cdaaf9
 
+📌 $400 Bounty in 10 sec 🤑
+✍️ Author: AbhirupKonwar
+🔗 Link: https://medium.com/@abhirupkonwar04/400-bounty-in-10-sec-14d26c2976ec
+
+📌 $200 Recon Bug Bounty🤑
+✍️ Author: In
+🔗 Link: https://medium.com/infosecmatrix/200-recon-bug-bounty-3538566b94dc
+
