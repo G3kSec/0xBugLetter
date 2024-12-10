@@ -785,3 +785,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/infosecmatrix/200-recon-bug-bounty-3538566b94dc
 
+📌 From Couch to Cloud: Bug Hunting Made Easy!
+✍️ Author: sudo uday
+🔗 Link: https://medium.com/@udayshelke17-40981/from-couch-to-cloud-bug-hunting-made-easy-993039c8208b
+
+📌 Email and home address disclosure using unauthenticated API endpoint worth $500
+✍️ Author: the_unlucky_guy
+🔗 Link: https://medium.com/@vijetareigns/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c
+
