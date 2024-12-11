@@ -793,3 +793,11 @@
 ✍️ Author: the_unlucky_guy
 🔗 Link: https://medium.com/@vijetareigns/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c
 
+📌 Must-Have Hacking Extensions For Bugbounty Hunters
+✍️ Author: Scratch
+🔗 Link: https://medium.com/@The_scratch/must-have-hacking-extensions-for-bugbounty-hunters-5de4c56c6963
+
+📌 I Found 7 Log4j (RCE) in a Single Program!
+✍️ Author: Abu Hurayra
+🔗 Link: https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06
+
