@@ -801,3 +801,7 @@
 ✍️ Author: Abu Hurayra
 🔗 Link: https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06
 
+📌 🚨 Critical WPForms Flaw Exposes 6M Sites to Unauthorized Stripe Refunds 🚨
+✍️ Author: WIRE TOR - The Ethical Hacking Services
+🔗 Link: https://medium.com/@wiretor/critical-wpforms-flaw-exposes-6m-sites-to-unauthorized-stripe-refunds-da9f48a7bfd0
+
