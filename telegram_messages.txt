@@ -805,3 +805,11 @@
 ✍️ Author: WIRE TOR - The Ethical Hacking Services
 🔗 Link: https://medium.com/@wiretor/critical-wpforms-flaw-exposes-6m-sites-to-unauthorized-stripe-refunds-da9f48a7bfd0
 
+📌 Account Takeover using SSO Logins
+✍️ Author: Rikesh Baniya
+🔗 Link: https://medium.com/@rikeshbaniya/account-takeover-using-sso-logins-fa35f28a358b
+
+📌 How I Secured The Indian Army?
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/how-i-secured-the-indian-army-9a80ba399202
+
