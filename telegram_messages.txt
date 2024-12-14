@@ -813,3 +813,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/cybersecuritywriteups/how-i-secured-the-indian-army-9a80ba399202
 
+📌 Reflected XSS on Gaming Blog Website
+✍️ Author: enigma_
+🔗 Link: https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3
+
