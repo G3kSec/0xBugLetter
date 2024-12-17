@@ -829,3 +829,7 @@
 ✍️ Author: Ahmex000
 🔗 Link: https://medium.com/@Ahmex000/idor-is-easy-you-may-dont-know-the-longest-privesc-i-ve-ever-faced-on-public-bbp-1bf67cd699d8
 
+📌 From Minor Glitches to Major Wins: How I Chained CSRF and IDOR for a Critical Exploit
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/from-minor-glitches-to-major-wins-how-i-chained-csrf-and-idor-for-a-critical-exploit-0b110170cd9c
+
