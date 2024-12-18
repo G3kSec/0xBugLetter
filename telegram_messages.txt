@@ -833,3 +833,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/from-minor-glitches-to-major-wins-how-i-chained-csrf-and-idor-for-a-critical-exploit-0b110170cd9c
 
+📌 🔓 Exploiting Access Control Misconfiguration: Privilege Escalation via Improper PATCH Method…
+✍️ Author: Momenrezk
+🔗 Link: https://medium.com/@momenrezkk90/exploiting-access-control-misconfiguration-privilege-escalation-via-improper-patch-method-b653bb92ada6
+
+📌 How I Broke the Speed Limit: A Bug Bounty Tale of Bypassing Rate Limiting
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/how-i-broke-the-speed-limit-a-bug-bounty-tale-of-bypassing-rate-limiting-29a1ec4e8681
+
