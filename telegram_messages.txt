@@ -841,3 +841,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/how-i-broke-the-speed-limit-a-bug-bounty-tale-of-bypassing-rate-limiting-29a1ec4e8681
 
+📌 Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - BAC in GraphQL…
+✍️ Author: Mahmoud Abd Alkarim
+🔗 Link: https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5
+
