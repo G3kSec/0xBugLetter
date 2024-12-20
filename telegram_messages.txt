@@ -845,3 +845,7 @@
 ✍️ Author: Mahmoud Abd Alkarim
 🔗 Link: https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5
 
+📌 CSRF On Delete Profile: High Severity(7.1) HackerOne
+✍️ Author: Josekutty Kunnelthazhe Binu
+🔗 Link: https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67
+
