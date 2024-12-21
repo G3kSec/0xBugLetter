@@ -849,3 +849,11 @@
 ✍️ Author: Josekutty Kunnelthazhe Binu
 🔗 Link: https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67
 
+📌 Utilizing machine learning to collect more subdomains using subwiz
+✍️ Author: Mohammed Dief
+🔗 Link: https://medium.com/@demonia/utilizing-machine-learning-to-collect-more-subdomains-using-subwiz-2d65cec1ee80
+
+📌 Simple ATO in private program.
+✍️ Author: oXnoOneXo
+🔗 Link: https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675
+
