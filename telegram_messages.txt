@@ -861,3 +861,11 @@
 ✍️ Author: Illoy Scizceneghposter
 🔗 Link: https://medium.com/@illoyscizceneghposter/payment-bypass-guide-for-bug-bounty-69-case-studies-15379b4f76fa
 
+📌 open redirect GET — Based
+✍️ Author: ramzey elsayed mohamed
+🔗 Link: https://medium.com/@zpx15266/open-redirect-get-based-bc86e62c3af2
+
+📌 How I Found My First Bug Using Shodan
+✍️ Author: Bochixx
+🔗 Link: https://medium.com/@bughunt.bochi/how-i-found-my-first-bug-using-shodan-3d8826a7655b
+
