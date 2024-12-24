@@ -869,3 +869,11 @@
 ✍️ Author: Bochixx
 🔗 Link: https://medium.com/@bughunt.bochi/how-i-found-my-first-bug-using-shodan-3d8826a7655b
 
+📌 POC — CVE-2024–50623- Cleo Unrestricted file upload and download
+✍️ Author: Very Lazy Tech 👾
+🔗 Link: https://medium.com/@verylazytech/poc-cve-2024-50623-cleo-unrestricted-file-upload-and-download-382afa5a15db
+
+📌 Stop Data Breaches in Their Tracks with LeakRadar.io
+✍️ Author: Alexandre Vandamme
+🔗 Link: https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14
+
