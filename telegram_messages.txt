@@ -877,3 +877,11 @@
 ✍️ Author: Alexandre Vandamme
 🔗 Link: https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14
 
+📌 500$ Secrets: Uncovering Critical Vulnerabilities with Advanced JavaScript Analysis
+✍️ Author: hackersatty
+🔗 Link: https://medium.com/@hackersatty/500-secrets-uncovering-critical-vulnerabilities-with-advanced-javascript-analysis-ab9a970dc8e8
+
+📌 Bug Bounty Journey — Valid Report Part 3
+✍️ Author: 0xF3r4t
+🔗 Link: https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655
+
