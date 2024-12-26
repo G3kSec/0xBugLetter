@@ -885,3 +885,11 @@
 ✍️ Author: 0xF3r4t
 🔗 Link: https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655
 
+📌 How I accidentally found an IDOR bug in Google slides and rewarded $3,133.70
+✍️ Author: Atikqur Rahman
+🔗 Link: https://medium.com/@atikqur007/how-i-accidentally-found-an-idor-bug-in-google-slides-and-rewarded-3-133-70-96866fac3af1
+
+📌 Business logic: I can order anything from your account without paying for it
+✍️ Author: Mr Grey
+🔗 Link: https://medium.com/@gr3yg05t/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd
+
