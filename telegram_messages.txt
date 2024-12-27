@@ -893,3 +893,7 @@
 ✍️ Author: Mr Grey
 🔗 Link: https://medium.com/@gr3yg05t/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd
 
+📌 🚨 Critical SQL Injection Vulnerability in Apache Traffic Control 🚨
+✍️ Author: WIRE TOR - The Ethical Hacking Services
+🔗 Link: https://medium.com/@wiretor/critical-sql-injection-vulnerability-in-apache-traffic-control-a28cedca8b93
+
