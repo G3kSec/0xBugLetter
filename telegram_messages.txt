@@ -897,3 +897,7 @@
 ✍️ Author: WIRE TOR - The Ethical Hacking Services
 🔗 Link: https://medium.com/@wiretor/critical-sql-injection-vulnerability-in-apache-traffic-control-a28cedca8b93
 
+📌 Most commonly found Vulnerabilities in Web Applications.
+✍️ Author: In
+🔗 Link: https://medium.com/paktolus-engineering/most-commonly-found-vulnerabilities-in-web-applications-01dfb54530e2
+
