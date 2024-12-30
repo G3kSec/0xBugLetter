@@ -905,3 +905,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/best-cyber-security-tools-you-must-know-before-2024-ends-c207bd6ba0cd
 
+📌 Every Flask app hides a story—be the one to uncover it
+✍️ Author: Spectat0rguy
+🔗 Link: https://medium.com/@bitpanic/every-flask-app-hides-a-story-be-the-one-to-uncover-it-32f2942f7927
+
+📌 Unauthorized Access and Data Leakage Vulnerability in a Crypto Platform
+✍️ Author: Bochixx
+🔗 Link: https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1
+
