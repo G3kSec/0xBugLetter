@@ -913,3 +913,15 @@
 ✍️ Author: Bochixx
 🔗 Link: https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1
 
+📌 Critical Security Vulnerability in Camunda Tasklist: Default Password on HackerOne Program
+✍️ Author: Suganthankumaralingam
+🔗 Link: https://medium.com/@suganthankumaralingam/critical-security-vulnerability-in-camunda-tasklist-default-password-on-hackerone-program-0ceb0efd0bbf
+
+📌 When APIs Can’t Keep Up: How I Exploited Misconfigured Rate Limits to Crash the Party
+✍️ Author: Akash Ghosh
+🔗 Link: https://medium.com/@myselfakash20/when-apis-cant-keep-up-how-i-exploited-misconfigured-rate-limits-to-crash-the-party-e5be48d4cacd
+
+📌 Idor Is Easy ! You may Don’t know ! The Longest PrivEsc I’ve ever faced on Public BBP
+✍️ Author: Ahmed Elheny (Ahmex000)
+🔗 Link: https://medium.com/@Ahmex000/idor-is-easy-you-may-dont-know-the-longest-privesc-i-ve-ever-faced-on-public-bbp-1bf67cd699d8
+
