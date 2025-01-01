@@ -925,3 +925,11 @@
 ✍️ Author: Ahmed Elheny (Ahmex000)
 🔗 Link: https://medium.com/@Ahmex000/idor-is-easy-you-may-dont-know-the-longest-privesc-i-ve-ever-faced-on-public-bbp-1bf67cd699d8
 
+📌 API Pentesting: Unrestricted Resource Consumption
+✍️ Author: hackerdevil
+🔗 Link: https://medium.com/@devilwrites/api-pentesting-unrestricted-resource-consumption-2692bf368575
+
+📌 OTP Bypass Leads to $2000 (2/30 DAYS)
+✍️ Author: 0day stories
+🔗 Link: https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e
+
