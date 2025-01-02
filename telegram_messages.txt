@@ -933,3 +933,11 @@
 ✍️ Author: 0day stories
 🔗 Link: https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e
 
+📌 My first 100 Days with Bug Bounties.
+✍️ Author: Abu Hurayra
+🔗 Link: https://medium.com/@rootplinix/my-first-100-days-with-bug-bounties-7c4f69f73d3d
+
+📌 This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access
+✍️ Author: 0xNayel
+🔗 Link: https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c
+
