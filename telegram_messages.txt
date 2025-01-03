@@ -941,3 +941,11 @@
 ✍️ Author: 0xNayel
 🔗 Link: https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c
 
+📌 Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access
+✍️ Author: Anzil
+🔗 Link: https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde
+
+📌 Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access
+✍️ Author: Anzil
+🔗 Link: https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde
+
