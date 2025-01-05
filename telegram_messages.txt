@@ -949,3 +949,11 @@
 ✍️ Author: Anzil
 🔗 Link: https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde
 
+📌 Bug Bash: 11 Creeping Critters Every QA Tester Must Squash!
+✍️ Author: Divyarajsinh Dodia
+🔗 Link: https://medium.com/@divyarajsinhdev/bug-bash-11-creeping-critters-every-qa-tester-must-squash-31d4da2f7805
+
+📌 How I Found an Open AWS S3 Bucket and Used It to Take Over a Subdomain
+✍️ Author: Boubker Chamekh
+🔗 Link: https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945
+
