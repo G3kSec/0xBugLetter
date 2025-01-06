@@ -957,3 +957,11 @@
 ✍️ Author: Boubker Chamekh
 🔗 Link: https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945
 
+📌 Discovering SQLi Vulnerabilities Through Deeper Analysis
+✍️ Author: Erkan Kavas
+🔗 Link: https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181
+
+📌 How I Discovered an Email Disclosure Vulnerability
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228
+
