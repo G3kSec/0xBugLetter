@@ -965,3 +965,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228
 
+📌 HR Admin Account Takeover: Chaining Stored XSS and IDOR in a Human Resource App
+✍️ Author: Abdullah
+🔗 Link: https://medium.com/@abdullah12987654/hr-admin-account-takeover-chaining-stored-xss-and-idor-in-a-human-resource-app-9718c9e77d34
+
+📌 How I Was Able to Block Any Username
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/how-i-was-able-to-block-any-username-5707a1fbd25c
+
