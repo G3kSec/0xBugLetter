@@ -981,3 +981,15 @@
 ✍️ Author: Dogx0x
 🔗 Link: https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89
 
+📌 Telegram Leaks PII, doesn’t care.
+✍️ Author: sirhaxalot
+🔗 Link: https://medium.com/@hacktheplanet/telegram-leaks-pii-doesnt-care-c75465be1cc2
+
+📌 First bounty — Second Order Stored XSS on club.paris2024.org
+✍️ Author: swaroop 04|16
+🔗 Link: https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f
+
+📌 Advanced Tools and Techniques for Privilege Escalation
+✍️ Author: Sacony Chukwu
+🔗 Link: https://medium.com/@saconychukwu/advanced-tools-and-techniques-for-privilege-escalation-74e5960aede6
+
