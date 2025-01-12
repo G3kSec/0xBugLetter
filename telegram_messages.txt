@@ -1017,3 +1017,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/unlock-the-ultimate-resource-hub-for-security-researchers-9fa52bbff1ff
 
+📌 Microsoft ADFS Recon
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/microsoft-adfs-recon-e56fcace8551
+
