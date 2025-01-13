@@ -1021,3 +1021,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/microsoft-adfs-recon-e56fcace8551
 
+📌 How Improper cache storage lead to Make me $$$
+✍️ Author: praveenarsh0xx0
+🔗 Link: https://medium.com/@test123cybertest/how-improper-cache-storage-lead-to-make-me-4de4c003b376
+
+📌 IDOR & UUIDs to leak PII
+✍️ Author: CANITEY
+🔗 Link: https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784
+
