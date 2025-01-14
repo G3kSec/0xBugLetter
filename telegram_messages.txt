@@ -1029,3 +1029,11 @@
 ✍️ Author: CANITEY
 🔗 Link: https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784
 
+📌 Methodology for Detecting IDOR Vulnerability
+✍️ Author: Dogx0x
+🔗 Link: https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9
+
+📌 Methodology for Detecting IDOR Vulnerability
+✍️ Author: Dogx0x
+🔗 Link: https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9
+
