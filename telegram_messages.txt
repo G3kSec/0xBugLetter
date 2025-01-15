@@ -1037,3 +1037,11 @@
 ✍️ Author: Dogx0x
 🔗 Link: https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9
 
+📌 Day 4. The 100-Day Bug Bounty Challenge: Understanding SQL Injection Classic(In-band)
+✍️ Author: Mahesh Dhakad
+🔗 Link: https://medium.com/@mahhesshh/day-4-the-100-day-bug-bounty-challenge-understanding-sql-injection-classic-in-band-2b8854d2e0e5
+
+📌 What You Can Expect: A Personal Introduction and Blog Overview
+✍️ Author: T3chnocr4t
+🔗 Link: https://medium.com/@T3chnocr4t/what-you-can-expect-a-personal-introduction-and-blog-overview-3a0a6cc984f6
+
