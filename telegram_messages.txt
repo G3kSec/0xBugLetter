@@ -1057,3 +1057,11 @@
 ✍️ Author: the_air_cyborg
 🔗 Link: https://medium.com/@the.air.cyborg/analysis-i-got-from-other-tcs-hackquest-seasons-to-prepare-for-season-9-cca9a19dbbf1
 
+📌 Day 2 — Hacker101 MicroCMS v1 Flag 3 Write-Up
+✍️ Author: Devin McCullum
+🔗 Link: https://medium.com/@devinmack39/hacker101-microcms-v1-flag-3-write-up-db82e442b922
+
+📌 Bug Bounty Unlocked: Secrets, Strategies, and Mindset Hacks for Success
+✍️ Author: It4chis3c
+🔗 Link: https://medium.com/@it4chis3c/bug-bounty-unlocked-secrets-strategies-and-mindset-hacks-for-success-e5d94a632220
+
