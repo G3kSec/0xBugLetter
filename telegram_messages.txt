@@ -1065,3 +1065,7 @@
 ✍️ Author: It4chis3c
 🔗 Link: https://medium.com/@it4chis3c/bug-bounty-unlocked-secrets-strategies-and-mindset-hacks-for-success-e5d94a632220
 
+📌 2FA Bypass via Response manipulation
+✍️ Author: 0mex
+🔗 Link: https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b
+
