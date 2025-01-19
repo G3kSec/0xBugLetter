@@ -1069,3 +1069,7 @@
 ✍️ Author: 0mex
 🔗 Link: https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b
 
+📌 IDOR to Partial Access and ACCOUNT TAKEOVER in a Top 5 Cloud Storage Platform
+✍️ Author: Q19
+🔗 Link: https://medium.com/@q19/idor-to-partial-access-and-account-takeover-in-a-top-5-cloud-storage-platform-844707a2cc01
+
