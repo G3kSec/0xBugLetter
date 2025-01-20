@@ -1073,3 +1073,11 @@
 ✍️ Author: Q19
 🔗 Link: https://medium.com/@q19/idor-to-partial-access-and-account-takeover-in-a-top-5-cloud-storage-platform-844707a2cc01
 
+📌 From Low to Whoa: Elevating a P5 SSRF to a P3
+✍️ Author: r00t
+🔗 Link: https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c
+
+📌 From Low to Whoa: Elevating a P5 SSRF to a P3
+✍️ Author: r00t
+🔗 Link: https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c
+
