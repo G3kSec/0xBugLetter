@@ -1081,3 +1081,11 @@
 ✍️ Author: r00t
 🔗 Link: https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c
 
+📌 PicoCTF Writeup — Web Gauntlet
+✍️ Author: SoBatista
+🔗 Link: https://medium.com/@sobatistacyber/picoctf-writeup-web-gauntlet-7c3b8c7c7946
+
+📌 Using Tor Network to Bypass Rate Limits
+✍️ Author: SAEED
+🔗 Link: https://medium.com/@saeed0x1/using-tor-network-to-bypass-rate-limits-9fe2b174c316
+
