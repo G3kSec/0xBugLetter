@@ -1089,3 +1089,11 @@
 ✍️ Author: SAEED
 🔗 Link: https://medium.com/@saeed0x1/using-tor-network-to-bypass-rate-limits-9fe2b174c316
 
+📌 HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC (Part — 1)
+✍️ Author: Whoami
+🔗 Link: https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-1-31946077e249
+
+📌 HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC (Part — 1)
+✍️ Author: Whoami
+🔗 Link: https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-1-31946077e249
+
