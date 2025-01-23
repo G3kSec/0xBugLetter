@@ -1097,3 +1097,11 @@
 ✍️ Author: Whoami
 🔗 Link: https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-1-31946077e249
 
+📌 The Biggest Bug Bounty Payouts of All Time and What We Learned
+✍️ Author: Levente Molnar
+🔗 Link: https://medium.com/@hackrate/the-biggest-bug-bounty-payouts-of-all-time-and-what-we-learned-0a35c8a327c2
+
+📌 My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond
+✍️ Author: Vivek PS
+🔗 Link: https://medium.com/@vivekps143/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6
+
