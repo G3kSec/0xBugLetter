@@ -1105,3 +1105,11 @@
 ✍️ Author: Vivek PS
 🔗 Link: https://medium.com/@vivekps143/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6
 
+📌 $600 Vulnerability: My First Bug Hunting Journey
+✍️ Author: Asyary Raihan
+🔗 Link: https://medium.com/@asyary/600-vulnerability-my-first-bug-hunting-journey-98b961a62f4b
+
+📌 Escalate P3 SSRF TO P1
+✍️ Author: Yazeed Bilal
+🔗 Link: https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb
+
