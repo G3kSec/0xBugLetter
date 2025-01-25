@@ -1113,3 +1113,11 @@
 ✍️ Author: Yazeed Bilal
 🔗 Link: https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb
 
+📌 Exploiting XSS To Steal Cookies
+✍️ Author: The Cybersec Café
+🔗 Link: https://medium.com/@cyberseccafe/exploiting-xss-to-steal-cookies-f0aebdcd815b
+
+📌 How I Found a Stripe Key Disclosure Leading to PII Exposure
+✍️ Author: EL_Cazad0r
+🔗 Link: https://medium.com/@EL_cazad0r/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5
+
