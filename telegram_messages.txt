@@ -1121,3 +1121,11 @@
 ✍️ Author: EL_Cazad0r
 🔗 Link: https://medium.com/@EL_cazad0r/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5
 
+📌 How I Discovered a Bypass in WhatsApp’s “View Once” Feature
+✍️ Author: Ramshath
+🔗 Link: https://medium.com/@ramshath1999/how-i-discovered-a-bypass-in-whatsapps-view-once-feature-aea3bdf6405a
+
+📌 How I Turned a Tiny Security Flaw into a $250 Bounty
+✍️ Author: Ramshath
+🔗 Link: https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f
+
