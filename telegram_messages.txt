@@ -1129,3 +1129,7 @@
 ✍️ Author: Ramshath
 🔗 Link: https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f
 
+📌 Securing NASA For Certificate📜: P3 Vulnerability
+✍️ Author: Manan Sanghvi
+🔗 Link: https://medium.com/@manan_sanghvi/securing-nasa-for-certificate-p3-vulnerability-272a6e5f2fca
+
