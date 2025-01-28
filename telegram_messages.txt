@@ -1133,3 +1133,11 @@
 ✍️ Author: Manan Sanghvi
 🔗 Link: https://medium.com/@manan_sanghvi/securing-nasa-for-certificate-p3-vulnerability-272a6e5f2fca
 
+📌 IDOR Leads to Deletion of Organization Owner
+✍️ Author: Saurabhcsec
+🔗 Link: https://medium.com/@saurabhcsec/idor-leads-to-deletion-of-organization-owner-0f0deb6a71aa
+
+📌 My Journey to Finding My First XSS Vulnerability
+✍️ Author: Shxikrf
+🔗 Link: https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc
+
