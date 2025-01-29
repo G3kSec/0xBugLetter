@@ -1141,3 +1141,11 @@
 ✍️ Author: Shxikrf
 🔗 Link: https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc
 
+📌 Why Companies Are Hesitant About Bug Bounty Programs
+✍️ Author: Levente Molnar
+🔗 Link: https://medium.com/@hackrate/why-companies-are-hesitant-about-bug-bounty-programs-a5dcdea30f5c
+
+📌 A Security Gap (PII) in a Bus Company
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff
+
