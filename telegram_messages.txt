@@ -1149,3 +1149,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff
 
+📌 Race Condition Attacks: Exploiting Tiny Gaps in Business Logic
+✍️ Author: HackerNasr
+🔗 Link: https://medium.com/@HackerNasr/race-condition-attacks-exploiting-tiny-gaps-in-business-logic-c2589b9ac2e7
+
+📌 Easiest $225 Ever: A Simple SQL Injection Win!
+✍️ Author: WhoAdnan
+🔗 Link: https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45
+
