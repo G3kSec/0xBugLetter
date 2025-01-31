@@ -1157,3 +1157,11 @@
 ✍️ Author: WhoAdnan
 🔗 Link: https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45
 
+📌 How I Bagged $300 for a Sneaky yet Simple Bug
+✍️ Author: thedevtask
+🔗 Link: https://medium.com/@thedevtaskofficial/how-i-bagged-300-for-a-sneaky-yet-simple-bug-f21a8a02b6e1
+
+📌 The ONLY Hacking Tool You Need
+✍️ Author: susapr
+🔗 Link: https://medium.com/@susapr/the-only-hacking-tool-you-need-a1015fd26995
+
