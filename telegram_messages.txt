@@ -1165,3 +1165,7 @@
 ✍️ Author: susapr
 🔗 Link: https://medium.com/@susapr/the-only-hacking-tool-you-need-a1015fd26995
 
+📌 Title:The Silent Takeover: How a Tiny Oversight Led to a Major Security Risk
+✍️ Author: thedevtask official
+🔗 Link: https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8
+
