@@ -1169,3 +1169,11 @@
 ✍️ Author: thedevtask official
 🔗 Link: https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8
 
+📌 My Bug Hunting Methodology Approach to Finding Bugs Easily 🐞💡
+✍️ Author: CaptinSHArky(Mahdi🇹🇳)
+🔗 Link: https://medium.com/@mahdisalhi0500/my-bug-hunting-methodology-approach-to-finding-bugs-easily-30082f35b455
+
+📌 Easy P3 Bug | LDAP Null Bind leads to extract sensitive credentials
+✍️ Author: AbhirupKonwar
+🔗 Link: https://medium.com/@abhirupkonwar04/easy-p3-bug-ldap-null-bind-leads-to-extract-sensitive-credentials-0d06b8d58d99
+
