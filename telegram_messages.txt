@@ -1177,3 +1177,15 @@
 ✍️ Author: AbhirupKonwar
 🔗 Link: https://medium.com/@abhirupkonwar04/easy-p3-bug-ldap-null-bind-leads-to-extract-sensitive-credentials-0d06b8d58d99
 
+📌 Understanding API Security with OpenAPI: A Security Engineer’s Perspective
+✍️ Author: In
+🔗 Link: https://medium.com/cyprox-io/understanding-api-security-with-openapi-a-security-engineers-perspective-b8083c457a8a
+
+📌 XSS on GeeksforGeeks 😈
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/xss-on-geeksforgeeks-2eafcbbf90b0
+
+📌 Bug Bounty Hunting: How the Internet Works
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-how-the-internet-works-ca0327bf53c5
+
