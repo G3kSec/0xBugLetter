@@ -1189,3 +1189,7 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-how-the-internet-works-ca0327bf53c5
 
+📌 Mattermost Privilege Escalation — A Business Acceptable Risk?
+✍️ Author: Matias Ramirez
+🔗 Link: https://medium.com/@duality084/mattermost-privilege-escalation-a-business-acceptable-risk-d83b91d4413e
+
