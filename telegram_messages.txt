@@ -1201,3 +1201,7 @@
 ✍️ Author: Sıla Özeren
 🔗 Link: https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c
 
+📌 Bypassing OTP Verification: Exposing a Critical Authentication Flaw
+✍️ Author: Aman Banga
+🔗 Link: https://medium.com/@amanba13.ab/bypassing-otp-verification-exposing-a-critical-authentication-flaw-80a1065a432c
+
