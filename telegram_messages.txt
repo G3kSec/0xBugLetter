@@ -1205,3 +1205,15 @@
 ✍️ Author: Aman Banga
 🔗 Link: https://medium.com/@amanba13.ab/bypassing-otp-verification-exposing-a-critical-authentication-flaw-80a1065a432c
 
+📌 DAY[4/30] CSRF (Cross-Site Request Forgery): Exploitation and Prevention in depth
+✍️ Author: Mr Horbio
+🔗 Link: https://medium.com/@hrofficial62/csrf-cross-site-request-forgery-exploitation-and-prevention-in-depth-72ed72ebf23a
+
+📌 Accidental Information Disclosure!
+✍️ Author: Naveen Kumar
+🔗 Link: https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb
+
+📌 Bug Bounty Hunting: Web Vulnerability (Clickjacking)
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-clickjacking-a96bbd91a97a
+
