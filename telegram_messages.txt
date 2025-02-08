@@ -1217,3 +1217,11 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-clickjacking-a96bbd91a97a
 
+📌 How to Find Your 1st Easy Bug as a Bug Bounty Hunter (Step-by-Step Guide) On Real Live Websites
+✍️ Author: Shaikh Minhaz
+🔗 Link: https://medium.com/@shaikhminhaz1975/how-to-find-your-1st-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-on-real-live-websites-cc586d51e1e7
+
+📌 User Interface Says No, Backend Says Yes — Story of Bypassing Email Verification
+✍️ Author: 0xSOM3A
+🔗 Link: https://medium.com/@som3a/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f
+
