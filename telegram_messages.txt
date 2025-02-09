@@ -1225,3 +1225,15 @@
 ✍️ Author: 0xSOM3A
 🔗 Link: https://medium.com/@som3a/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f
 
+📌 From Hidden XSS to Full Account Takeover – A Deep Dive into Exploiting Modern Web Applications
+✍️ Author: 404NotPentested
+🔗 Link: https://medium.com/@mahad.ahmed0x1/from-hidden-xss-to-full-account-takeover-a-deep-dive-into-exploiting-modern-web-applications-811380417387
+
+📌 My First Finding In Hackerone
+✍️ Author: Islam Meshrif
+🔗 Link: https://medium.com/@islammeshriff/my-first-finding-in-hackerone-7521597ca04d
+
+📌 Bug Bounty Hunting: Web Vulnerability (Insecure Direct Object References)
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-insecure-direct-object-references-a39038e8f7a3
+
