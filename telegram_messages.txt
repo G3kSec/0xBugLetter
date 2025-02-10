@@ -1237,3 +1237,7 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-insecure-direct-object-references-a39038e8f7a3
 
+📌 BUG BOUNTY Roadmap
+✍️ Author: codingbolt
+🔗 Link: https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123
+
