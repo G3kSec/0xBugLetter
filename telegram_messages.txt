@@ -1253,3 +1253,15 @@
 ✍️ Author: xlr7
 🔗 Link: https://medium.com/@ajax12395/so-i-was-casually-hunting-for-bugs-on-this-random-subdomain-of-my-target-just-a-normal-page-no-43a9154a25a3
 
+📌 Hacking tools — Art of my creation
+✍️ Author: Zatikyan Sevada
+🔗 Link: https://medium.com/@zatikyan.sevada/hacking-tools-art-of-my-creation-2f47ab1eca18
+
+📌 How I found 3 CSRFs on a Public Program
+✍️ Author: ShellReaper
+🔗 Link: https://medium.com/@shellreaper/how-i-found-3-csrfs-on-a-public-program-e9b9ff52c1a0
+
+📌 Bug Bounty Hunting: Web Vulnerability (Template Injection)
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-template-injection-373ee3c8b80c
+
