@@ -1265,3 +1265,15 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-template-injection-373ee3c8b80c
 
+📌 Finding Hidden API Keys, Tokens, and Sensitive Information in Applications
+✍️ Author: Karthikeyan Nagaraj
+🔗 Link: https://medium.com/@cyberw1ng/finding-hidden-api-keys-tokens-and-sensitive-information-in-applications-d8a40a5a162a
+
+📌 Bug Bounty in 2025: Part 1 — Mastering Regex for Security
+✍️ Author: Sıla Özeren
+🔗 Link: https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102
+
+📌 Bug Bounty Hunting: Web Vulnerability (Same-Origin Policy)
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-same-origin-policy-23aabe865729
+
