@@ -1277,3 +1277,15 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-same-origin-policy-23aabe865729
 
+📌 Advanced Secrets Hunting: Finding Exposed Credentials in Unconventional Places
+✍️ Author: Karthikeyan Nagaraj
+🔗 Link: https://medium.com/@cyberw1ng/advanced-secrets-hunting-finding-exposed-credentials-in-unconventional-places-9aaaf52330a3
+
+📌 Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700
+✍️ Author: Akash Ghosh
+🔗 Link: https://medium.com/@myselfakash20/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785
+
+📌 Bug Bounty Hunting: Web Vulnerability (Information Disclosure)
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-information-disclosure-b1ef91dc0208
+
