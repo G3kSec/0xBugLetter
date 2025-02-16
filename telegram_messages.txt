@@ -1289,3 +1289,11 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-information-disclosure-b1ef91dc0208
 
+📌 API Testing ( Port Swigger Labs ) Solutions
+✍️ Author: youssef awad
+🔗 Link: https://medium.com/@youssefawad1357/api-testing-port-swigger-labs-solutions-2f8f7b949f9f
+
+📌 Advanced XSS Filter Bypass Methods Using Payload Splitting
+✍️ Author: Shady Farouk
+🔗 Link: https://medium.com/@shadyfarouk1986/advanced-xss-filter-bypass-methods-using-payload-splitting-c8e32497461a
+
