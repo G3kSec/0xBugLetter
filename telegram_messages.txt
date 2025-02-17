@@ -1297,3 +1297,7 @@
 ✍️ Author: Shady Farouk
 🔗 Link: https://medium.com/@shadyfarouk1986/advanced-xss-filter-bypass-methods-using-payload-splitting-c8e32497461a
 
+📌 Bug Bounty Hunting: Web Vulnerability (API Testing)
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-api-testing-96a49acc4f35
+
