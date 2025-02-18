@@ -1301,3 +1301,7 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bug-bounty-hunting-web-vulnerability-api-testing-96a49acc4f35
 
+📌 🚀How I Found an Open Redirect Vulnerability Easily (Worth $500!)
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/how-i-found-an-open-redirect-vulnerability-easily-worth-500-d677d7693c06
+
