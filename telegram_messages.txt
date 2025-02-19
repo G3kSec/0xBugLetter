@@ -1305,3 +1305,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/cybersecuritywriteups/how-i-found-an-open-redirect-vulnerability-easily-worth-500-d677d7693c06
 
+📌 Unverified Email Change Flaw on Apps.Target.com: A Sneaky Account Takeover Trick
+✍️ Author: JEETPAL
+🔗 Link: https://medium.com/@jeetpal2007/unverified-email-change-flaw-on-apps-target-com-a-sneaky-account-takeover-trick-2d3402223f4f
+
+📌 Bug Bounty in 2025: Part 3 — Investigating 4 Open Redirect Reports at HackerOne, So You Don’t Have…
+✍️ Author: Sıla Özeren
+🔗 Link: https://medium.com/@halfcircassian/bug-bounty-in-2025-part-3-investigating-4-open-redirect-reports-at-hackerone-so-you-dont-have-499948a0e6b1
+
