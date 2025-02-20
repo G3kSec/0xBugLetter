@@ -1313,3 +1313,11 @@
 ✍️ Author: Sıla Özeren
 🔗 Link: https://medium.com/@halfcircassian/bug-bounty-in-2025-part-3-investigating-4-open-redirect-reports-at-hackerone-so-you-dont-have-499948a0e6b1
 
+📌 No Rate Limit: The Easiest Bug Bounty Payout You’re Missing
+✍️ Author: Abdul Basit Khan
+🔗 Link: https://medium.com/@abdulbasitpriv/no-rate-limit-the-easiest-bug-bounty-payout-youre-missing-79335e39c377
+
+📌 Bug Bounty Methodology: Exploiting Dev & Staging Environments for Maximum Bounty
+✍️ Author: 0day stories
+🔗 Link: https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744
+
