@@ -1321,3 +1321,7 @@
 ✍️ Author: 0day stories
 🔗 Link: https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744
 
+📌 $5M Critical Vulnerability Discovery: 3 Warning Signs for 2025
+✍️ Author: Ibtissam Hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi/5m-critical-vulnerability-discovery-3-warning-signs-for-2025-f407bb9b7998
+
