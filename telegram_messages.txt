@@ -1325,3 +1325,11 @@
 ✍️ Author: Ibtissam Hammadi
 🔗 Link: https://medium.com/@ibtissamhammadi/5m-critical-vulnerability-discovery-3-warning-signs-for-2025-f407bb9b7998
 
+📌 How to Find Your First Bug and Get Paid — Bug Bounty Made Easy 💰🐞
+✍️ Author: Krish_cyber
+🔗 Link: https://medium.com/@krishna-cyber/how-to-find-your-first-bug-and-get-paid-bug-bounty-made-easy-da3de634265c
+
+📌 How I Found 5 Reflected XSS in a Public Program
+✍️ Author: httpzuz
+🔗 Link: https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526
+
