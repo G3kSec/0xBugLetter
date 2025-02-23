@@ -1333,3 +1333,11 @@
 ✍️ Author: httpzuz
 🔗 Link: https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526
 
+📌 Bug Bounty Hunting — Complete Guide (Part-105)
+✍️ Author: Mehedi Hasan Rafid
+🔗 Link: https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-105-6016b1f36174
+
+📌 Bug Bounty Restart- Phase 1: Preparation & Mindset
+✍️ Author: Om Arora
+🔗 Link: https://medium.com/@omarora1603/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278
+
