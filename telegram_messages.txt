@@ -1349,3 +1349,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278
 
+📌 Cross-Site Request Forgery + Low Hanging Fruit sum up to $$$$
+✍️ Author: Ehtesham Ul Haq
+🔗 Link: https://medium.com/@ehteshamulhaq198/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44
+
