@@ -1353,3 +1353,11 @@
 ✍️ Author: Ehtesham Ul Haq
 🔗 Link: https://medium.com/@ehteshamulhaq198/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44
 
+📌 web cache deception on private program
+✍️ Author: 0xkarim
+🔗 Link: https://medium.com/@0x_karim/web-cache-deception-on-private-program-ccce0a612d46
+
+📌 How I Exploited a Hidden Race Condition to Bypass Licensing and Claim All Subdomains on the target
+✍️ Author: 0_oNoProblem
+🔗 Link: https://medium.com/@0onoproblem/how-i-exploited-a-hidden-race-condition-to-bypass-licensing-and-claim-all-subdomains-on-the-target-64944b148f49
+
