@@ -1365,3 +1365,11 @@
 ✍️ Author: Mehedi Hasan Rafid
 🔗 Link: https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-109-1840bb5bf3e0
 
+📌 How I Found an IDOR Vulnerability and Accessed 100000+ User Details and got $$$ Bounty
+✍️ Author: Harsh Bardhan
+🔗 Link: https://medium.com/@harshbardhanx/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf
+
+📌 Bug Bounty Methodology (Part 1: Basic)
+✍️ Author: hackersatty
+🔗 Link: https://medium.com/@hackersatty/bug-bounty-methodology-part-1-basic-ee4f3f7a4f81
+
