@@ -1373,3 +1373,11 @@
 ✍️ Author: hackersatty
 🔗 Link: https://medium.com/@hackersatty/bug-bounty-methodology-part-1-basic-ee4f3f7a4f81
 
+📌 How I Could Access Anyone’s College Subscription — IDOR Strikes Again! 🚨
+✍️ Author: shxsu1
+🔗 Link: https://medium.com/@shxsu1/how-i-could-access-anyones-college-subscription-idor-strikes-again-a4ea7c30f165
+
+📌 How I Discovered a P2 Level Sensitive Data Exposure Bug in a Web3 Platform
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/how-i-discovered-a-p2-level-sensitive-data-exposure-bug-in-a-web3-platform-4562fcbe655e
+
