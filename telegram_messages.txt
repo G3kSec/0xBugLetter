@@ -1381,3 +1381,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/cybersecuritywriteups/how-i-discovered-a-p2-level-sensitive-data-exposure-bug-in-a-web3-platform-4562fcbe655e
 
+📌 Advanced Dorking Methodology for Finding Vulnerabilities (Part 1)
+✍️ Author: hackersatty
+🔗 Link: https://medium.com/@hackersatty/advanced-dorking-methodology-for-finding-vulnerabilities-part-1-e3564e314819
+
