@@ -1385,3 +1385,11 @@
 ✍️ Author: hackersatty
 🔗 Link: https://medium.com/@hackersatty/advanced-dorking-methodology-for-finding-vulnerabilities-part-1-e3564e314819
 
+📌 This is The Easiest Bug You Can Find✨
+✍️ Author: Abhijeet Kumawat
+🔗 Link: https://medium.com/@Abhijeet_kumawat_/this-is-the-easiest-bug-you-can-find-b418fade22ee
+
+📌 Exploiting an Exposed .git: Gaining Access to Source Code and Database
+✍️ Author: ilhamm.0a
+🔗 Link: https://medium.com/@ilhamm0a/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c
+
