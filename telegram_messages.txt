@@ -1393,3 +1393,11 @@
 ✍️ Author: ilhamm.0a
 🔗 Link: https://medium.com/@ilhamm0a/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c
 
+📌 Finding Exposed AWS Buckets Like a Pro! : Bug Bounty Recon [Part-2]
+✍️ Author: Mr Horbio
+🔗 Link: https://medium.com/@hrofficial62/finding-exposed-aws-buckets-like-a-pro-bug-bounty-recon-part-2-81012428256f
+
+📌 Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It
+✍️ Author: hacker_might
+🔗 Link: https://medium.com/@hacker_might/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e
+
