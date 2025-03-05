@@ -1401,3 +1401,15 @@
 ✍️ Author: hacker_might
 🔗 Link: https://medium.com/@hacker_might/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e
 
+📌 🚀 How to Use Automated Tools for Information Gathering
+✍️ Author: Vipul Sonule
+🔗 Link: https://medium.com/@vipulsonule71/how-to-use-automated-tools-for-information-gathering-779bae995dc8
+
+📌 Streamline Reconnaissance with NetSanitizer: A URL Deduplication Powerhouse for Bug Bounty Hunters
+✍️ Author: iamsecure1920 (Sai Krishna Sobila )
+🔗 Link: https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c
+
+📌 Bypassing Client-Side Controls
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@muhammad4208/bypassing-client-side-controls-6f85c97747d7
+
