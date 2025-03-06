@@ -1413,3 +1413,11 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@muhammad4208/bypassing-client-side-controls-6f85c97747d7
 
+📌 2025 OWASP Vulnerabilities Complete Guide for Security Tester
+✍️ Author: Ajay Naik
+🔗 Link: https://medium.com/@ajaynaikhack/2025-owasp-vulnerabilities-complete-guide-for-security-tester-8b20f754bee4
+
+📌 Critical IDOR Vulnerability in Order Tracking System Exposes Customer Data
+✍️ Author: Digvijay Gholase
+🔗 Link: https://medium.com/@jxycybersec/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329
+
