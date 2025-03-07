@@ -1421,3 +1421,7 @@
 ✍️ Author: Digvijay Gholase
 🔗 Link: https://medium.com/@jxycybersec/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329
 
+📌 How I Earned $4,000+ in My First Six Months of Bug Bounty Hunting
+✍️ Author: Chaitanya Reddy
+🔗 Link: https://medium.com/@nchaitreddyutilities/how-i-earned-4-000-in-my-first-six-months-of-bug-bounty-hunting-e969144a368a
+
