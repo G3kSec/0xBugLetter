@@ -1425,3 +1425,11 @@
 ✍️ Author: Chaitanya Reddy
 🔗 Link: https://medium.com/@nchaitreddyutilities/how-i-earned-4-000-in-my-first-six-months-of-bug-bounty-hunting-e969144a368a
 
+📌 Email Disclosure via .git Config in project: $500 Bounty Bug
+✍️ Author: Abhi Sharma
+🔗 Link: https://medium.com/@a13h1/email-disclosure-via-git-config-in-project-500-bounty-bug-ee057ca12e6f
+
+📌 ZeroClick Account Takeover : A Four-Bug Chain Exploit
+✍️ Author: Asim
+🔗 Link: https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23
+
