@@ -1433,3 +1433,11 @@
 ✍️ Author: Asim
 🔗 Link: https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23
 
+📌 How I Found a Google API Key Leak in a Bug Bounty Program
+✍️ Author: Ahmedsamy
+🔗 Link: https://medium.com/@AhmedSamy-X/how-i-found-a-google-api-key-leak-in-a-bug-bounty-program-c9a497efe479
+
+📌 How I Found Clickjacking in a Public Program
+✍️ Author: Slash0x01
+🔗 Link: https://medium.com/@slash0x01/how-i-found-clickjacking-in-a-public-program-9581aa6bab1f
+
