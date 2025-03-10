@@ -1441,3 +1441,11 @@
 ✍️ Author: Slash0x01
 🔗 Link: https://medium.com/@slash0x01/how-i-found-clickjacking-in-a-public-program-9581aa6bab1f
 
+📌 Part-2 | Deep Recon Methodology for Bug Bounty Hunters
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/part-2-deep-recon-methodology-for-bug-bounty-hunters-2ea73cefb010
+
+📌 Broken Authentication : Bypass OTP with JSON Manipulation
+✍️ Author: ilhamm.0a
+🔗 Link: https://medium.com/@ilhamm0a/broken-authentication-bypass-otp-with-json-manipulation-6454b45ac624
+
