@@ -1453,3 +1453,15 @@
 ✍️ Author: Prathmesh S
 🔗 Link: https://medium.com/@prathmeshshendarkar/server-side-parameter-pollution-deep-dive-part-1-51aed2539c07
 
+📌 100$ reward from hacking the earning site
+✍️ Author: Bytesnull
+🔗 Link: https://medium.com/@bytesnull44/100-reward-from-hacking-the-earning-site-803b49028df7
+
+📌 Turn website feedback into instant, actionable tickets.
+✍️ Author: New AI Apps Daily
+🔗 Link: https://medium.com/@readybready4/turn-website-feedback-into-instant-actionable-tickets-40ef4bc14be6
+
+📌 Bypassing Client-Side Controls
+✍️ Author: Muhammad Abdullah Niazi
+🔗 Link: https://medium.com/@NiaziSec/bypassing-client-side-controls-6f85c97747d7
+
