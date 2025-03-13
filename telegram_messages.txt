@@ -1465,3 +1465,11 @@
 ✍️ Author: Muhammad Abdullah Niazi
 🔗 Link: https://medium.com/@NiaziSec/bypassing-client-side-controls-6f85c97747d7
 
+📌 Unauthenticated API Leaks Private Property Data
+✍️ Author: Adham Heinrich
+🔗 Link: https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d
+
+📌 Unauthenticated API Leaks Private Property Data
+✍️ Author: Adham Heinrich
+🔗 Link: https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d
+
