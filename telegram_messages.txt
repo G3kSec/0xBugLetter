@@ -1473,3 +1473,11 @@
 ✍️ Author: Adham Heinrich
 🔗 Link: https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d
 
+📌 GraphQL Vulnerabilities: A Complete Guide to Security Testing and Advanced Exploitation Techniques
+✍️ Author: Ajay Naik
+🔗 Link: https://medium.com/@ajaynaikhack/graphql-vulnerabilities-a-complete-guide-to-security-testing-and-advanced-exploitation-techniques-5eb94af945c0
+
+📌 How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2
+✍️ Author: Mukilan Baskaran
+🔗 Link: https://medium.com/@mukibas37/find-bugs-using-github-dorking-part-2-2f80c1023592
+
