@@ -1485,3 +1485,11 @@
 ✍️ Author: Vickyrohith
 🔗 Link: https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c
 
+📌 Payload Generation Techniques for Bug Bounty Hunters
+✍️ Author: Spectat0rguy
+🔗 Link: https://medium.com/@bitpanic/payload-generation-techniques-for-bug-bounty-hunters-ab8b75bdffa6
+
+📌 How I Bypassed Verification & One Pro Tip for Bug Hunters
+✍️ Author: CaptinSHArky(Mahdi🇹🇳)
+🔗 Link: https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614
+
