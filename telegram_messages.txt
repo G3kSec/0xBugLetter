@@ -1493,3 +1493,7 @@
 ✍️ Author: CaptinSHArky(Mahdi🇹🇳)
 🔗 Link: https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614
 
+📌 Gas Level Vulnerability: Floating pragma version
+✍️ Author: JEETPAL
+🔗 Link: https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096
+
