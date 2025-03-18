@@ -1497,3 +1497,11 @@
 ✍️ Author: JEETPAL
 🔗 Link: https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096
 
+📌 bxbxb
+✍️ Author: شماره خاله تبریز =مشهد ـکرمان ـخوزستان ـ زاهدانـ
+🔗 Link: https://medium.com/@tbryzshmarhkhalh63/bxbxb-b01a7e6ce064
+
+📌 Critical IDOR: Unrestricted Access to All Company Published Files
+✍️ Author: 0xAhM3D
+🔗 Link: https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87
+
