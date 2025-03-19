@@ -1505,3 +1505,11 @@
 ✍️ Author: 0xAhM3D
 🔗 Link: https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87
 
+📌 Test my story
+✍️ Author: Rupesh Sardar
+🔗 Link: https://medium.com/@Rupesh_Sardar/test-my-story-84c7ad67a75a
+
+📌 🔓 CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties 🚀💸
+✍️ Author: Krish_cyber
+🔗 Link: https://medium.com/@krishna-cyber/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3
+
