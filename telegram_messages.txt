@@ -1513,3 +1513,11 @@
 ✍️ Author: Krish_cyber
 🔗 Link: https://medium.com/@krishna-cyber/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3
 
+📌 File Inclusion Vulnerabilities: Advanced Exploitation and Mitigation Techniques
+✍️ Author: Karthikeyan Nagaraj
+🔗 Link: https://medium.com/@cyberw1ng/file-inclusion-vulnerabilities-advanced-exploitation-and-mitigation-techniques-6b47cb6547fd
+
+📌 $12,900 in Bounties in My First Month of Bug Hunting with Ax Framework
+✍️ Author: 0xtavian
+🔗 Link: https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2
+
