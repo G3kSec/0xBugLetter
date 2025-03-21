@@ -1521,3 +1521,11 @@
 ✍️ Author: 0xtavian
 🔗 Link: https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2
 
+📌 When Life Gave Me a 500 Error, I Found AWS Keys Instead! $$RF
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/when-life-gave-me-a-500-error-i-found-aws-keys-instead-rf-b416f8ca68f8
+
+📌 How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…
+✍️ Author: TheIndianNetwork
+🔗 Link: https://medium.com/@theindiannetwork/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e
+
