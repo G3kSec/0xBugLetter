@@ -1529,3 +1529,15 @@
 ✍️ Author: TheIndianNetwork
 🔗 Link: https://medium.com/@theindiannetwork/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e
 
+📌 Business Logic
+✍️ Author: Hazem
+🔗 Link: https://medium.com/@520hazem/business-logic-53377a732c8c
+
+📌 The rate limiting request /api/auth/_log is not used causing all APIs to crash.
+✍️ Author: ramzey elsayed mohamed
+🔗 Link: https://medium.com/@VulnRAM/the-rate-limiting-request-api-auth-log-is-not-used-causing-all-apis-to-crash-87dc89c4f178
+
+📌 How I Made $1000 in Just 30 Minutes by Discovering an Account Takeover (ATO) Vulnerability!
+✍️ Author: TheIndianNetwork
+🔗 Link: https://medium.com/@theindiannetwork/how-i-made-1000-in-just-30-minutes-by-discovering-an-account-takeover-ato-vulnerability-84afd6c5d9ab
+
