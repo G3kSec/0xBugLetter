@@ -1541,3 +1541,11 @@
 ✍️ Author: TheIndianNetwork
 🔗 Link: https://medium.com/@theindiannetwork/how-i-made-1000-in-just-30-minutes-by-discovering-an-account-takeover-ato-vulnerability-84afd6c5d9ab
 
+📌 Next.js and the corrupt middleware: the authorizing artifact
+✍️ Author: Rachid.A
+🔗 Link: https://medium.com/@zhero_/next-js-and-the-corrupt-middleware-the-authorizing-artifact-14e6fb688d26
+
+📌 RCE through Zip Unarchiving
+✍️ Author: Cristi Vlad
+🔗 Link: https://medium.com/@cristivlad/rce-through-zip-unarchiving-9d9d11e91449
+
