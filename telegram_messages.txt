@@ -1549,3 +1549,11 @@
 ✍️ Author: Cristi Vlad
 🔗 Link: https://medium.com/@cristivlad/rce-through-zip-unarchiving-9d9d11e91449
 
+📌 How a Security Researcher Earned $1,900 Bounty for Privilege Escalation
+✍️ Author: Karthikeyan Nagaraj
+🔗 Link: https://medium.com/@cyberw1ng/how-a-security-researcher-earned-1-900-bounty-for-privilege-escalation-d430e24e8b1b
+
+📌 Internet Archive: Wayback Hunting for Bug Bounty Hunters
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c
+
