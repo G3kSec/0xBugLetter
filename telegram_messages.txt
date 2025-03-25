@@ -1557,3 +1557,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c
 
+📌 Private Keys vs Seed Phrases: What You Need to Know
+✍️ Author: Its Aman Yadav
+🔗 Link: https://medium.com/@itsamanyadav/private-keys-vs-seed-phrases-what-you-need-to-know-71fc6bb70cc4
+
+📌 Account Take-over Via Password Reset Poisoning
+✍️ Author: Mohamed Usman
+🔗 Link: https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642
+
+📌 Custom Dorks to find Bug Bounty Programs
+✍️ Author: AbhirupKonwar
+🔗 Link: https://medium.com/@abhirupkonwar04/custom-dorks-to-find-bug-bounty-programs-4867da4b9ebf
+
