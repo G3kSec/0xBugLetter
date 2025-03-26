@@ -1569,3 +1569,15 @@
 ✍️ Author: AbhirupKonwar
 🔗 Link: https://medium.com/@abhirupkonwar04/custom-dorks-to-find-bug-bounty-programs-4867da4b9ebf
 
+📌 🚨One-Click Account Hijacking on TikTok
+✍️ Author: Abhijeet Kumawat
+🔗 Link: https://medium.com/@Abhijeet_kumawat_/one-click-account-hijacking-on-tiktok-b0d211288abe
+
+📌 From Blind XSS to Full Server Takeover
+✍️ Author: Nuy
+🔗 Link: https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab
+
+📌 Custom Dorks to find Bug Bounty Programs
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/custom-dorks-to-find-bug-bounty-programs-4867da4b9ebf
+
