@@ -1581,3 +1581,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/custom-dorks-to-find-bug-bounty-programs-4867da4b9ebf
 
+📌 Rate Limit Bypass in Password Reset Functionality
+✍️ Author: Fuzzyy Duck
+🔗 Link: https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae
+
