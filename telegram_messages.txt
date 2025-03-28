@@ -1585,3 +1585,11 @@
 ✍️ Author: Fuzzyy Duck
 🔗 Link: https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae
 
+📌 How I found 4 vulnerabilities in only 1 day?
+✍️ Author: Imad Husanovic
+🔗 Link: https://medium.com/@deadoverflow/how-i-found-4-vulnerabilities-in-only-1-day-473a870b583a
+
+📌 How I Found a CSRF Vulnerability in Profile Picture Deletion
+✍️ Author: EL_Cazad0r
+🔗 Link: https://medium.com/@EL_cazad0r/how-i-found-a-csrf-vulnerability-in-profile-picture-deletion-b95bf8e6d579
+
