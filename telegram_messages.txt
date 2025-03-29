@@ -1593,3 +1593,11 @@
 ✍️ Author: EL_Cazad0r
 🔗 Link: https://medium.com/@EL_cazad0r/how-i-found-a-csrf-vulnerability-in-profile-picture-deletion-b95bf8e6d579
 
+📌 The Zombie Bug — Critical CVE 2025 Story
+✍️ Author: Parth Shukla
+🔗 Link: https://medium.com/@0xparth/the-zombie-bug-critical-cve-2025-story-6cccb20ee8f5
+
+📌 💰 I Found HTTP Request Smuggling & Got a Huge Bug Bounty! (Full Exploit Guide) 🚀
+✍️ Author: TheIndianNetwork
+🔗 Link: https://medium.com/@theindiannetwork/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695
+
