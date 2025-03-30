@@ -1601,3 +1601,11 @@
 ✍️ Author: TheIndianNetwork
 🔗 Link: https://medium.com/@theindiannetwork/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695
 
+📌 “No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story
+✍️ Author: Nijin K
+🔗 Link: https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e
+
+📌 “No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story
+✍️ Author: Nijin K
+🔗 Link: https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e
+
