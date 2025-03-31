@@ -1609,3 +1609,11 @@
 ✍️ Author: Nijin K
 🔗 Link: https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e
 
+📌 Eldoria Realms — HackTheBox — Cyber Apocalypse 2025
+✍️ Author: Somnath Das
+🔗 Link: https://medium.com/@dassomnath/eldoria-realms-hackthebox-cyber-apocalypse-2025-ecde31783ec9
+
+📌 Bug Bounty Hunter’s Nightmare: The Dark Secrets No One Talks About! ⚠️💰
+✍️ Author: TheIndianNetwork
+🔗 Link: https://medium.com/@theindiannetwork/bug-bounty-hunters-nightmare-the-dark-secrets-no-one-talks-about-️-f20971abcbee
+
