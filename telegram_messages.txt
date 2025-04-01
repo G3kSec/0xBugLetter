@@ -1617,3 +1617,11 @@
 ✍️ Author: TheIndianNetwork
 🔗 Link: https://medium.com/@theindiannetwork/bug-bounty-hunters-nightmare-the-dark-secrets-no-one-talks-about-️-f20971abcbee
 
+📌 I Found a Critical Bug in JWT Authentication and Earned $10,000 — Here’s How You Can Too!
+✍️ Author: TheIndianNetwork
+🔗 Link: https://medium.com/@theindiannetwork/i-found-a-critical-bug-in-jwt-authentication-and-earned-10-000-heres-how-you-can-too-8cec94913727
+
+📌 My First Bug Bounty Success: Earning $500 by Uncovering a DoS Vulnerability
+✍️ Author: Entit_y
+🔗 Link: https://medium.com/@entit_y/my-first-bug-bounty-success-earning-500-by-uncovering-a-dos-vulnerability-f0456eb72576
+
