@@ -1625,3 +1625,11 @@
 ✍️ Author: Entit_y
 🔗 Link: https://medium.com/@entit_y/my-first-bug-bounty-success-earning-500-by-uncovering-a-dos-vulnerability-f0456eb72576
 
+📌 Price Tampering Vulnerability in the Supreme Court of India
+✍️ Author: Deepak kumar
+🔗 Link: https://medium.com/@deepak7903800/price-tampering-vulnerability-in-the-supreme-court-of-india-4bd3046b2bb9
+
+📌 You Say Premium Features? Well, Not Anymore
+✍️ Author: Ahmed Salem
+🔗 Link: https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9
+
