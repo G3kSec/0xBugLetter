@@ -1633,3 +1633,15 @@
 ✍️ Author: Ahmed Salem
 🔗 Link: https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9
 
+📌 Detecting and Blocking a Stealthy Adware: BJCAUpdate.exe Case Study
+✍️ Author: Muhammet ALGAN
+🔗 Link: https://medium.com/@muhammetalgan3547/detecting-and-blocking-a-stealthy-adware-bjcaupdate-exe-case-study-d5cee8d7f248
+
+📌 Overprivileged API and Remote Code Execution (RCE)
+✍️ Author: RkVb
+🔗 Link: https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d
+
+📌 💰 Bug Bounty Tips: Mastering XML-RPC Exploits Like a Pro 🚀
+✍️ Author: Frostyxsec
+🔗 Link: https://medium.com/@frostyxsec/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc
+
