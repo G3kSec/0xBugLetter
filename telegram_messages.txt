@@ -1645,3 +1645,11 @@
 ✍️ Author: Frostyxsec
 🔗 Link: https://medium.com/@frostyxsec/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc
 
+📌 From “Not Reproducible” to Recognition: Reflected XSS on NASA
+✍️ Author: Dikshya Shrestha
+🔗 Link: https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459
+
+📌 Hacking Workspace for Fun & Profit: Part I
+✍️ Author: Md Saikat
+🔗 Link: https://medium.com/@0xh7ml/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6
+
