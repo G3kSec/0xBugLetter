@@ -1653,3 +1653,11 @@
 ✍️ Author: Md Saikat
 🔗 Link: https://medium.com/@0xh7ml/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6
 
+📌 Google Classroom IDOR: Mute Anyone, Even the Owner… But Ignored 😔
+✍️ Author: Abdo Rabea (VolteX)
+🔗 Link: https://medium.com/@v0ltex/google-classroom-idor-mute-anyone-even-the-owner-but-ignored-58def4627507
+
+📌 Developers Mistake Leads to Bountiesss$$$…
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/developers-mistake-leads-to-bountiesss-088cf2c2ce51
+
