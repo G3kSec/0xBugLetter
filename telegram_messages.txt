@@ -1661,3 +1661,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/developers-mistake-leads-to-bountiesss-088cf2c2ce51
 
+📌 🚀 Hacking a File Path Traversal Vulnerability: How I Retrieved /etc/passwd & Solved the Lab
+✍️ Author: Sumanth Yerranagula
+🔗 Link: https://medium.com/@sumanth1962/hacking-a-file-path-traversal-vulnerability-how-i-retrieved-etc-passwd-solved-the-lab-4e9e1a2f8aa2
+
+📌 $150 IDOR🕵️‍♂️ — How I Added My Own Dishes to a Restaurant Menu 🍽
+✍️ Author: Yahia Sherif
+🔗 Link: https://medium.com/@yahiasherif/150-idor-️-️-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878
+
+📌 CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities 🐛💰
+✍️ Author: Frostyxsec
+🔗 Link: https://medium.com/@frostyxsec/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af
+
