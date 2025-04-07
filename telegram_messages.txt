@@ -1673,3 +1673,12 @@
 ✍️ Author: Frostyxsec
 🔗 Link: https://medium.com/@frostyxsec/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af
 
+📌 Duty Free: A White-Hat Forum with a Shadowed Past
+✍️ Author: vasek
+🔗 Link: https://medium.com/@vasekpentester/duty-free-a-white-hat-forum-with-a-shadowed-past-5cc92ca1c3e7
+
+📌 Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
+---
+✍️ Author: Gouri Sankar A
+🔗 Link: https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3
+
