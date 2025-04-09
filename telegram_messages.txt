@@ -1682,3 +1682,15 @@
 ✍️ Author: Gouri Sankar A
 🔗 Link: https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3
 
+📌 A Beginner's Guide to Bug Bounties.
+✍️ Author: RicOnTech
+🔗 Link: https://medium.com/@richard_wachara/a-beginners-guide-to-bug-bounties-f710b10ae188
+
+📌 How I Found Session Not Invalidated After Account Deletion
+✍️ Author: Shra_23
+🔗 Link: https://medium.com/@nightdare666/how-i-found-session-not-invalidated-after-account-deletion-3fb154fb5172
+
+📌 Helpful website to find bug bounty and VDP programs
+✍️ Author: AbhirupKonwar
+🔗 Link: https://medium.com/@abhirupkonwar04/helpful-website-to-find-bug-bounty-and-vdp-programs-eef63aca3b04
+
