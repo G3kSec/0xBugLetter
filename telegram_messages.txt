@@ -1694,3 +1694,15 @@
 ✍️ Author: AbhirupKonwar
 🔗 Link: https://medium.com/@abhirupkonwar04/helpful-website-to-find-bug-bounty-and-vdp-programs-eef63aca3b04
 
+📌 Chasing Bounties: Sometimes You Find Them, Sometimes They Find You
+✍️ Author: Ellatora
+🔗 Link: https://medium.com/@Ellatora/chasing-bounties-sometimes-you-find-them-sometimes-they-find-you-2db172282dfc
+
+📌 Bypassing an Akamai WAF to Achieve Self-XSS via CSRF Chain
+✍️ Author: Kariiem Gamal
+🔗 Link: https://medium.com/@kariiem/bypassing-an-akamai-waf-to-achieve-self-xss-via-csrf-chain-0fd28fcb9250
+
+📌 Helpful website to find bug bounty and VDP programs
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/helpful-website-to-find-bug-bounty-and-vdp-programs-eef63aca3b04
+
