@@ -1706,3 +1706,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/helpful-website-to-find-bug-bounty-and-vdp-programs-eef63aca3b04
 
+📌 How My Life Went from SSRF to LFI (and Why That’s Not a Metaphor)
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/how-my-life-went-from-ssrf-to-lfi-and-why-thats-not-a-metaphor-a2d97297e10b
+
+📌 How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800
+✍️ Author: TheIndianNetwork
+🔗 Link: https://medium.com/@theindiannetwork/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8
+
