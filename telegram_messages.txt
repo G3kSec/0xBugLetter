@@ -1718,3 +1718,11 @@
 ✍️ Author: Regan Temudo
 🔗 Link: https://medium.com/@regan_temudo/unlocking-hidden-paths-web-fuzzing-with-ffuf-9f81381bd9e3
 
+📌 Facebook allows malicious script execution in post,comments and direct messages( rejected bug…
+✍️ Author: Krivadna
+🔗 Link: https://medium.com/@krivadna/facebook-allows-malicious-script-execution-in-post-comments-and-direct-messages-rejected-bug-807ad30e1401
+
+📌 How I Got Access to Other Person’s Chat History and Chat Environment!
+✍️ Author: Gokuleswaran B
+🔗 Link: https://medium.com/@hiddendom/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df
+
