@@ -1726,3 +1726,11 @@
 ✍️ Author: Gokuleswaran B
 🔗 Link: https://medium.com/@hiddendom/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df
 
+📌 Bypass File Attachment Restrictions in Google Groups via Email Posting | Bug Bounty
+✍️ Author: Ph.Hitachi
+🔗 Link: https://medium.com/@ph-hitachi/bypass-file-attachment-restrictions-in-google-groups-via-email-posting-bug-bounty-5d96fe39e46d
+
+📌 Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header
+✍️ Author: ilhamm.0a
+🔗 Link: https://medium.com/@ilhamm0a/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3
+
