@@ -1734,3 +1734,11 @@
 ✍️ Author: ilhamm.0a
 🔗 Link: https://medium.com/@ilhamm0a/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3
 
+📌 Outsmarting the Crowd: 7 Unconventional Strategies to Dominate Bug Bounty Programs 🚀
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/outsmarting-the-crowd-7-unconventional-strategies-to-dominate-bug-bounty-programs-e5432e5fddd2
+
+📌 Google Gemini iOS Vulnerability: Public Link Sharing Silently Leaks Entire Conversations
+✍️ Author: sin99xx
+🔗 Link: https://medium.com/@warisjeet31/google-gemini-ios-vulnerability-public-link-sharing-silently-leaks-entire-conversations-e1f80cbea25c
+
