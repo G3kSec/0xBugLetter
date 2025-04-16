@@ -1742,3 +1742,11 @@
 ✍️ Author: sin99xx
 🔗 Link: https://medium.com/@warisjeet31/google-gemini-ios-vulnerability-public-link-sharing-silently-leaks-entire-conversations-e1f80cbea25c
 
+📌 🧠Google Dorking for Ethical Hacking: A Beginner’s Guide to Finding Your First Bug
+✍️ Author: Merwansky
+🔗 Link: https://medium.com/@just-merwan/google-dorking-for-ethical-hacking-a-beginners-guide-to-finding-your-first-bug-213ff2fffd1a
+
+📌 How Telegram’s Bot API Enables Real-Time 2FA Theft and Account Takeover
+✍️ Author: Prince Philip
+🔗 Link: https://medium.com/@princep49036142/how-telegrams-bot-api-enables-real-time-2fa-theft-and-account-takeover-fa438ce9a9e0
+
