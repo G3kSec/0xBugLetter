@@ -1750,3 +1750,7 @@
 ✍️ Author: Prince Philip
 🔗 Link: https://medium.com/@princep49036142/how-telegrams-bot-api-enables-real-time-2fa-theft-and-account-takeover-fa438ce9a9e0
 
+📌 🚨 My First High-Impact Bug: Unauthenticated Unsubscribe via Token Manipulation (IDOR + PII…
+✍️ Author: @Sauravkrish
+🔗 Link: https://medium.com/@sauravkrish59/my-first-high-impact-bug-unauthenticated-unsubscribe-via-token-manipulation-idor-pii-872d1004a9bc
+
