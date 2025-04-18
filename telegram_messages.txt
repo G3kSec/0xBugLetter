@@ -1754,3 +1754,7 @@
 ✍️ Author: @Sauravkrish
 🔗 Link: https://medium.com/@sauravkrish59/my-first-high-impact-bug-unauthenticated-unsubscribe-via-token-manipulation-idor-pii-872d1004a9bc
 
+📌 How I Hacked RemoteBinge’s GIF Upload Filter
+✍️ Author: Worm_403
+🔗 Link: https://medium.com/@worm_401/how-i-hacked-remotebinges-gif-upload-filter-5218cd45124b
+
