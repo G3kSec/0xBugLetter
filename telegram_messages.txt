@@ -1758,3 +1758,11 @@
 ✍️ Author: Worm_403
 🔗 Link: https://medium.com/@worm_401/how-i-hacked-remotebinges-gif-upload-filter-5218cd45124b
 
+📌 Bypassing Like a Pro: How I Fooled the WAF and Made It Pay 💸🧢
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/bypassing-like-a-pro-how-i-fooled-the-waf-and-made-it-pay-e433193e1d9d
+
+📌 How I got a Zero-Click Account Takeover Bounty — Using Nothing But Logic
+✍️ Author: Ahmed Atef
+🔗 Link: https://medium.com/@itsahmedatef/how-i-got-a-zero-click-account-takeover-bounty-using-nothing-but-logic-11a3ae151376
+
