@@ -1766,3 +1766,11 @@
 ✍️ Author: Ahmed Atef
 🔗 Link: https://medium.com/@itsahmedatef/how-i-got-a-zero-click-account-takeover-bounty-using-nothing-but-logic-11a3ae151376
 
+📌 Programming Language for Ethical Hacking
+✍️ Author: Mr Horbio
+🔗 Link: https://medium.com/@hrofficial62/programming-language-for-ethical-hacking-67eb8b211759
+
+📌 How I Registered the Same Username Twice — No Tools Needed
+✍️ Author: StrangeRwhite
+🔗 Link: https://medium.com/@strangerwhite/how-i-registered-the-same-username-twice-no-tools-needed-284f3b46d82a
+
