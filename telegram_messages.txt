@@ -1774,3 +1774,15 @@
 ✍️ Author: StrangeRwhite
 🔗 Link: https://medium.com/@strangerwhite/how-i-registered-the-same-username-twice-no-tools-needed-284f3b46d82a
 
+📌 picoCTF Web Exploitation: picobrowser
+✍️ Author: Kamal S
+🔗 Link: https://medium.com/@Kamal_S/picoctf-web-exploitation-picobrowser-ce806dfedd2f
+
+📌 Email Verification Bypass via Sign in with Google
+✍️ Author: Samet Yiğit
+🔗 Link: https://medium.com/@xsametyigit/email-verification-bypass-via-sign-in-with-google-a273827c4968
+
+📌 Winning Swags and Hall of Fame for Finding bugs.
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/winning-swags-and-hall-of-fame-for-finding-bugs-7402555fefe3
+
