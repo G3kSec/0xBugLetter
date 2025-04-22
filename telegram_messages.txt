@@ -1786,3 +1786,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/winning-swags-and-hall-of-fame-for-finding-bugs-7402555fefe3
 
+📌 The Blank Page That Hid a Bug
+✍️ Author: SIDDHANT SHUKLA
+🔗 Link: https://medium.com/@ghostman01/when-a-blank-page-that-hid-a-bug-c0214390d68c
+
+📌 ​​$1,200 Bounty — IDOR via Phantom API and Parameter Manipulation​
+✍️ Author: Invik
+🔗 Link: https://medium.com/@cadeeper/1-200-bounty-idor-via-phantom-api-and-parameter-manipulation-1f9a9d84f467
+
