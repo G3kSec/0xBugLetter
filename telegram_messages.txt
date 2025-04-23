@@ -1794,3 +1794,11 @@
 ✍️ Author: Invik
 🔗 Link: https://medium.com/@cadeeper/1-200-bounty-idor-via-phantom-api-and-parameter-manipulation-1f9a9d84f467
 
+📌 Day 12 Blind SQL injection with conditional errors — Zero to Hero Blind Injection — Portswigger
+✍️ Author: RayofHope
+🔗 Link: https://medium.com/@arayofhope7/day-12-blind-sql-injection-with-conditional-errors-zero-to-hero-blind-injection-portswigger-e94f9e3977a5
+
+📌 Why You’re Not Finding Bugs Yet — And How I’m Fixing It
+✍️ Author: Karthikeyan
+🔗 Link: https://medium.com/@k4r7h1kn/why-youre-not-finding-bugs-yet-and-how-i-m-fixing-it-072a84e4fcf4
+
