@@ -1802,3 +1802,11 @@
 ✍️ Author: Karthikeyan
 🔗 Link: https://medium.com/@k4r7h1kn/why-youre-not-finding-bugs-yet-and-how-i-m-fixing-it-072a84e4fcf4
 
+📌 A list of search engines for OSINT investigators and ethical hackers(PART 2)
+✍️ Author: loyalonlytoday
+🔗 Link: https://medium.com/@loyalonlytoday/a-list-of-search-engines-for-osint-investigators-and-ethical-hackers-part-2-1dd7b3d54b6f
+
+📌 Exposing SMTP Misconfigurations: STARTTLS and Self-Signed Certs
+✍️ Author: Dinesh Pathro
+🔗 Link: https://medium.com/@mrdineshpathro/exposing-smtp-misconfigurations-starttls-and-self-signed-certs-01e5ff9a3367
+
