@@ -1810,3 +1810,11 @@
 ✍️ Author: Dinesh Pathro
 🔗 Link: https://medium.com/@mrdineshpathro/exposing-smtp-misconfigurations-starttls-and-self-signed-certs-01e5ff9a3367
 
+📌 Bug Hunting for Real: Tools, Tactics, and Truths No One Talks About
+✍️ Author: Ehtesham Ul Haq
+🔗 Link: https://medium.com/@ehteshamulhaq198/bug-hunting-for-real-tools-tactics-and-truths-no-one-talks-about-661f6786d5b3
+
+📌 Inject, Exploit, Repeat: Real-World Adventures in XSS
+✍️ Author: Isv
+🔗 Link: https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8
+
