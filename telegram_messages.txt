@@ -1818,3 +1818,11 @@
 ✍️ Author: Isv
 🔗 Link: https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8
 
+📌 We share a pool of $500k in the Bug Bounty event 💸
+✍️ Author: Kiyot0Sage 🦄
+🔗 Link: https://medium.com/@kiyotosage/we-share-a-pool-of-500k-in-the-bug-bounty-event-3adf9e9cce0b
+
+📌 Google Cloud Shell for Bug Hunters
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a
+
