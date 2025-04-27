@@ -1826,3 +1826,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a
 
+📌 Subdomain Takeover on VDP
+✍️ Author: Vasu Bhan
+🔗 Link: https://medium.com/@vasubhan/subdomain-takeover-on-vdp-32cac749bf16
+
+📌 How I Found a Critical Security Flaw and Earned a Reward on a VDP
+✍️ Author: Lux Angelo
+🔗 Link: https://medium.com/@luxangelo/how-i-found-a-critical-security-flaw-and-earned-a-reward-on-a-vdp-019ebec71a74
+
+📌 Misconfiguration on MinIO S3 Bucket (Similar to AWS S3 Misconfig)
+✍️ Author: Frostyxsec
+🔗 Link: https://medium.com/@frostyxsec/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011
+
