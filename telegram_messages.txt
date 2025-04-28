@@ -1838,3 +1838,11 @@
 ✍️ Author: Frostyxsec
 🔗 Link: https://medium.com/@frostyxsec/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011
 
+📌 Hacking APIs: Attackers exploiting SSRF
+✍️ Author: Israel Aráoz Severiche
+🔗 Link: https://medium.com/@iaraoz/hacking-apis-attackers-exploiting-ssrf-57624d575987
+
+📌 Attacking Web Applications with FFuF
+✍️ Author: Yash Pawar @HackersParadise
+🔗 Link: https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e
+
