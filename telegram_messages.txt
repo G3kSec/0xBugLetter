@@ -1846,3 +1846,11 @@
 ✍️ Author: Yash Pawar @HackersParadise
 🔗 Link: https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e
 
+📌 Password Recovery? More Like Account Delivery Host Header Injection Madness
+✍️ Author: r00t
+🔗 Link: https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d
+
+📌 Password Recovery? More Like Account Delivery Host Header Injection Madness
+✍️ Author: r00t
+🔗 Link: https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d
+
