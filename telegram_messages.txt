@@ -1854,3 +1854,11 @@
 ✍️ Author: r00t
 🔗 Link: https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d
 
+📌 Port Scanning Speed Test: RustScan vs Naabu
+✍️ Author: In
+🔗 Link: https://medium.com/fmisec/rustscan-vs-naabu-9d7cfbd18424
+
+📌 Unlock Bounties by Simply Reading: A Smart Way to Earn
+✍️ Author: Reju Kole
+🔗 Link: https://medium.com/@RejuKole.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450
+
