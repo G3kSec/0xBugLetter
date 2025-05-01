@@ -1862,3 +1862,11 @@
 ✍️ Author: Reju Kole
 🔗 Link: https://medium.com/@RejuKole.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450
 
+📌 DOM-inated! How a Tiny JS Sink Turned Into Critical XSS 🚨🧬
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/dom-inated-how-a-tiny-js-sink-turned-into-critical-xss-a9a1dbe97df2
+
+📌 Hacking Workspace for Fun & Profit: Part II
+✍️ Author: Md Saikat
+🔗 Link: https://medium.com/@0xh7ml/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755
+
