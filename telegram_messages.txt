@@ -1870,3 +1870,11 @@
 ✍️ Author: Md Saikat
 🔗 Link: https://medium.com/@0xh7ml/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755
 
+📌 👀The Secrets Behind Subdomain Takeovers Nobody Shares
+✍️ Author: Abhijeet Kumawat
+🔗 Link: https://medium.com/@Abhijeet_kumawat_/the-secrets-behind-subdomain-takeovers-nobody-shares-ba6b5d7bf258
+
+📌 Techniques Implemented last month as a Bug Hunter
+✍️ Author: In
+🔗 Link: https://medium.com/cybersecuritywriteups/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e
+
