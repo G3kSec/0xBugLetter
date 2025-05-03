@@ -1878,3 +1878,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/cybersecuritywriteups/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e
 
+📌 Exploiting File Inclusion: From Dot-Dot-Slash to RCE using PHP Sessions, Log Poisoning, and…
+✍️ Author: Bash Overflow
+🔗 Link: https://medium.com/@bashoverflow/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77
+
+📌 Hunting Access Control Bugs: How I Found a Critical IDOR & Privilege Escalation in a Fort Knox-Like…
+✍️ Author: Whoami
+🔗 Link: https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714
+
