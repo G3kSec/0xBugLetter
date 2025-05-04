@@ -1874,23 +1874,3 @@
 ✍️ Author: Abhijeet Kumawat
 🔗 Link: https://medium.com/@Abhijeet_kumawat_/the-secrets-behind-subdomain-takeovers-nobody-shares-ba6b5d7bf258
 
-📌 Techniques Implemented last month as a Bug Hunter
-✍️ Author: In
-🔗 Link: https://medium.com/cybersecuritywriteups/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e
-
-📌 Exploiting File Inclusion: From Dot-Dot-Slash to RCE using PHP Sessions, Log Poisoning, and…
-✍️ Author: Bash Overflow
-🔗 Link: https://medium.com/@bashoverflow/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77
-
-📌 Hunting Access Control Bugs: How I Found a Critical IDOR & Privilege Escalation in a Fort Knox-Like…
-✍️ Author: Whoami
-🔗 Link: https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714
-
-📌 Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs
-✍️ Author: sajith dilshan
-🔗 Link: https://medium.com/@sajith-dilshan/mastering-boundary-value-analysis-guide-to-uncovering-hidden-bugs-4eb58b43899b
-
-📌 Information Disclosure Vulnerability Writeup HackerOne
-✍️ Author: In
-🔗 Link: https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893
-
