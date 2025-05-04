@@ -1886,3 +1886,11 @@
 ✍️ Author: Whoami
 🔗 Link: https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714
 
+📌 Mastering Boundary Value Analysis: Guide to Uncovering Hidden Bugs
+✍️ Author: sajith dilshan
+🔗 Link: https://medium.com/@sajith-dilshan/mastering-boundary-value-analysis-guide-to-uncovering-hidden-bugs-4eb58b43899b
+
+📌 Information Disclosure Vulnerability Writeup HackerOne
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893
+
