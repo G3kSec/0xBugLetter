@@ -1858,3 +1858,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/fmisec/rustscan-vs-naabu-9d7cfbd18424
 
+📌 Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey
+✍️ Author: Ismail Tasdelen
+🔗 Link: https://medium.com/@ismailtasdelen/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389
+
+📌 Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey
+✍️ Author: Mohsin khan
+🔗 Link: https://medium.com/@mokhansec/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461
+
+📌 Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey
+✍️ Author: Ismail Tasdelen
+🔗 Link: https://medium.com/@ismailtasdelen/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389
+
