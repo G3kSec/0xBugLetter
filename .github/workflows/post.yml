@@ -32,6 +32,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 💣 Automated Daily Post 🔥
-          commit_user_name: Luciano Griffa [GitHub Actions]
-          commit_user_email: lucianogriffa@protonmail.com
-          commit_author: lucianogriffa
+          commit_user_name: G3kSec [GitHub Actions]
+          commit_author: g3ksec
