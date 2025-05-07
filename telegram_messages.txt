@@ -1870,3 +1870,11 @@
 ✍️ Author: Ismail Tasdelen
 🔗 Link: https://medium.com/@ismailtasdelen/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389
 
+📌 $500 Bounty for Reflected XSS on HackerOne
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/500-bounty-for-reflected-xss-on-hackerone-29c13793bc91
+
+📌 The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition
+✍️ Author: Mohamed Talaat Saada (@t4144t)
+🔗 Link: https://medium.com/@t4144t/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd
+
