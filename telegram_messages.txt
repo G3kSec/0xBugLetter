@@ -1878,3 +1878,11 @@
 ✍️ Author: Mohamed Talaat Saada (@t4144t)
 🔗 Link: https://medium.com/@t4144t/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd
 
+📌 Exploring the Bug Bounty Program: A Gateway to Ethical Hacking and Cybersecurity Careers
+✍️ Author: Anand Narayanan
+🔗 Link: https://medium.com/@narayanananand480/exploring-the-bug-bounty-program-a-gateway-to-ethical-hacking-and-cybersecurity-careers-34649bc79690
+
+📌 From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough
+✍️ Author: cyberpro151
+🔗 Link: https://medium.com/@cyberpro151/from-cross-subdomain-cookie-reuse-to-becoming-super-admin-an-exploit-chain-walkthrough-32527caa2a11
+
