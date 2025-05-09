@@ -1886,3 +1886,7 @@
 ✍️ Author: cyberpro151
 🔗 Link: https://medium.com/@cyberpro151/from-cross-subdomain-cookie-reuse-to-becoming-super-admin-an-exploit-chain-walkthrough-32527caa2a11
 
+📌 How I Found PII on BBP, Open Door to Sensitive PDFs — But Got a Duplicate
+✍️ Author: Frostynxth
+🔗 Link: https://medium.com/@frostyxsec/how-i-found-pii-on-bbp-open-door-to-sensitive-pdfs-but-got-a-duplicate-643fa0092e36
+
