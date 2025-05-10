@@ -1890,3 +1890,11 @@
 ✍️ Author: Frostynxth
 🔗 Link: https://medium.com/@frostyxsec/how-i-found-pii-on-bbp-open-door-to-sensitive-pdfs-but-got-a-duplicate-643fa0092e36
 
+📌 Exposing Shadow APIs: The Hidden Attack Surface in Modern Web Apps
+✍️ Author: tezp
+🔗 Link: https://medium.com/@tejprakashbk1996/exposing-shadow-apis-the-hidden-attack-surface-in-modern-web-apps-6fd1af0ec4e9
+
+📌 HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL
+✍️ Author: Arunoday Tiwari
+🔗 Link: https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72
+
