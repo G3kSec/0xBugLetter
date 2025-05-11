@@ -1898,3 +1898,7 @@
 ✍️ Author: Arunoday Tiwari
 🔗 Link: https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72
 
+📌 $9,400 Bounty: XSS in Shopify’s Jamf Pro via Exposed Swagger UI
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/9-400-bounty-xss-in-shopifys-jamf-pro-via-exposed-swagger-ui-7b029a4be766
+
