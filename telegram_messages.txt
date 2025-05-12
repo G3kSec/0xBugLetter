@@ -1902,3 +1902,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/9-400-bounty-xss-in-shopifys-jamf-pro-via-exposed-swagger-ui-7b029a4be766
 
+📌 Red Team Concepts by Mr. David
+✍️ Author: Darshan Naresh Naik
+🔗 Link: https://medium.com/@darshannnaik1234/red-team-concepts-by-mr-david-5650776fd778
+
+📌 🎭 The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It
+✍️ Author: Swarnim Bandekar
+🔗 Link: https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc
+
