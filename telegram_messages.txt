@@ -1910,3 +1910,11 @@
 ✍️ Author: Swarnim Bandekar
 🔗 Link: https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc
 
+📌 The Human Firewall: Why Your Employees Are Both Your Greatest Vulnerability and Asset
+✍️ Author: Paritosh
+🔗 Link: https://medium.com/@paritoshblogs/the-human-firewall-why-your-employees-are-both-your-greatest-vulnerability-and-asset-76a93b879bae
+
+📌 🔒 [Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…
+✍️ Author: hackersatty
+🔗 Link: https://medium.com/@hackersatty/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792
+
