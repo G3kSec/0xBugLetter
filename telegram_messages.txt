@@ -1918,3 +1918,11 @@
 ✍️ Author: hackersatty
 🔗 Link: https://medium.com/@hackersatty/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792
 
+📌 💰The $1,000 Recon Trick: One Command That Changed My Hunting Game
+✍️ Author: Abhijeet Kumawat
+🔗 Link: https://medium.com/@Abhijeet_kumawat_/the-1-000-recon-trick-one-command-that-changed-my-hunting-game-58527a7f6d7c
+
+📌 Inside the Shadows: Why HTTP Smuggling Still Breaks the Web
+✍️ Author: Isv
+🔗 Link: https://medium.com/@es0557533/inside-the-shadows-why-http-smuggling-still-breaks-the-web-c81c69577fdd
+
