@@ -1926,3 +1926,11 @@
 ✍️ Author: Isv
 🔗 Link: https://medium.com/@es0557533/inside-the-shadows-why-http-smuggling-still-breaks-the-web-c81c69577fdd
 
+📌 My First Year in Bug Bounty $$$
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/my-first-year-in-bug-bounty-9c87e0b68ac4
+
+📌 Bug Bounty Tips: From Zero to First Payout
+✍️ Author: appsecwarrior
+🔗 Link: https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48
+
