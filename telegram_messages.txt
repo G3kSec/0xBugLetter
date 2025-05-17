@@ -1942,3 +1942,11 @@
 ✍️ Author: Frostynxth
 🔗 Link: https://medium.com/@frostyxsec/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13
 
+📌 🚀 Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel
+✍️ Author: FufuFafa
+🔗 Link: https://medium.com/@FufuFaf1/race-condition-seru-ngebobol-limit-cuma-modal-request-paralel-44f1da33e4fb
+
+📌 🚀 Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel
+✍️ Author: FufuFafa
+🔗 Link: https://medium.com/@FufuFaf1/race-condition-seru-ngebobol-limit-cuma-modal-request-paralel-44f1da33e4fb
+
