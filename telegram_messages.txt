@@ -1950,3 +1950,11 @@
 ✍️ Author: FufuFafa
 🔗 Link: https://medium.com/@FufuFaf1/race-condition-seru-ngebobol-limit-cuma-modal-request-paralel-44f1da33e4fb
 
+📌 How I Found the Most Weird Bug in the Bug Bounty Field — Is It Really Worth It…🧐💣
+✍️ Author: CaptinSHArky(Mahdi🇹🇳)
+🔗 Link: https://medium.com/@mahdisalhi0500/how-i-found-the-most-weird-bug-in-the-bug-bounty-field-is-it-really-worth-it-d4b60c0352a8
+
+📌 Same Username, Different Letters? Account Creation with Lookalike Usernames
+✍️ Author: StrangeRwhite
+🔗 Link: https://medium.com/@strangerwhite/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3
+
