@@ -1958,3 +1958,11 @@
 ✍️ Author: StrangeRwhite
 🔗 Link: https://medium.com/@strangerwhite/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3
 
+📌 How I Discovered Sensitive Data & Directory Exposure on an Indian Government Medical Institute…
+✍️ Author: Adithya Raj
+🔗 Link: https://medium.com/@adithyadhi007/how-i-discovered-sensitive-data-directory-exposure-on-an-indian-government-medical-institute-0d2fbbc5042e
+
+📌 🚨 How I Logged in as Another User via Broken OAuth Identity Binding
+✍️ Author: Digvijay Gholase
+🔗 Link: https://medium.com/@jxycybersec/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046
+
