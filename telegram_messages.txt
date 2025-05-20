@@ -1966,3 +1966,11 @@
 ✍️ Author: Digvijay Gholase
 🔗 Link: https://medium.com/@jxycybersec/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046
 
+📌 Deep Recon Leads to Unauthenticated Upload & IDOR — Rewarded with Bounty $$$
+✍️ Author: 0xAsad-Eldin
+🔗 Link: https://medium.com/@0xAsad_Eldin/deep-recon-leads-to-unauthenticated-upload-idor-rewarded-with-bounty-bfa58a03397f
+
+📌 🕵️ Public Document, But Not Meant for You: Info Leak at blm.gov
+✍️ Author: FufuFafa
+🔗 Link: https://medium.com/@FufuFaf1/️-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c
+
