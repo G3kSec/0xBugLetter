@@ -1974,3 +1974,15 @@
 ✍️ Author: FufuFafa
 🔗 Link: https://medium.com/@FufuFaf1/️-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c
 
+📌 $5,000 | Authorization Bypass via Parameter Parsing Mismatch (Django — Flask)
+✍️ Author: priyanshu shakya
+🔗 Link: https://medium.com/@pranshux0x/5-000-authorization-bypass-via-parameter-parsing-mismatch-django-flask-6f0f748db6be
+
+📌 How i hijacked an account without knowing the password and earned $2500 from redirect parameter
+✍️ Author: 0xRedFox29
+🔗 Link: https://medium.com/@0xRedFox29/how-i-hijacked-an-account-without-knowing-the-password-and-earned-2500-from-redirect-parameter-7a46ffcff879
+
+📌 How i hijacked an account without knowing the password and earned $2500 from redirect parameter
+✍️ Author: 0xRedFox29
+🔗 Link: https://medium.com/@0xRedFox29/how-i-hijacked-an-account-without-knowing-the-password-and-earned-2500-from-redirect-parameter-7a46ffcff879
+
