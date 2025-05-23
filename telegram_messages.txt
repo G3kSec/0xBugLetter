@@ -1986,3 +1986,11 @@
 ✍️ Author: 0xRedFox29
 🔗 Link: https://medium.com/@0xRedFox29/how-i-hijacked-an-account-without-knowing-the-password-and-earned-2500-from-redirect-parameter-7a46ffcff879
 
+📌 $7,500 Bounty — XSS → RCE in Steam’s React Chat Client
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/7-500-bounty-xss-rce-in-steams-react-chat-client-1394aaecaec4
+
+📌 How i can bypassing strong WAF in XSS with simple payload
+✍️ Author: 0xRedFox29
+🔗 Link: https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626
+
