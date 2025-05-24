@@ -1994,3 +1994,7 @@
 ✍️ Author: 0xRedFox29
 🔗 Link: https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626
 
+📌 How I Use LLMs to Supercharge My Bug Bounty Recon
+✍️ Author: Spectat0rguy
+🔗 Link: https://medium.com/@bitpanic/how-i-use-llms-to-supercharge-my-bug-bounty-recon-3f9892c6b5a0
+
