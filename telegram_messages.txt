@@ -1998,3 +1998,15 @@
 ✍️ Author: Spectat0rguy
 🔗 Link: https://medium.com/@bitpanic/how-i-use-llms-to-supercharge-my-bug-bounty-recon-3f9892c6b5a0
 
+📌 How Bug Bounty Platforms May Be Stifling New Researchers
+✍️ Author: In
+🔗 Link: https://medium.com/cloud-security/how-bug-bounty-platforms-may-be-stifling-new-researchers-cf21be1277da
+
+📌 How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout
+✍️ Author: Samirul Haque
+🔗 Link: https://medium.com/@sami7haque/how-hard-coded-credentials-in-a-publicly-accessible-config-file-led-to-a-350-hackerone-payout-c825274cd332
+
+📌 🧠 Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way
+✍️ Author: Kailasv
+🔗 Link: https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b
+
