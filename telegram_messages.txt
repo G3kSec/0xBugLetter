@@ -2010,3 +2010,11 @@
 ✍️ Author: Kailasv
 🔗 Link: https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b
 
+📌 Hacking Headless on Hack The Box: OSCP Prep
+✍️ Author: enigma_
+🔗 Link: https://medium.com/@enigma_/hacking-headless-on-hack-the-box-oscp-prep-2409ee387e13
+
+📌 OTP bypassed by using luck infused logical thinking bug report
+✍️ Author: Muthu
+🔗 Link: https://medium.com/@bmkmuthu003/otp-bypassed-by-using-luck-infused-logical-thinking-bug-report-fd836120d028
+
