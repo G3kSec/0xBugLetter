@@ -2018,3 +2018,15 @@
 ✍️ Author: Muthu
 🔗 Link: https://medium.com/@bmkmuthu003/otp-bypassed-by-using-luck-infused-logical-thinking-bug-report-fd836120d028
 
+📌 Misconfigured OAuth = Instant Account Takeover (Even Before Signup!)
+✍️ Author: Ashok kumar pareek
+🔗 Link: https://medium.com/@ashokpandiya71/misconfigured-oauth-instant-account-takeover-even-before-signup-62ae709c9f7e
+
+📌 Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/hijacking-the-supply-chain-how-i-claimed-tendermints-official-s3-bucket-4894187f0414
+
+📌 Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication
+✍️ Author: Kailasv
+🔗 Link: https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f
+
