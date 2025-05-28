@@ -2030,3 +2030,11 @@
 ✍️ Author: Kailasv
 🔗 Link: https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f
 
+📌 Exploiting Web Cache Poisoning with X-Host Header Using Param Miner
+✍️ Author: Bash Overflow
+🔗 Link: https://medium.com/@bashoverflow/exploiting-web-cache-poisoning-with-x-host-header-using-param-miner-f1b7b06bf5b8
+
+📌 Ciphered Chaos: Bit-Flipping in the Wild
+✍️ Author: Ahmed A. Sherif (Batee5a)
+🔗 Link: https://medium.com/@batee5a/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e
+
