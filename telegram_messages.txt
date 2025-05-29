@@ -2038,3 +2038,11 @@
 ✍️ Author: Ahmed A. Sherif (Batee5a)
 🔗 Link: https://medium.com/@batee5a/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e
 
+📌 How a Simple Payment Exploit Could Take Down a Prop Firm — And No One Cared
+✍️ Author: Nimashahbazi
+🔗 Link: https://medium.com/@nimashahbazi524/how-a-simple-payment-exploit-could-take-down-a-prop-firm-and-no-one-cared-026509b54002
+
+📌 🔁 OneSpan Race Condition — Duplicate Group Names? Ez Game 🎯
+✍️ Author: FufuFafa
+🔗 Link: https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b
+
