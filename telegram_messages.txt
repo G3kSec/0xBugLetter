@@ -2046,3 +2046,11 @@
 ✍️ Author: FufuFafa
 🔗 Link: https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b
 
+📌 🧠💸 How I Earned My First $50 Bug Bounty with a Google Dork and a Test Key
+✍️ Author: CyberTechAjju
+🔗 Link: https://medium.com/@cybertechajju/how-i-earned-my-first-50-bug-bounty-with-a-google-dork-and-a-test-key-a3e6290db694
+
+📌 How my first bug got accepted in VDP program after two rejections
+✍️ Author: Meowsint
+🔗 Link: https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793
+
