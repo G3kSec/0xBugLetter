@@ -2054,3 +2054,7 @@
 ✍️ Author: Meowsint
 🔗 Link: https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793
 
+📌 From PNG to Shell: The Chatbot That Helped Me Hack Itself
+✍️ Author: Muthu
+🔗 Link: https://medium.com/@bmkmuthu003/from-png-to-shell-the-chatbot-that-helped-me-hack-itself-d1459e67b332
+
