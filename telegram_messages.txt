@@ -2058,3 +2058,11 @@
 ✍️ Author: Muthu
 🔗 Link: https://medium.com/@bmkmuthu003/from-png-to-shell-the-chatbot-that-helped-me-hack-itself-d1459e67b332
 
+📌 My Journey to NASA’s Hall of Fame
+✍️ Author: Hack-Bat
+🔗 Link: https://medium.com/@dharineeshj2/my-journey-to-nasas-hall-of-fame-6e680736f557
+
+📌 CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition
+✍️ Author: Anonymousshetty
+🔗 Link: https://medium.com/@anonymousshetty2003/captcha-cracked-how-i-bypassed-rate-limiting-using-a-simple-race-condition-d8b88a2a8c7b
+
