@@ -2074,3 +2074,11 @@
 ✍️ Author: Muthu
 🔗 Link: https://medium.com/@bmkmuthu003/how-i-brute-forced-my-way-through-a-broken-login-gate-4250b22153f9
 
+📌 CSRF: How I gained unauthorized access to Cart
+✍️ Author: JEETPAL
+🔗 Link: https://medium.com/@jeetpal2007/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9
+
+📌 🚀 “From Doubt to Discovery: Reporting a CSRF Bug to NASA 🚀”
+✍️ Author: Virendra Kumar
+🔗 Link: https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81
+
