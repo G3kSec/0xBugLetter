@@ -2082,3 +2082,11 @@
 ✍️ Author: Virendra Kumar
 🔗 Link: https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81
 
+📌 📚🔐 The Ultimate Guide to Local File Inclusion (LFI) 🔍 — From Basics to Real-World Exploits &…
+✍️ Author: Zoningxtr
+🔗 Link: https://medium.com/@zoningxtr/the-ultimate-guide-to-local-file-inclusion-lfi-from-basics-to-real-world-exploits-cc8d0f6d922b
+
+📌 5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win
+✍️ Author: Markaz Gasimov
+🔗 Link: https://medium.com/@markazgasimov/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833
+
