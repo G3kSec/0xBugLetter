@@ -2090,3 +2090,11 @@
 ✍️ Author: Markaz Gasimov
 🔗 Link: https://medium.com/@markazgasimov/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833
 
+📌 How I Found a Secondary SQL Injection in a Top 3 Gaming Platform
+✍️ Author: Waleed Osama
+🔗 Link: https://medium.com/@alkaptonurea/how-i-found-a-secondary-sql-injection-in-a-top-3-gaming-platform-abdd4eb461a7
+
+📌 🚨Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE 🔥
+✍️ Author: El Professor Qais
+🔗 Link: https://medium.com/@wanqais007/critical-bug-chaining-upload-form-csrf-extension-bypass-rce-0b772a37cc64
+
