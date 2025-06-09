@@ -2098,3 +2098,11 @@
 ✍️ Author: El Professor Qais
 🔗 Link: https://medium.com/@wanqais007/critical-bug-chaining-upload-form-csrf-extension-bypass-rce-0b772a37cc64
 
+📌 I reproduced a $10,000 bug
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/i-reproduced-a-10-000-bug-28466603e45e
+
+📌 A simple Bug Bounty Recon & Exploitation Workflow — A Field Guide
+✍️ Author: d1lv3rdn4
+🔗 Link: https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9
+
