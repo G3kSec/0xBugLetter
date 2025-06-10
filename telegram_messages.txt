@@ -2106,3 +2106,15 @@
 ✍️ Author: d1lv3rdn4
 🔗 Link: https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9
 
+📌 💰 Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It
+✍️ Author: MrLoser
+🔗 Link: https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55
+
+📌 💰 Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It
+✍️ Author: MrLoser
+🔗 Link: https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55
+
+📌 $500 OTP Bypass: Found It, Proved It, Then…
+✍️ Author: Kailasv
+🔗 Link: https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f
+
