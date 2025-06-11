@@ -2118,3 +2118,11 @@
 ✍️ Author: Kailasv
 🔗 Link: https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f
 
+📌 The $10K/Month Bug Bounty Machine: A Step-by-Step Guide to Building a Collaborative Recon Pipeline…
+✍️ Author: Andrei Ivan
+🔗 Link: https://medium.com/@sync-with-ivan/the-10k-month-bug-bounty-machine-a-step-by-step-guide-to-building-a-collaborative-recon-pipeline-7b1d357ddd5d
+
+📌 Bug Bounty for Beginners: The Real Talk Guide (No BS Edition)
+✍️ Author: Telynor
+🔗 Link: https://medium.com/@telynor_51425/bug-bounty-for-beginners-the-real-talk-guide-no-bs-edition-b47f8e92efb5
+
