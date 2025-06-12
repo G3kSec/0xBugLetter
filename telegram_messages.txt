@@ -2126,3 +2126,11 @@
 ✍️ Author: Telynor
 🔗 Link: https://medium.com/@telynor_51425/bug-bounty-for-beginners-the-real-talk-guide-no-bs-edition-b47f8e92efb5
 
+📌 🚨 Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak
+✍️ Author: Ritik Verma
+🔗 Link: https://medium.com/@ritikver22000/cracking-the-clock-how-i-took-over-any-account-using-a-timestamp-leak-516fc88c0113
+
+📌 💰 How a Simple RECON Earned Me ₹XX,000
+✍️ Author: Swarnim Bandekar
+🔗 Link: https://medium.com/@swarnimbandekar/how-a-simple-recon-earned-me-xx-000-4282805d2eac
+
