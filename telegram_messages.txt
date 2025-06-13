@@ -2134,3 +2134,11 @@
 ✍️ Author: Swarnim Bandekar
 🔗 Link: https://medium.com/@swarnimbandekar/how-a-simple-recon-earned-me-xx-000-4282805d2eac
 
+📌 Shodan Dorking for Hackers: Easy CVEs and How I Found Them
+✍️ Author: A0X_Trojan🇵🇸
+🔗 Link: https://medium.com/@a0xtrojan/how-i-used-shodan-dork-to-discover-2-easy-bugs-cves-ecf6c56e7075
+
+📌 How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame
+✍️ Author: Michaeltanoto
+🔗 Link: https://medium.com/@michaeltanoto222/how-i-discovered-three-reflected-xss-vulnerabilities-and-earned-a-spot-in-nasas-hall-of-fame-537b6a2c01be
+
