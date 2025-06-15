@@ -2142,3 +2142,11 @@
 ✍️ Author: Michaeltanoto
 🔗 Link: https://medium.com/@michaeltanoto222/how-i-discovered-three-reflected-xss-vulnerabilities-and-earned-a-spot-in-nasas-hall-of-fame-537b6a2c01be
 
+📌 Good Recon, Easy XSS — A Simple Reflected Find in Online Games Platform
+✍️ Author: Waleed Osama
+🔗 Link: https://medium.com/@alkaptonurea/good-recon-easy-xss-a-simple-reflected-find-in-online-games-platform-1f51516537ed
+
+📌 Chasing a Valid in the Stars: My First NASA.gov Find
+✍️ Author: MostReal
+🔗 Link: https://medium.com/@FufuFaf1/chasing-a-valid-in-the-stars-my-first-nasa-gov-find-cecdb9c29c35
+
