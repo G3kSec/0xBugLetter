@@ -2150,3 +2150,15 @@
 ✍️ Author: MostReal
 🔗 Link: https://medium.com/@FufuFaf1/chasing-a-valid-in-the-stars-my-first-nasa-gov-find-cecdb9c29c35
 
+📌 Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover
+✍️ Author: 0xRedFox29
+🔗 Link: https://medium.com/@0xRedFox29/oauth2-misconfig-and-accesstoken-leakage-leads-to-full-account-takeover-b1c7333e599d
+
+📌 Race Condition in Upload Quota — Free Storage via Parallel Uploads
+✍️ Author: MostReal
+🔗 Link: https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da
+
+📌 Race Condition in Upload Quota — Free Storage via Parallel Uploads
+✍️ Author: MostReal
+🔗 Link: https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da
+
