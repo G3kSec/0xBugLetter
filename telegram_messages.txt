@@ -2162,3 +2162,11 @@
 ✍️ Author: MostReal
 🔗 Link: https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da
 
+📌 One Bug Leads to Two Bounties: The Simple Trick That Could Make You Rich 💰🤨
+✍️ Author: CaptinSHArky(Mahdi🇹🇳)
+🔗 Link: https://medium.com/@mahdisalhi0500/one-bug-leads-to-two-bounties-the-simple-trick-that-could-make-you-rich-46bb1107c98c
+
+📌 A Hacker’s Journey to NASA’s Hall of Fame
+✍️ Author: okBoss
+🔗 Link: https://medium.com/@boss24ok/a-hackers-journey-to-nasa-s-hall-of-fame-864bb633a155
+
