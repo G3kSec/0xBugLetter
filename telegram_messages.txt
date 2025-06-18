@@ -2170,3 +2170,7 @@
 ✍️ Author: okBoss
 🔗 Link: https://medium.com/@boss24ok/a-hackers-journey-to-nasa-s-hall-of-fame-864bb633a155
 
+📌 Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/proxy-misconfiguration-ssrf-how-i-chained-two-bugs-into-internal-admin-panel-access-cf0e43bf79e4
+
