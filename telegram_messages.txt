@@ -2174,3 +2174,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/proxy-misconfiguration-ssrf-how-i-chained-two-bugs-into-internal-admin-panel-access-cf0e43bf79e4
 
+📌 CTF Day(19)
+✍️ Author: Ahmed Narmer
+🔗 Link: https://medium.com/@ahmednarmer1/ctf-day-19-4c7f827aef02
+
+📌 Bounty Hacker | Try Hack Me | Complete Walkthrough
+✍️ Author: Avrodip Joy
+🔗 Link: https://medium.com/@avrodipjoy/bounty-hacker-try-hack-me-complete-walkthrough-1930650a0d0d
+
+📌 BI.ZONE Bug Bounty Platform
+✍️ Author: AbhirupKonwar
+🔗 Link: https://medium.com/@abhirupkonwar04/bi-zone-bug-bounty-platform-c1c3a6619696
+
