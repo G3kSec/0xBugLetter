@@ -2186,3 +2186,11 @@
 ✍️ Author: AbhirupKonwar
 🔗 Link: https://medium.com/@abhirupkonwar04/bi-zone-bug-bounty-platform-c1c3a6619696
 
+📌 Hacking APIs: Exploit Insecure Deserialization
+✍️ Author: Israel Aráoz Severiche
+🔗 Link: https://medium.com/@iaraoz/hacking-apis-exploit-insecure-deserialization-10335afccde6
+
+📌 How I Found a Improper Input Validation in Minutes!
+✍️ Author: Fuad Aliyev
+🔗 Link: https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9
+
