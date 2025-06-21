@@ -2194,3 +2194,15 @@
 ✍️ Author: Fuad Aliyev
 🔗 Link: https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9
 
+📌 Over The Wire — bandit level 10–20
+✍️ Author: Isha Sangpal
+🔗 Link: https://medium.com/@sangpalisha/over-the-wire-bandit-level-10-20-3e0ad7d5bd83
+
+📌 How I Got 4 EUR for Free by Submitting “null” as a Redeem Code
+✍️ Author: Adham Heinrich
+🔗 Link: https://medium.com/@banertheinrich/how-i-got-4-eur-for-free-by-submitting-null-as-a-redeem-code-257248184d28
+
+📌 🐞 How to Start Bug Bounty in 2025 — Technical Guide with Tools, Tactics & Real Step
+✍️ Author: Kailasv
+🔗 Link: https://medium.com/@kailasv678/how-to-start-bug-bounty-in-2025-technical-guide-with-tools-tactics-real-step-ccca088f5675
+
