@@ -2206,3 +2206,11 @@
 ✍️ Author: Kailasv
 🔗 Link: https://medium.com/@kailasv678/how-to-start-bug-bounty-in-2025-technical-guide-with-tools-tactics-real-step-ccca088f5675
 
+📌 Why Most Hackers Fail at Finding Bugs
+✍️ Author: Ibtissam hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi1/why-most-hackers-fail-at-finding-bugs-daf11b7e074b
+
+📌 How a Simple Bookmark Earned a Two-Digit € Bug Bounty
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5
+
