@@ -2214,3 +2214,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5
 
+📌 ☕ How I Redirected the Entire Startup to evil.com — With One Header
+✍️ Author: AIwolfie
+🔗 Link: https://medium.com/@aiwolfie/how-i-redirected-the-entire-startup-to-evil-com-with-one-header-f2eb6faae934
+
+📌 Reflected XSS via File Upload on Sony
+✍️ Author: dr34m14
+🔗 Link: https://medium.com/@dr34m14/reflected-xss-via-file-upload-on-sony-0aa0f3295216
+
