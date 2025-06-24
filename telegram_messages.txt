@@ -2222,3 +2222,11 @@
 ✍️ Author: dr34m14
 🔗 Link: https://medium.com/@dr34m14/reflected-xss-via-file-upload-on-sony-0aa0f3295216
 
+📌 Real-Time Stealer-Log Monitoring with LeakRadar.io: Detect Leaks Before Attackers Do
+✍️ Author: Alexandre Vandamme
+🔗 Link: https://medium.com/@alexandrevandammepro/real-time-stealer-log-monitoring-with-leakradar-io-detect-leaks-before-attackers-do-44c2ec9687a0
+
+📌 CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect (PAN-OS) Exploit Analysis & PoC
+✍️ Author: krish
+🔗 Link: https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3
+
