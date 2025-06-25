@@ -2230,3 +2230,11 @@
 ✍️ Author: krish
 🔗 Link: https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3
 
+📌 🚀 Serverless, Not Senseless: How I Exploited Cloud Functions to Peek Into the Backend 🧠☁️
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/serverless-not-senseless-how-i-exploited-cloud-functions-to-peek-into-the-backend-️-847981fa9e2a
+
+📌 The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/the-uppercase-escape-breaking-endpoint-restrictions-via-case-sensitivity-075ddd5d14e4
+
