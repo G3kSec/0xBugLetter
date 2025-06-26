@@ -2238,3 +2238,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/the-uppercase-escape-breaking-endpoint-restrictions-via-case-sensitivity-075ddd5d14e4
 
+📌 I Built a Bug Bounty Framework in Over 2 Years
+✍️ Author: Mostafa Alrefai
+🔗 Link: https://medium.com/@the7th/i-built-a-bug-bounty-framework-in-over-2-years-f9b7daa0b7aa
+
+📌 Bypassing the Group Member Limit via Race Condition
+✍️ Author: Khaledelnabet
+🔗 Link: https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e
+
