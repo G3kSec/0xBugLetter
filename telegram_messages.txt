@@ -2250,3 +2250,11 @@
 ✍️ Author: Sibi Krish
 🔗 Link: https://medium.com/@sibi_k/how-i-got-appreciation-letter-from-nasa-f6af69f48eee
 
+📌 Sensitive Server Info Disclosure via Public phpinfo()
+✍️ Author: Md Nawshad Ahmmed
+🔗 Link: https://medium.com/@mdnawshadahmmed/sensitive-server-info-disclosure-via-public-phpinfo-466f80835c12
+
+📌 XSS at U.S. Department of Education
+✍️ Author: In
+🔗 Link: https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003
+
