@@ -2258,3 +2258,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003
 
+📌 404 to 0wnage: How a Broken API Route Unlocked Production Secrets 🚪🔐
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/404-to-0wnage-how-a-broken-api-route-unlocked-production-secrets-cc8ec9c6d063
+
+📌 🛡️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story
+✍️ Author: WhoAdnan
+🔗 Link: https://medium.com/@whoadnan01/️-how-i-took-over-an-account-by-bypassing-email-verification-a-privilege-escalation-story-5c056c55bbc5
+
+📌 Redirection Gone Wrong: How Trust and the Referer Can Be Weaponized
+✍️ Author: Isv
+🔗 Link: https://medium.com/@es0557533/redirection-gone-wrong-how-trust-and-the-referer-can-be-weaponized-e329621e9cb6
+
