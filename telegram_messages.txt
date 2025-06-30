@@ -2270,3 +2270,11 @@
 ✍️ Author: Isv
 🔗 Link: https://medium.com/@es0557533/redirection-gone-wrong-how-trust-and-the-referer-can-be-weaponized-e329621e9cb6
 
+📌 I Hacked into Karnataka Government Admin Panel Using a Google Dork and a Simple SQLi payload.
+✍️ Author: Yukeshwaran N
+🔗 Link: https://medium.com/@Yukeshwaran-N/i-hacked-into-karnataka-government-admin-panel-using-a-google-dork-and-a-simple-sqli-payload-78e0a3d1aa51
+
+📌 🧳 Bandit Tours & Travel — Where Your Journey Might Lead to Some Unexpected Pages
+✍️ Author: In
+🔗 Link: https://medium.com/system-weakness/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702
+
