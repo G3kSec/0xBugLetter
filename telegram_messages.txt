@@ -2278,3 +2278,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/system-weakness/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702
 
+📌 Finding the Needle in a Haystack: How My Passive Recon Led to an Acknowledgment from ICEGATE (CBIC…
+✍️ Author: Uday
+🔗 Link: https://medium.com/@uday637/finding-the-needle-in-a-haystack-how-my-passive-recon-led-to-an-acknowledgment-from-icegate-cbic-fffd016df4ea
+
+📌 Stock Management System (SMS) v1.0 — SQL injection challenge
+✍️ Author: ali gamel
+🔗 Link: https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143
+
