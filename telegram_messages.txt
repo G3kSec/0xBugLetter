@@ -2294,3 +2294,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31
 
+📌 You’re Probably Missing Bugs Because You’re Guessing Instead of Testing 🧠
+✍️ Author: Đeepanshu
+🔗 Link: https://medium.com/@su6osec/youre-probably-missing-bugs-because-you-re-guessing-instead-of-testing-48c526e94d0c
+
+📌 CSRF to Delete Products From Any User Cart Lead To $$$
+✍️ Author: Yassin hamdi
+🔗 Link: https://medium.com/@hamdiyasin135/csrf-to-delete-products-from-any-user-cart-lead-to-af712bb2bfe5
+
