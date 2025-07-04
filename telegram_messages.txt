@@ -2302,3 +2302,15 @@
 ✍️ Author: Yassin hamdi
 🔗 Link: https://medium.com/@hamdiyasin135/csrf-to-delete-products-from-any-user-cart-lead-to-af712bb2bfe5
 
+📌 💥 From LFI to RCE via PHP Sessions (PHP 5) — A Complete Guide with Real Examples 🧠💻
+✍️ Author: Zoningxtr
+🔗 Link: https://medium.com/@zoningxtr/from-lfi-to-rce-via-php-sessions-php-5-a-complete-guide-with-real-examples-6ced00a1ae10
+
+📌 🕵️‍♂️ I Forced You to Log In as Me: OAuth Gone Wrong
+✍️ Author: ASC Lages
+🔗 Link: https://medium.com/@root-geek/️-️-i-forced-you-to-log-in-as-me-oauth-gone-wrong-d68961b1e327
+
+📌 Cariddi: Ultimate Bug Bounty Recon
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/cariddi-ultimate-bug-bounty-recon-354f44f8bc9d
+
