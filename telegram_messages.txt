@@ -2314,3 +2314,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/cariddi-ultimate-bug-bounty-recon-354f44f8bc9d
 
+📌 🎯 Add Any Email Without Verification — Logic Flaw in PIN Confirmation Flow
+✍️ Author: Yahaiemara
+🔗 Link: https://medium.com/@yahaiemara11/add-any-email-without-verification-logic-flaw-in-pin-confirmation-flow-b74953c7921e
+
+📌 Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story
+✍️ Author: Asadujjaman Asif
+🔗 Link: https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587
+
