@@ -2322,3 +2322,11 @@
 ✍️ Author: Asadujjaman Asif
 🔗 Link: https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587
 
+📌 I Hacked GraphQL to Steal Data Without Admin Access
+✍️ Author: Ibtissam hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi1/i-hacked-graphql-to-steal-data-without-admin-access-8da9219483b9
+
+📌 How a Social Icon Can Become a Threat Vector
+✍️ Author: vaaditya320
+🔗 Link: https://medium.com/@vaaditya320/how-a-social-icon-can-become-a-threat-vector-58a2266ff685
+
