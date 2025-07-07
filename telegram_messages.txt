@@ -2330,3 +2330,11 @@
 ✍️ Author: vaaditya320
 🔗 Link: https://medium.com/@vaaditya320/how-a-social-icon-can-become-a-threat-vector-58a2266ff685
 
+📌 From `iptables` to `nftables`: Why Linux Security Just Got Smarter
+✍️ Author: Natarajan C K
+🔗 Link: https://medium.com/@natarajanck2/from-iptables-to-nftables-why-linux-security-just-got-smarter-eaaebb9bc536
+
+📌 Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story
+✍️ Author: Gouri Sankar A
+🔗 Link: https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef
+
