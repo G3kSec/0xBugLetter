@@ -2338,3 +2338,11 @@
 ✍️ Author: Gouri Sankar A
 🔗 Link: https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef
 
+📌 Broken Access Control: When Good Bug Only Get “Informative”
+✍️ Author: Zeta
+🔗 Link: https://medium.com/@zetanine/broken-access-control-when-good-bug-only-get-informative-4d0dfc0eaacd
+
+📌 🔥 How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation
+✍️ Author: Whitehat
+🔗 Link: https://medium.com/@whitehat29/how-a-simple-break-turned-a-duplicate-into-a-p1-bounty-via-request-method-manipulation-72994a088079
+
