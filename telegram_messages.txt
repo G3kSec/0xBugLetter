@@ -2346,3 +2346,11 @@
 ✍️ Author: Whitehat
 🔗 Link: https://medium.com/@whitehat29/how-a-simple-break-turned-a-duplicate-into-a-p1-bounty-via-request-method-manipulation-72994a088079
 
+📌 Start with VDPs Before Aiming for Private Bug Bounty Programs
+✍️ Author: 127.0.0.1
+🔗 Link: https://medium.com/@aashifm/start-with-vdps-before-aiming-for-private-bug-bounty-programs-dd6336131231
+
+📌 🛠️ Advanced OAuth Vulnerabilities — Deep Dive
+✍️ Author: Shah kaif
+🔗 Link: https://medium.com/@SKaif009/️-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6
+
