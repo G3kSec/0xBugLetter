@@ -2354,3 +2354,11 @@
 ✍️ Author: Shah kaif
 🔗 Link: https://medium.com/@SKaif009/️-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6
 
+📌 The Easiest Bug Bounty you’ll ever get (2025)
+✍️ Author: Appsec.pt
+🔗 Link: https://medium.com/@Appsec_pt/the-easiest-bug-bounty-youll-ever-get-2025-8a5a9657b2ae
+
+📌 Stored XSS via Organization Name
+✍️ Author: Ahmed Mahmoud
+🔗 Link: https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06
+
