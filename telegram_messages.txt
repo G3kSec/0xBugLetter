@@ -2362,3 +2362,15 @@
 ✍️ Author: Ahmed Mahmoud
 🔗 Link: https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06
 
+📌 Polluting the Graph: Abusing Parameter Confusion in Nested GraphQL Queries
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/polluting-the-graph-abusing-parameter-confusion-in-nested-graphql-queries-a1daa5d30019
+
+📌 From Informative To Medium (6.5)
+✍️ Author: Muhammad Wageh
+🔗 Link: https://medium.com/@Muhammad_Wageh/from-informative-to-medium-6-5-e19bec7cf23d
+
+📌 🔓 Breaking Down Mobile App Premium Paywalls: A Deep Dive into Android In-App Purchase Security…
+✍️ Author: Frostynxth
+🔗 Link: https://medium.com/@frostyxsec/breaking-down-mobile-app-premium-paywalls-a-deep-dive-into-android-in-app-purchase-security-3f11db444f51
+
