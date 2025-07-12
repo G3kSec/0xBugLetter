@@ -2374,3 +2374,11 @@
 ✍️ Author: Frostynxth
 🔗 Link: https://medium.com/@frostyxsec/breaking-down-mobile-app-premium-paywalls-a-deep-dive-into-android-in-app-purchase-security-3f11db444f51
 
+📌 Hijacking the Cache — Part 2: When Parameters Go Rogue 🧪
+✍️ Author: Đeepanshu
+🔗 Link: https://medium.com/@su6osec/hijacking-the-cache-part-2-when-parameters-go-rogue-0242c0e9f4fc
+
+📌 Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative”
+✍️ Author: Vamsi Krishna
+🔗 Link: https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760
+
