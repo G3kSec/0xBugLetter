@@ -2382,3 +2382,11 @@
 ✍️ Author: Vamsi Krishna
 🔗 Link: https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760
 
+📌 $ Don’t Leave Money on the Table: My Automated Hunt for $50-$500 Info Disclosure Bugs 🕵️‍♂️💸
+✍️ Author: Aman Sharma
+🔗 Link: https://medium.com/@amannsharmaa/dont-leave-money-on-the-table-my-automated-hunt-for-50-500-info-disclosure-bugs-️-️-e088eba923cf
+
+📌 Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty
+✍️ Author: Shubham Sharma
+🔗 Link: https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade
+
