@@ -2390,3 +2390,11 @@
 ✍️ Author: Shubham Sharma
 🔗 Link: https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade
 
+📌 Think Like a User, Act Like a Tester: A QA Engineer’s Journey
+✍️ Author: sajith dilshan
+🔗 Link: https://medium.com/@sajith-dilshan/think-like-a-user-act-like-a-tester-a-qa-engineers-journey-b9c59de5db41
+
+📌 Even Duplicates Have Stories — My XSS Discovery on Experian
+✍️ Author: Orion
+🔗 Link: https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97
+
