@@ -2398,3 +2398,15 @@
 ✍️ Author: Orion
 🔗 Link: https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97
 
+📌 Are Mongo Object IDs really random?
+✍️ Author: vastavik_anurag
+🔗 Link: https://medium.com/@panurag329/are-mongo-object-ids-really-random-1b6f9c83d04d
+
+📌 🚨 RCE + ROOT-LEVEL ACCESS (CVSS 10.0):
+✍️ Author: RABIU
+🔗 Link: https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59
+
+📌 Building a Personal Recon Toolkit: What’s in My Hacker Arsenal? By Particle 14.
+✍️ Author: Khanshadan
+🔗 Link: https://medium.com/@khanshadan.313/building-a-personal-recon-toolkit-whats-in-my-hacker-arsenal-by-particle-14-90267c30022f
+
