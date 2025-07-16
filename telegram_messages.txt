@@ -2410,3 +2410,11 @@
 ✍️ Author: Khanshadan
 🔗 Link: https://medium.com/@khanshadan.313/building-a-personal-recon-toolkit-whats-in-my-hacker-arsenal-by-particle-14-90267c30022f
 
+📌 Day 1 of My Bug Bounty Journey — Starting from Zero
+✍️ Author: Manju Varma M
+🔗 Link: https://medium.com/@varmamanju2003/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15
+
+📌 Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers
+✍️ Author: hacker_might
+🔗 Link: https://medium.com/@hacker_might/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39
+
