@@ -2418,3 +2418,11 @@
 ✍️ Author: hacker_might
 🔗 Link: https://medium.com/@hacker_might/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39
 
+📌 Where Do I Even Start with Bug Bounties? Let’s Learn One Thing Today.
+✍️ Author: Alex Joyel Raj
+🔗 Link: https://medium.com/@alexjoyelraj/where-do-i-even-start-with-bug-bounties-lets-learn-one-thing-today-3633ae407ce9
+
+📌 SQL Injection in hidden Contact Form Parameter
+✍️ Author: Anonymousshetty
+🔗 Link: https://medium.com/@anonymousshetty2003/sql-injection-in-hidden-contact-form-parameter-660bd1281491
+
