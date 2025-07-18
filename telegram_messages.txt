@@ -2426,3 +2426,11 @@
 ✍️ Author: Anonymousshetty
 🔗 Link: https://medium.com/@anonymousshetty2003/sql-injection-in-hidden-contact-form-parameter-660bd1281491
 
+📌 SSRF via PDF Export in Analytics Dashboard
+✍️ Author: In
+🔗 Link: https://medium.com/h7w/ssrf-via-pdf-export-in-analytics-dashboard-54e304b438f9
+
+📌 Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks
+✍️ Author: Shah kaif
+🔗 Link: https://medium.com/@SKaif009/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c
+
