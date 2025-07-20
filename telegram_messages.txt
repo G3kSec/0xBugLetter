@@ -2434,3 +2434,11 @@
 ✍️ Author: Shah kaif
 🔗 Link: https://medium.com/@SKaif009/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c
 
+📌 Stop Employee Account Takeovers Before They Start
+✍️ Author: Alexandre Vandamme
+🔗 Link: https://medium.com/@alexandrevandammepro/stop-employee-account-takeovers-before-they-start-0805a91db60e
+
+📌 How I Hacked NASA and Defaced It
+✍️ Author: Shafayat Ahmed Alif
+🔗 Link: https://medium.com/@iamshafayat/how-i-hacked-nasa-and-defaced-it-9f106e833cc1
+
