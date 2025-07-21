@@ -2442,3 +2442,15 @@
 ✍️ Author: Shafayat Ahmed Alif
 🔗 Link: https://medium.com/@iamshafayat/how-i-hacked-nasa-and-defaced-it-9f106e833cc1
 
+📌 🎯 Stop Wasting Hours Searching for Cybersecurity Resources — I Built Something to Help You
+✍️ Author: Digitalbest
+🔗 Link: https://medium.com/@digitalbest/stop-wasting-hours-searching-for-cybersecurity-resources-i-built-something-to-help-you-da591ae731e8
+
+📌 Business Logic: Broken. Wallet: Hacked. OTP: Bypassed.
+✍️ Author: Het Patel
+🔗 Link: https://medium.com/@hettt/business-logic-broken-wallet-hacked-otp-bypassed-d82e6591a63a
+
+📌 Why Test Case Writing Is a Thinking Exercise, Not a Form-Filling Task
+✍️ Author: Nirmal Kiran Patel
+🔗 Link: https://medium.com/@n1rmalka/why-test-case-writing-is-a-thinking-exercise-not-a-form-filling-task-07743e2d1bdb
+
