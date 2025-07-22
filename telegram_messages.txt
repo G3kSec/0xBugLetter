@@ -2454,3 +2454,11 @@
 ✍️ Author: Nirmal Kiran Patel
 🔗 Link: https://medium.com/@n1rmalka/why-test-case-writing-is-a-thinking-exercise-not-a-form-filling-task-07743e2d1bdb
 
+📌 Basic SSRF against another back-end system [ES] [PortSwigger]
+✍️ Author: h0lm3s
+🔗 Link: https://medium.com/@h0lm3s/basic-ssrf-against-another-back-end-system-es-portswigger-0758cfd90119
+
+📌 How I found my first Critical SSRF (and how you can too)
+✍️ Author: Appsec.pt
+🔗 Link: https://medium.com/@Appsec_pt/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b
+
