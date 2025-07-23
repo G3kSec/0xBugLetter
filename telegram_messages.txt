@@ -2462,3 +2462,15 @@
 ✍️ Author: Appsec.pt
 🔗 Link: https://medium.com/@Appsec_pt/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b
 
+📌 How I Found My First Open Redirect During Recon + TIPS!
+✍️ Author: Tenebris Venator
+🔗 Link: https://medium.com/@Tenebris_Venator/how-i-found-my-first-open-redirect-during-recon-tips-e36f2a5b1a31
+
+📌 10 Prerequisites Before Your First Bug Bounty (And the Tools to Get You Started)
+✍️ Author: Travis Ray Caverhill
+🔗 Link: https://medium.com/@saltinehacker/10-prerequisites-before-your-first-bug-bounty-and-the-tools-to-get-you-started-9ad3635189b1
+
+📌 A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold
+✍️ Author: Rutvik Kalkumbe
+🔗 Link: https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00
+
