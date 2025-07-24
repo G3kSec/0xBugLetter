@@ -2474,3 +2474,11 @@
 ✍️ Author: Rutvik Kalkumbe
 🔗 Link: https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00
 
+📌 Exploiting server-side parameter pollution in a query string PortSwigger Lab Write-up
+✍️ Author: Mohamed Medhat
+🔗 Link: https://medium.com/@Mohamed-Medhat/exploiting-server-side-parameter-pollution-in-a-query-string-portswigger-lab-write-up-df8e838acd13
+
+📌 IDOR vulnerability gives me 2500$
+✍️ Author: L4zyhacker
+🔗 Link: https://medium.com/@l4zyhacker/idor-vulnerability-gives-me-2500-42cd077c37f1
+
