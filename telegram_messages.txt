@@ -2482,3 +2482,11 @@
 ✍️ Author: L4zyhacker
 🔗 Link: https://medium.com/@l4zyhacker/idor-vulnerability-gives-me-2500-42cd077c37f1
 
+📌 🌩️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter 🧠📦
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/️-dns-and-deception-how-ssrf-and-metadata-gave-me-cloud-access-on-a-silver-platter-e9cf97c3693f
+
+📌 How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT
+✍️ Author: 0xBartita
+🔗 Link: https://medium.com/@0xbartita/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ed68ee078998
+
