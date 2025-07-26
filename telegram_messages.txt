@@ -2490,3 +2490,11 @@
 ✍️ Author: 0xBartita
 🔗 Link: https://medium.com/@0xbartita/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ed68ee078998
 
+📌 New Types of Hacking: IDOR Attacks Evolved
+✍️ Author: The OSINT Edge
+🔗 Link: https://medium.com/@theosintedge/new-types-of-hacking-idor-attacks-evolved-ce556e25572e
+
+📌 How I Found and Exploited a Critical Remote Code Execution in OpenSSH (CVE-2024–6387) Using Shodan…
+✍️ Author: MostReal
+🔗 Link: https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d
+
