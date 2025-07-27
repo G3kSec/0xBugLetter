@@ -2498,3 +2498,11 @@
 ✍️ Author: MostReal
 🔗 Link: https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d
 
+📌 The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover
+✍️ Author: Ayaa Hamed
+🔗 Link: https://medium.com/@ayaa101/the-bug-hiding-in-plain-sight-a-simple-click-led-to-cross-org-account-takeover-82b77f640f6f
+
+📌 “Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC”
+✍️ Author: HariHaranK
+🔗 Link: https://medium.com/@hariharanhex00/bug-bounty-telerik-report-server-authentication-bypass-cve-2024-4358-poc-358575ed7102
+
