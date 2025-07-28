@@ -2506,3 +2506,11 @@
 ✍️ Author: HariHaranK
 🔗 Link: https://medium.com/@hariharanhex00/bug-bounty-telerik-report-server-authentication-bypass-cve-2024-4358-poc-358575ed7102
 
+📌 How I accessed WAF Bypass for Stored XSS Smart Idea 💡
+✍️ Author: Yossef ibrahim mohamed-salah
+🔗 Link: https://medium.com/@yossefmohamedsalah2001/how-i-accessed-waf-bypass-for-stored-xss-smart-idea-708082fcfa79
+
+📌 I can hack so why can’t I do bounties?
+✍️ Author: Thexssrat
+🔗 Link: https://medium.com/@thexssrat/i-can-hack-so-why-cant-i-do-bounties-5e0cd09486c4
+
