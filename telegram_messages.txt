@@ -2514,3 +2514,11 @@
 ✍️ Author: Thexssrat
 🔗 Link: https://medium.com/@thexssrat/i-can-hack-so-why-cant-i-do-bounties-5e0cd09486c4
 
+📌 My Journey on the Web Requests Bug Bounty Pathway: A Different Approach to Note-Taking and Learning
+✍️ Author: Noble Mutoko
+🔗 Link: https://medium.com/@noblemutoko/my-journey-on-the-web-requests-bug-bounty-pathway-a-different-approach-to-note-taking-and-learning-e7e335784fa1
+
+📌 Clickjacking: Everything You Need to Know About This UI-Based Threat
+✍️ Author: محمد عمر
+🔗 Link: https://medium.com/@0xAbJr/clickjacking-everything-you-need-to-know-about-this-ui-based-threat-22a3ade82fba
+
