@@ -2522,3 +2522,15 @@
 ✍️ Author: محمد عمر
 🔗 Link: https://medium.com/@0xAbJr/clickjacking-everything-you-need-to-know-about-this-ui-based-threat-22a3ade82fba
 
+📌 SSRF via Host Header Injection — A Prank Gone Vulnerable
+✍️ Author: Minio Haxer
+🔗 Link: https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d
+
+📌 How I Gained Remote Code Execution (RCE) on Huawei Phones
+✍️ Author: Neil Mark Ochea
+🔗 Link: https://medium.com/@nmochea/how-i-gained-remote-code-execution-rce-on-huawei-phones-e55a986c1ca0
+
+📌 From Dorking to Critical: Exposing Company Database Credentials and Full Source Code via Public…
+✍️ Author: 0xRedFox29
+🔗 Link: https://medium.com/@0xRedFox29/from-dorking-to-critical-exposing-company-database-credentials-and-full-source-code-via-public-197a1fc049c2
+
