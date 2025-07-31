@@ -2534,3 +2534,11 @@
 ✍️ Author: 0xRedFox29
 🔗 Link: https://medium.com/@0xRedFox29/from-dorking-to-critical-exposing-company-database-credentials-and-full-source-code-via-public-197a1fc049c2
 
+📌 WebSockets, Protobuf, and a Hidden SQL Injection: My Unexpected Bug Hunting Journey 🔍
+✍️ Author: MOAMEN REZK
+🔗 Link: https://medium.com/@momenrezkk90/websockets-protobuf-and-a-hidden-sql-injection-my-unexpected-bug-hunting-journey-c22e935cca72
+
+📌 From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough
+✍️ Author: Utkarsh Srivastava
+🔗 Link: https://medium.com/@drizzlehx/from-exposed-api-key-to-arbitrary-account-creation-a-graphql-bug-bounty-walkthrough-af0d26accab3
+
