@@ -2542,3 +2542,11 @@
 ✍️ Author: Utkarsh Srivastava
 🔗 Link: https://medium.com/@drizzlehx/from-exposed-api-key-to-arbitrary-account-creation-a-graphql-bug-bounty-walkthrough-af0d26accab3
 
+📌 📡 CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy 🚁🎯
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/csrf-in-disguise-how-a-tracking-pixel-let-me-steal-user-actions-like-a-spy-28c084002d1e
+
+📌 🔓 How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI
+✍️ Author: Moamelshakeer
+🔗 Link: https://medium.com/@moamelshakeer/how-i-discovered-an-idor-vulnerability-in-chatgpt-com-and-got-rewarded-by-openai-bc4da48d5013
+
