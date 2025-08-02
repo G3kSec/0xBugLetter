@@ -2550,3 +2550,11 @@
 ✍️ Author: Moamelshakeer
 🔗 Link: https://medium.com/@moamelshakeer/how-i-discovered-an-idor-vulnerability-in-chatgpt-com-and-got-rewarded-by-openai-bc4da48d5013
 
+📌 Software and Data Integrity Failures (OWASP A08): For Hacking, Bug Bounty, and Web Development
+✍️ Author: JPablo13
+🔗 Link: https://medium.com/@jpablo13/software-and-data-integrity-failures-owasp-a08-for-hacking-bug-bounty-and-web-development-54403ea14351
+
+📌 I Tried CSRF Attacks in Many Website (And Failed Miserably). Here’s What I Learned
+✍️ Author: Shah kaif
+🔗 Link: https://medium.com/@SKaif009/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0
+
