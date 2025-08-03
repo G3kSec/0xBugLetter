@@ -2558,3 +2558,7 @@
 ✍️ Author: Shah kaif
 🔗 Link: https://medium.com/@SKaif009/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0
 
+📌 💰 How I Got a $1000 Bounty for Chaining LFI to RCE via Log Injection 🐚🔥
+✍️ Author: Zoningxtr
+🔗 Link: https://medium.com/@zoningxtr/how-i-got-a-1000-bounty-for-chaining-lfi-to-rce-via-log-injection-5147552ca2cc
+
