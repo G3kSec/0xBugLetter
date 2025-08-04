@@ -2562,3 +2562,11 @@
 ✍️ Author: Zoningxtr
 🔗 Link: https://medium.com/@zoningxtr/how-i-got-a-1000-bounty-for-chaining-lfi-to-rce-via-log-injection-5147552ca2cc
 
+📌 # I Found a Subdomain Takeover on Jio — But Got No Credit
+✍️ Author: divyanshu
+🔗 Link: https://medium.com/@cyberdivyanshu69/i-found-a-subdomain-takeover-on-jio-but-got-no-credit-c46222f8bf0a
+
+📌 Stored XSS to Privilege Escalation to Admin Takeover to Data Breach
+✍️ Author: Ahmad Halabi
+🔗 Link: https://medium.com/@ahmdhalabi/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c
+
