@@ -2570,3 +2570,11 @@
 ✍️ Author: Ahmad Halabi
 🔗 Link: https://medium.com/@ahmdhalabi/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c
 
+📌 How to Build Your Own Burp Suite Extension (Python/Java)
+✍️ Author: Paritosh
+🔗 Link: https://medium.com/@paritoshblogs/how-to-build-your-own-burp-suite-extension-python-java-efc3c72a98e8
+
+📌 Unauthorized Privilege Escalation in Role Logic
+✍️ Author: Ahmed Mahmoud
+🔗 Link: https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c
+
