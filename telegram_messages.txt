@@ -2578,3 +2578,11 @@
 ✍️ Author: Ahmed Mahmoud
 🔗 Link: https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c
 
+📌 How I Discovered a Critical OTP Rate Limiting Vulnerability on a Bug Bounty Program
+✍️ Author: Lime
+🔗 Link: https://medium.com/@secourses8/how-i-discovered-a-critical-otp-rate-limiting-vulnerability-on-a-bug-bounty-program-e8386e857579
+
+📌 Do you Practice, but Still Feel Stuck at Bug Bounty?
+✍️ Author: Appsec.pt
+🔗 Link: https://medium.com/@Appsec_pt/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403
+
