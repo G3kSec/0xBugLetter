@@ -2586,3 +2586,11 @@
 ✍️ Author: Appsec.pt
 🔗 Link: https://medium.com/@Appsec_pt/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403
 
+📌 💥 Unlock Burp Suite Pro on macOS for Free — Full Setup Guide (No Errors)
+✍️ Author: Amreal Abhishek
+🔗 Link: https://medium.com/@amrealabhishek/unlock-burp-suite-pro-on-macos-for-free-full-setup-guide-no-errors-82f64eb09055
+
+📌 Do you Practice, but Still Feel Stuck at Bug Bounty?
+✍️ Author: In
+🔗 Link: https://medium.com/system-weakness/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403
+
