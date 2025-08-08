@@ -2594,3 +2594,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/system-weakness/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403
 
+📌 The Forgotten SSRF Vector (CVE-2020–10770)
+✍️ Author: In
+🔗 Link: https://medium.com/h7w/the-forgotten-ssrf-vector-cve-2020-10770-8bf04bfd4be9
+
+📌 🔍 How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story
+✍️ Author: Ezekiel peter
+🔗 Link: https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a
+
