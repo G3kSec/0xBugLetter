@@ -2602,3 +2602,11 @@
 ✍️ Author: Ezekiel peter
 🔗 Link: https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a
 
+📌 DNSSEC Explained
+✍️ Author: In
+🔗 Link: https://medium.com/zero2root/dnssec-explained-2e76ef993984
+
+📌 Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions
+✍️ Author: Kerolos Ayman
+🔗 Link: https://medium.com/@keroayman77/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e
+
