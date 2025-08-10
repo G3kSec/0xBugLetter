@@ -2610,3 +2610,15 @@
 ✍️ Author: Kerolos Ayman
 🔗 Link: https://medium.com/@keroayman77/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e
 
+📌 The Easiest Bug Bounty of 2025
+✍️ Author: Jeosantos
+🔗 Link: https://medium.com/@jeosantos2005/the-easiest-bug-bounty-of-2025-165c57df3e14
+
+📌 Advanced WAF Bypass Using a Single cURL Command
+✍️ Author: KILLUA_UCHIHA
+🔗 Link: https://medium.com/@aminefarah802/advanced-waf-bypass-using-a-single-curl-command-6042a643948e
+
+📌 Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator
+✍️ Author: MostReal
+🔗 Link: https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3
+
