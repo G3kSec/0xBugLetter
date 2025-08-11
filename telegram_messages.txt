@@ -2622,3 +2622,7 @@
 ✍️ Author: MostReal
 🔗 Link: https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3
 
+📌 Zero-Click ATO via Reusable Password Reset Token
+✍️ Author: httpzuz
+🔗 Link: https://medium.com/@mahmodziad40/zero-click-ato-via-reusable-password-reset-token-3299d0bfc005
+
