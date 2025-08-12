@@ -2626,3 +2626,11 @@
 ✍️ Author: httpzuz
 🔗 Link: https://medium.com/@mahmodziad40/zero-click-ato-via-reusable-password-reset-token-3299d0bfc005
 
+📌 How data is stored in SIEM solution?
+✍️ Author: Devaaravindlutukurty
+🔗 Link: https://medium.com/@devaaravindlutukurty/how-data-is-stored-in-siem-solution-d6344c14ba32
+
+📌 [02]. How do I create my luck in bug bounty?
+✍️ Author: yoyomiski
+🔗 Link: https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452
+
