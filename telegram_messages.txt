@@ -2634,3 +2634,15 @@
 ✍️ Author: yoyomiski
 🔗 Link: https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452
 
+📌 Bug Bounty: Information Disclosure — Leaks, Logs & Loose Ends
+✍️ Author: Rajkumar Kumawat
+🔗 Link: https://medium.com/@rajkumarkumawat.workup/bug-bounty-information-disclosure-leaks-logs-loose-ends-54cf53dbbf09
+
+📌 How I Removed Other User`s Uploaded Images in a Few Clicks
+✍️ Author: StrangeRwhite
+🔗 Link: https://medium.com/@strangerwhite/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b
+
+📌 How I Removed Other User`s Uploaded Images in a Few Clicks
+✍️ Author: StrangeRwhite
+🔗 Link: https://medium.com/@strangerwhite/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b
+
