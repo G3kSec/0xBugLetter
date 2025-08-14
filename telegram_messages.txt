@@ -2646,3 +2646,11 @@
 ✍️ Author: StrangeRwhite
 🔗 Link: https://medium.com/@strangerwhite/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b
 
+📌 CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All
+✍️ Author: 24BkDoor
+🔗 Link: https://medium.com/@24bkdoor/cve-2023-38646-pre-auth-rce-in-metabase-one-token-to-rule-them-all-9bc6b5caa9c1
+
+📌 How I Found a Critical XSS On a Public Bug Bounty Program
+✍️ Author: 1day
+🔗 Link: https://medium.com/@1-day/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61
+
