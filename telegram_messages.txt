@@ -2654,3 +2654,15 @@
 ✍️ Author: 1day
 🔗 Link: https://medium.com/@1-day/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61
 
+📌 Recon Methodology: JavaScript File Hunting
+✍️ Author: Marduk I Am
+🔗 Link: https://medium.com/@marduk.i.am/recon-methodology-javascript-file-hunting-254127ecd211
+
+📌 ☕ Web Cache Poisoning — How to Trick the Internet’s Memory and Serve Everyone Your “Special Recipe”
+✍️ Author: Shah kaif
+🔗 Link: https://medium.com/@SKaif009/web-cache-poisoning-how-to-trick-the-internets-memory-and-serve-everyone-your-special-recipe-eea160e6bb89
+
+📌 Mi P1 En la NASA con 16 Años
+✍️ Author: Gorka
+🔗 Link: https://medium.com/@gorkaaa/mi-p1-en-la-nasa-con-16-años-3eba63256d5b
+
