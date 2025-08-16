@@ -2666,3 +2666,11 @@
 ✍️ Author: Gorka
 🔗 Link: https://medium.com/@gorkaaa/mi-p1-en-la-nasa-con-16-años-3eba63256d5b
 
+📌 I Turned One XSS Into $4,000 in 48 Hours
+✍️ Author: Ibtissam hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi1/i-turned-one-xss-into-4-000-in-48-hours-4a80e8f79b30
+
+📌 Easy 130$ Bounty: User to Admin
+✍️ Author: Musab Sarı
+🔗 Link: https://medium.com/@sari.mmusab/easy-130-bounty-user-to-admin-fe9340ff9bd3
+
