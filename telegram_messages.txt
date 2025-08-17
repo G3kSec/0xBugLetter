@@ -2674,3 +2674,11 @@
 ✍️ Author: Musab Sarı
 🔗 Link: https://medium.com/@sari.mmusab/easy-130-bounty-user-to-admin-fe9340ff9bd3
 
+📌 I Built a SQL Injection That Bypassed Every WAF
+✍️ Author: Ibtissam hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi1/i-built-a-sql-injection-that-bypassed-every-waf-01bee29f2d84
+
+📌 Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/episode-2-brute-force-attacks-when-hackers-keep-knocking-until-the-door-opens-f08d6f386cfc
+
