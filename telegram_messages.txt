@@ -2682,3 +2682,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/episode-2-brute-force-attacks-when-hackers-keep-knocking-until-the-door-opens-f08d6f386cfc
 
+📌 How I Exploited 3 Unique Race Condition Bugs
+✍️ Author: Raunak Gupta Aka Biscuit
+🔗 Link: https://medium.com/@RaunakGupta1922/how-i-exploited-3-unique-race-condition-bugs-934ea54ebf58
+
+📌 4 Counterfeited Valid Certificates Leaked Using Bug Bounty Skills
+✍️ Author: In
+🔗 Link: https://medium.com/great-hackers-battalion/reccoinassance-using-bug-bounty-skills-3ed856006b74
+
+📌 ﷽
+✍️ Author: Ammar yasser shoeib
+🔗 Link: https://medium.com/@ammaryasserh17/-b3205aa78fbb
+
