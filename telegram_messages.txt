@@ -2694,3 +2694,15 @@
 ✍️ Author: Ammar yasser shoeib
 🔗 Link: https://medium.com/@ammaryasserh17/-b3205aa78fbb
 
+📌 ShellShock: How Hackers Exploit Bash Vulnerabilities and How to Protect Yourself
+✍️ Author: Very Lazy Tech 👾
+🔗 Link: https://medium.com/@verylazytech/shellshock-how-hackers-exploit-bash-vulnerabilities-and-how-to-protect-yourself-a006c63c1883
+
+📌 How I Discovered a Critical SQL Injection in a Private Bug Bounty Program
+✍️ Author: Salaheddine KALADA
+🔗 Link: https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59
+
+📌 How I Discovered a Critical SQL Injection in a Private Bug Bounty Program
+✍️ Author: Salaheddine KALADA
+🔗 Link: https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59
+
