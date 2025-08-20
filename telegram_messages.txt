@@ -2706,3 +2706,11 @@
 ✍️ Author: Salaheddine KALADA
 🔗 Link: https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59
 
+📌 When the Interview Fails but the Security Does Too
+✍️ Author: Raunak Gupta Aka Biscuit
+🔗 Link: https://medium.com/@RaunakGupta1922/when-the-interview-fails-but-the-security-does-too-d871ccc47da8
+
+📌 🚀 The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits
+✍️ Author: Farhan Alam
+🔗 Link: https://medium.com/@samael0x4/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f
+
