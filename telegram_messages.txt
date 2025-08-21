@@ -2714,3 +2714,7 @@
 ✍️ Author: Farhan Alam
 🔗 Link: https://medium.com/@samael0x4/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f
 
+📌 Web Cache Poisoning via an Unkeyed Query Parameter
+✍️ Author: Bash Overflow
+🔗 Link: https://medium.com/@bashoverflow/web-cache-poisoning-via-an-unkeyed-query-parameter-543c4016b920
+
