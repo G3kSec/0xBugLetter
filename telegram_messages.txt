@@ -2718,3 +2718,11 @@
 ✍️ Author: Bash Overflow
 🔗 Link: https://medium.com/@bashoverflow/web-cache-poisoning-via-an-unkeyed-query-parameter-543c4016b920
 
+📌 CatReloaded 2025 CTF Web writeup
+✍️ Author: Karim
+🔗 Link: https://medium.com/@k4r1mw4l1d/catreloaded-2025-ctf-web-writeup-4d692010c882
+
+📌 50+ Parameters Devs Actually Use (and Hunters Forget)
+✍️ Author: Cybersecplayground
+🔗 Link: https://medium.com/@cybersecplayground/50-parameters-devs-actually-use-and-hunters-forget-f90579a927ba
+
