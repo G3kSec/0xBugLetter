@@ -2726,3 +2726,11 @@
 ✍️ Author: Cybersecplayground
 🔗 Link: https://medium.com/@cybersecplayground/50-parameters-devs-actually-use-and-hunters-forget-f90579a927ba
 
+📌 SQL Injection: Beyond Basics (Bug Bounty Hunter’s Guide)
+✍️ Author: sukhveer singh
+🔗 Link: https://medium.com/@sukhveersingh97997/sql-injection-beyond-basics-bug-bounty-hunters-guide-5853d2d39b52
+
+📌 🔥How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$
+✍️ Author: Whitehat
+🔗 Link: https://medium.com/@whitehat29/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611
+
