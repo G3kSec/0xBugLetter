@@ -2734,3 +2734,11 @@
 ✍️ Author: Whitehat
 🔗 Link: https://medium.com/@whitehat29/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611
 
+📌 Katana to Kill‑Switch: Mastering ProjectDiscovery’s Crawler From Zero to Pro (with Real‑World…
+✍️ Author: adce626
+🔗 Link: https://medium.com/@adce626/katana-to-kill-switch-mastering-projectdiscoverys-crawler-from-zero-to-pro-with-real-world-62a7dec5a744
+
+📌 Shellshock: The Bash Bug That Shook the Internet 🐚
+✍️ Author: Het Patel
+🔗 Link: https://medium.com/@hettt/shellshock-the-bash-bug-that-shook-the-internet-4adbea238bad
+
