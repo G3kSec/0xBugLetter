@@ -2742,3 +2742,7 @@
 ✍️ Author: Het Patel
 🔗 Link: https://medium.com/@hettt/shellshock-the-bash-bug-that-shook-the-internet-4adbea238bad
 
+📌 7. Understanding HTTP Requests: The Language of the Web
+✍️ Author: Abhijeet kumawat
+🔗 Link: https://medium.com/@kumawatabhijeet2002/7-understanding-http-requests-the-language-of-the-web-167b4210b700
+
