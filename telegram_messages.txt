@@ -2746,3 +2746,11 @@
 ✍️ Author: Abhijeet kumawat
 🔗 Link: https://medium.com/@kumawatabhijeet2002/7-understanding-http-requests-the-language-of-the-web-167b4210b700
 
+📌 🕵🏻‍♂️ Tip de Bug Bounty: Nunca ignores los mensajes de error
+✍️ Author: Gorka
+🔗 Link: https://medium.com/@gorkaaa/️-tip-de-bug-bounty-nunca-ignores-los-mensajes-de-error-6e57f2b82f76
+
+📌 Flagtionary — Web
+✍️ Author: Mostafa Abd-Elbaky
+🔗 Link: https://medium.com/@mostafa.abdo12376/flagtionary-web-bd3da8aedad1
+
