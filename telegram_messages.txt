@@ -2754,3 +2754,11 @@
 ✍️ Author: Mostafa Abd-Elbaky
 🔗 Link: https://medium.com/@mostafa.abdo12376/flagtionary-web-bd3da8aedad1
 
+📌 Securing an Application Built with AI: Lessons from a Real-World Test
+✍️ Author: GABBYTECH
+🔗 Link: https://medium.com/@gabbytech01/securing-an-application-built-with-ai-lessons-from-a-real-world-test-400648df34f8
+
+📌 Unique ways to Recon for Bug Hunters: Short series [Part 2]
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/unique-ways-to-recon-for-bug-hunters-short-series-part-2-735d0b2fad2b
+
