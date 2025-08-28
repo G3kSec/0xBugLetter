@@ -2762,3 +2762,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/unique-ways-to-recon-for-bug-hunters-short-series-part-2-735d0b2fad2b
 
+📌 How GitLab Avoided €20M+ in Legal Fines With One Quick Fix: The One Small Mistake That Almost…
+✍️ Author: Justas_b
+🔗 Link: https://medium.com/@justas_b1/how-gitlab-avoided-20m-in-legal-fines-with-one-quick-fix-the-one-small-mistake-that-almost-cefb4b581c0e
+
+📌 How I Turned a “Type 3 Chars” Search Box Into Full SQLi
+✍️ Author: Ali Hussain
+🔗 Link: https://medium.com/@ghostxploiter/how-i-turned-a-type-3-chars-search-box-into-full-sqli-a4664e41071f
+
