@@ -2770,3 +2770,11 @@
 ✍️ Author: Ali Hussain
 🔗 Link: https://medium.com/@ghostxploiter/how-i-turned-a-type-3-chars-search-box-into-full-sqli-a4664e41071f
 
+📌 Automating Credential Stuffing Attacks with Burp Suite Intruder
+✍️ Author: Appsec.pt
+🔗 Link: https://medium.com/@Appsec_pt/automating-credential-stuffing-attacks-with-burp-suite-intruder-3aa74cf0c2d1
+
+📌 🚨 Weak OAuth, Big Problem: Grafana Login Bypass Explained
+✍️ Author: TEAM DH49
+🔗 Link: https://medium.com/@teamdh49/weak-oauth-big-problem-grafana-login-bypass-explained-ee078ad6aa27
+
