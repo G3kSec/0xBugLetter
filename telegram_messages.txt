@@ -2778,3 +2778,15 @@
 ✍️ Author: TEAM DH49
 🔗 Link: https://medium.com/@teamdh49/weak-oauth-big-problem-grafana-login-bypass-explained-ee078ad6aa27
 
+📌 Stuck In Bug Hunting? Don’t Know Where To Go Now? Don’t Worry More. I Got You!
+✍️ Author: In
+🔗 Link: https://medium.com/great-hackers-battalion/stuck-in-bug-hunting-dont-know-where-to-go-now-don-t-worry-more-i-got-you-261f533919aa
+
+📌 Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits
+✍️ Author: Hussein A.Taha
+🔗 Link: https://medium.com/@0xhussein/exploiting-otp-with-ip-rotation-on-a-flutter-app-bypassing-rate-limits-58f9dffec83c
+
+📌 Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits
+✍️ Author: Hussein A.Taha
+🔗 Link: https://medium.com/@0xhussein/exploiting-otp-with-ip-rotation-on-a-flutter-app-bypassing-rate-limits-58f9dffec83c
+
