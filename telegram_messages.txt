@@ -2790,3 +2790,11 @@
 ✍️ Author: Hussein A.Taha
 🔗 Link: https://medium.com/@0xhussein/exploiting-otp-with-ip-rotation-on-a-flutter-app-bypassing-rate-limits-58f9dffec83c
 
+📌 I Almost Closed the Tab on My Biggest Bug Bounty
+✍️ Author: Ibtissam hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi1/i-almost-closed-the-tab-on-my-biggest-bug-bounty-8685ef3d2f46
+
+📌 I Found DOM-Based XSS & HTML Injection in Swagger UI
+✍️ Author: 0xmrX
+🔗 Link: https://medium.com/@0xmrX/i-found-dom-based-xss-html-injection-in-swagger-ui-292df97500c9
+
