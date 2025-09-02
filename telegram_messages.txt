@@ -2798,3 +2798,11 @@
 ✍️ Author: 0xmrX
 🔗 Link: https://medium.com/@0xmrX/i-found-dom-based-xss-html-injection-in-swagger-ui-292df97500c9
 
+📌 “Day 26: The Logic Bomb — How I Hacked 0.1% of a Million-User Platform in 10 Minutes”
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/day-26-the-logic-bomb-how-i-hacked-0-1-of-a-million-user-platform-in-10-minutes-7dcb23f488cb
+
+📌 A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover
+✍️ Author: Mo Salah
+🔗 Link: https://medium.com/@MoSalah11/a-critical-zero-day-in-atlassian-jira-service-management-cloud-password-reset-account-takeover-1903cbb8bd31
+
