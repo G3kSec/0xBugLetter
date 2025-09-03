@@ -2806,3 +2806,11 @@
 ✍️ Author: Mo Salah
 🔗 Link: https://medium.com/@MoSalah11/a-critical-zero-day-in-atlassian-jira-service-management-cloud-password-reset-account-takeover-1903cbb8bd31
 
+📌 “Day 26: The WebSocket Hijack — How I Eavesdropped on Every Customer Support Chat”
+✍️ Author: Aman Sharma
+🔗 Link: https://medium.com/@amannsharmaa/day-26-the-websocket-hijack-how-i-eavesdropped-on-every-customer-support-chat-de5ddc819ad2
+
+📌 From Manage Members to Full Admin: Privilege Escalation in a GraphQL API
+✍️ Author: Bassemwanies
+🔗 Link: https://medium.com/@bassemwanies2002/from-manage-members-to-full-admin-privilege-escalation-in-a-graphql-api-b58699829d6e
+
