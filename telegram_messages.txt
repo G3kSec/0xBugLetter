@@ -2814,3 +2814,11 @@
 ✍️ Author: Bassemwanies
 🔗 Link: https://medium.com/@bassemwanies2002/from-manage-members-to-full-admin-privilege-escalation-in-a-graphql-api-b58699829d6e
 
+📌 Django Unauthenticated, 0 click, RCE, and SQL Injection using default configuration.
+✍️ Author: EyalSec
+🔗 Link: https://medium.com/@EyalSec/django-unauthenticated-0-click-rce-and-sql-injection-using-default-configuration-059964f3f898
+
+📌 How Weak Access Control Can Break Your Web App
+✍️ Author: diaryofacyberfan
+🔗 Link: https://medium.com/@cybersuperfan/how-weak-access-control-can-break-your-web-app-c9da6286c187
+
