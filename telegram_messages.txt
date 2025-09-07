@@ -2846,3 +2846,15 @@
 ✍️ Author: alr
 🔗 Link: https://medium.com/@3bddagg3/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600
 
+📌 5 Reasons Why Smart Companies Will Choose Bugthrive for Their Bug Bounty Program Management
+✍️ Author: ProwlSec
+🔗 Link: https://medium.com/@ProwlSec/5-reasons-why-smart-companies-will-choose-bugthrive-for-their-bug-bounty-program-management-0554c0ec38fc
+
+📌 [Guide] Crafting a neat and valuable bug bounty report
+✍️ Author: pm
+🔗 Link: https://medium.com/@pm_/guide-crafting-a-neat-and-valuable-bug-bounty-report-0bf1bc933bdc
+
+📌 🚨 Account Takeover via Insecure Email Change — Critical Vulnerability
+✍️ Author: ALR
+🔗 Link: https://medium.com/@0xalr/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600
+
