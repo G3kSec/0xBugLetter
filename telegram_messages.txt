@@ -2858,3 +2858,11 @@
 ✍️ Author: ALR
 🔗 Link: https://medium.com/@0xalr/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600
 
+📌 Shodan Recon Tips
+✍️ Author: AbhirupKonwar
+🔗 Link: https://medium.com/@abhirupkonwar04/shodan-recon-tips-352f0d7e8fdd
+
+📌 How I Found a High-Severity IDOR Without Using Any Proxy Tools
+✍️ Author: Yusuf
+🔗 Link: https://medium.com/@yusufabdulkadir74/how-i-found-a-high-severity-idor-without-using-any-proxy-tools-8a6d2d09efc7
+
