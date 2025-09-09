@@ -2866,3 +2866,11 @@
 ✍️ Author: Yusuf
 🔗 Link: https://medium.com/@yusufabdulkadir74/how-i-found-a-high-severity-idor-without-using-any-proxy-tools-8a6d2d09efc7
 
+📌 Hunting OS Command Injection
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/hunting-os-command-injection-039dbb284c7d
+
+📌 Broken like Hijacking earned me $150
+✍️ Author: Canonminibeast
+🔗 Link: https://medium.com/@canonminibeast/broken-like-hijacking-earned-me-150-d67fc0571582
+
