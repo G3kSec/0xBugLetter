@@ -2874,3 +2874,11 @@
 ✍️ Author: Canonminibeast
 🔗 Link: https://medium.com/@canonminibeast/broken-like-hijacking-earned-me-150-d67fc0571582
 
+📌 How I Earned $3,500 with a Simple Injection Bug (And You Can Too)
+✍️ Author: Rashadul Islam
+🔗 Link: https://medium.com/@rashad.desk/how-i-earned-3-500-with-a-simple-injection-bug-and-you-can-too-deeab8941c04
+
+📌 MOI-CTF: dash rush writeup | by Dargham Ali
+✍️ Author: Dargham Ali
+🔗 Link: https://medium.com/@wireshark.pcap/moi-ctf-dash-rush-writeup-by-dargham-ali-13cafb958bc1
+
