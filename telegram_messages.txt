@@ -2882,3 +2882,11 @@
 ✍️ Author: Dargham Ali
 🔗 Link: https://medium.com/@wireshark.pcap/moi-ctf-dash-rush-writeup-by-dargham-ali-13cafb958bc1
 
+📌 Race Conditions Are Not Just for Bypassing Plan Limits!!
+✍️ Author: CaptinSHArky(Mahdi🇹🇳)
+🔗 Link: https://medium.com/@mahdisalhi0500/race-conditions-are-not-just-for-bypassing-plan-limits-1cd63aa0d6f7
+
+📌 They Said XSS Was Dead… Then I Got Paid 💸 (My First Bounty in 2025)
+✍️ Author: file.bug
+🔗 Link: https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a
+
