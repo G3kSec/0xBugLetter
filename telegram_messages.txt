@@ -2890,3 +2890,11 @@
 ✍️ Author: file.bug
 🔗 Link: https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a
 
+📌 “Beyond the Obvious: How a Dead-End XXE Led to a Critical SQLi Goldmine”
+✍️ Author: Aman Sharma
+🔗 Link: https://medium.com/@amannsharmaa/beyond-the-obvious-how-a-dead-end-xxe-led-to-a-critical-sqli-goldmine-d368f5ddaadc
+
+📌 🚪 How I Bypassed a 403 Forbidden WAF Protection (and What I Learned)
+✍️ Author: samael0x4
+🔗 Link: https://medium.com/@samael0x4/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf
+
