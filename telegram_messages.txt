@@ -2898,3 +2898,11 @@
 ✍️ Author: samael0x4
 🔗 Link: https://medium.com/@samael0x4/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf
 
+📌 Race Condition in OTP Request — Unlimited SMS Bombing
+✍️ Author: Cybermotive
+🔗 Link: https://medium.com/@infinitycoder008/race-condition-in-otp-request-unlimited-sms-bombing-685b554d9bd3
+
+📌 how I made 6 figures in my first year in bug bounty: my experiences
+✍️ Author: furkan
+🔗 Link: https://medium.com/@furkan0x01/how-i-made-6-figures-in-my-first-year-in-bug-bounty-my-experiences-b6c2ec914a2a
+
