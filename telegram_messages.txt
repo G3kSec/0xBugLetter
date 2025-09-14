@@ -2906,3 +2906,7 @@
 ✍️ Author: furkan
 🔗 Link: https://medium.com/@furkan0x01/how-i-made-6-figures-in-my-first-year-in-bug-bounty-my-experiences-b6c2ec914a2a
 
+📌 Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis
+✍️ Author: BugHunteroX
+🔗 Link: https://medium.com/@bughunteroX/supercharge-your-bug-bounty-toolkit-api-testing-dto-validation-and-tree-sitter-analysis-a51cf74e6f1b
+
