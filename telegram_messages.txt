@@ -2914,3 +2914,11 @@
 ✍️ Author: GOSSIP BY COMING UP 4 AIR
 🔗 Link: https://medium.com/@consultingalcan/the-mcfaddens-7e9e35f4d863
 
+📌 Insecure Design Explained: How Poor Planning Creates Massive Security Risks
+✍️ Author: CyberSenpai
+🔗 Link: https://medium.com/@cybersenpai/insecure-design-explained-how-poor-planning-creates-massive-security-risks-5a029209f1aa
+
+📌 String Me Along: How a Single Quote Unraveled a Site’s Security
+✍️ Author: Buffer
+🔗 Link: https://medium.com/@buffer2091/string-me-along-how-a-single-quote-unraveled-a-sites-security-2e71ec4534e6
+
