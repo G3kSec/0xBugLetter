@@ -2922,3 +2922,15 @@
 ✍️ Author: Buffer
 🔗 Link: https://medium.com/@buffer2091/string-me-along-how-a-single-quote-unraveled-a-sites-security-2e71ec4534e6
 
+📌 📊 Analytics Gone Wild: How I Turned a Tracking Pixel Into a User Data Firehose
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/analytics-gone-wild-how-i-turned-a-tracking-pixel-into-a-user-data-firehose-f178d83a1f75
+
+📌 How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…
+✍️ Author: Ph.Hitachi
+🔗 Link: https://medium.com/@ph-hitachi/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704
+
+📌 Can Bug Bounty Hunting Make One A Millionaire?
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/can-bug-bounty-hunting-make-one-a-millionaire-d8fef40820e9
+
