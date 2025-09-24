@@ -2934,3 +2934,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/can-bug-bounty-hunting-make-one-a-millionaire-d8fef40820e9
 
+📌 Auth Bypasses: Logic Flaws, Race Conditions, and Deserialization. What you need to know🔥🔥
+✍️ Author: Tenebris Venator
+🔗 Link: https://medium.com/@Tenebris_Venator/auth-bypasses-logic-flaws-race-conditions-and-deserialization-what-you-need-to-know-d1efddc16eb5
+
+📌 A Critical Bug Let Me Become an Admin on an External Bug Bounty Program
+✍️ Author: Ln0rag
+🔗 Link: https://medium.com/@ln0rag/a-critical-bug-let-me-become-an-admin-on-an-external-bug-bounty-program-e76733ca07eb
+
