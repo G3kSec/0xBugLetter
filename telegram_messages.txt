@@ -2942,3 +2942,11 @@
 ✍️ Author: Ln0rag
 🔗 Link: https://medium.com/@ln0rag/a-critical-bug-let-me-become-an-admin-on-an-external-bug-bounty-program-e76733ca07eb
 
+📌 “The Hijacker’s Goldmine: Finding Broken Links That Lead to Bounties”
+✍️ Author: Aman Sharma
+🔗 Link: https://medium.com/@amannsharmaa/the-hijackers-goldmine-finding-broken-links-that-lead-to-bounties-695740698218
+
+📌 Privilege Escalation: Member Role Can Change Organization Name and Photo
+✍️ Author: HBlack Ghost
+🔗 Link: https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42
+
