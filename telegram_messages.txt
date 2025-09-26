@@ -2950,3 +2950,7 @@
 ✍️ Author: HBlack Ghost
 🔗 Link: https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42
 
+📌 Exposing Sensitive Data on NASA Endpoint. S3 Bucket, API Key, and Config Leak
+✍️ Author: D3N14LD15K
+🔗 Link: https://medium.com/@d3n14ld15k/exposing-sensitive-data-on-nasa-endpoint-s3-bucket-api-key-and-config-leak-b441f7f95893
+
