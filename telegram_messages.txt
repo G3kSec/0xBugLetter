@@ -2954,3 +2954,11 @@
 ✍️ Author: D3N14LD15K
 🔗 Link: https://medium.com/@d3n14ld15k/exposing-sensitive-data-on-nasa-endpoint-s3-bucket-api-key-and-config-leak-b441f7f95893
 
+📌 Dalfox: Smart XSS Scanner for Bug Bounty and Pentesting
+✍️ Author: JPablo13
+🔗 Link: https://medium.com/@jpablo13/dalfox-smart-xss-scanner-for-bug-bounty-and-pentesting-c9a4a8708179
+
+📌 Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find
+✍️ Author: Dipu Basak
+🔗 Link: https://medium.com/@0xbasak/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36
+
