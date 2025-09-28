@@ -2962,3 +2962,11 @@
 ✍️ Author: Dipu Basak
 🔗 Link: https://medium.com/@0xbasak/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36
 
+📌 How a Newline Injection in Folder Names Broke Access Revocation: 750$ Bug
+✍️ Author: Abhi Sharma
+🔗 Link: https://medium.com/@a13h1/how-a-newline-injection-in-folder-names-broke-access-revocation-750-bug-f9a73a8cd978
+
+📌 💉 SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627
+
