@@ -2970,3 +2970,7 @@
 ✍️ Author: Iski
 🔗 Link: https://medium.com/@iski/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627
 
+📌 How to Find P1 Bugs using Google in your Target — (Part-1)
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1
+
