@@ -2974,3 +2974,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1
 
+📌 🔗 HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso
+✍️ Author: Gorka
+🔗 Link: https://medium.com/@gorkaaa/htmli-xss-ssti-rce-laboratorio-práctico-paso-a-paso-edd26e47ffdd
+
+📌 Bypass Password Confirmation on Change Email
+✍️ Author: Karim Hikal
+🔗 Link: https://medium.com/@karim.hikal1/bypass-password-confirmation-on-change-email-d0e69bf0e99c
+
+📌 Default Credentials: The Hidden Door to Admin Panels
+✍️ Author: Yasser Gersy
+🔗 Link: https://medium.com/@yassergersy/default-credentials-the-hidden-door-to-admin-panels-22a0461c8772
+
