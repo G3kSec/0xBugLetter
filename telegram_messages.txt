@@ -2986,3 +2986,7 @@
 ✍️ Author: Yasser Gersy
 🔗 Link: https://medium.com/@yassergersy/default-credentials-the-hidden-door-to-admin-panels-22a0461c8772
 
+📌 How to Learn Bug Bounty In Easy Way: A Simple Guide for Beginners
+✍️ Author: Kakashi
+🔗 Link: https://medium.com/@kakashi.kx/how-to-learn-bug-bounty-in-easy-way-a-simple-guide-for-beginners-a15d3e87a4fe
+
