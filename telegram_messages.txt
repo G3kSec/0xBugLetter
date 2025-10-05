@@ -3006,3 +3006,11 @@
 ✍️ Author: 0verRida
 🔗 Link: https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c
 
+📌 🎯 Why a 500 Error is a Bug Hunter’s Signal
+✍️ Author: Cybersecplayground
+🔗 Link: https://medium.com/@cybersecplayground/why-a-500-error-is-a-bug-hunters-signal-8e35ab2bc703
+
+📌 Forgot password link doesn’t expire after used.
+✍️ Author: Ahmed Mahmoud
+🔗 Link: https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f
+
