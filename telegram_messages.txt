@@ -3014,3 +3014,15 @@
 ✍️ Author: Ahmed Mahmoud
 🔗 Link: https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f
 
+📌 Information Gathering
+✍️ Author: Red_Ghost
+🔗 Link: https://medium.com/@khanfirdous/information-gathering-540c4e2099b4
+
+📌 6 Platforms Every Bug Bounty Hunter Should Know.
+✍️ Author: Willow Tech
+🔗 Link: https://medium.com/@willowtech/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009
+
+📌 6 Platforms Every Bug Bounty Hunter Should Know.
+✍️ Author: Willow Tech
+🔗 Link: https://medium.com/@willowtech/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009
+
