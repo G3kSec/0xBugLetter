@@ -3026,3 +3026,15 @@
 ✍️ Author: Willow Tech
 🔗 Link: https://medium.com/@willowtech/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009
 
+📌 🧠 The ML Blindspot: How I Found Machine Learning APIs Leaking Training Data Like My Ex Leaks…
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/the-ml-blindspot-how-i-found-machine-learning-apis-leaking-training-data-like-my-ex-leaks-e0d577481f2b
+
+📌 Writing Effective Bug Bounty Reports
+✍️ Author: ToxSec
+🔗 Link: https://medium.com/@cocopelly255/writing-effective-bug-bounty-reports-9e71f6b8706c
+
+📌 Writing Effective Bug Bounty Reports
+✍️ Author: ToxSec
+🔗 Link: https://medium.com/@cocopelly255/writing-effective-bug-bounty-reports-9e71f6b8706c
+
