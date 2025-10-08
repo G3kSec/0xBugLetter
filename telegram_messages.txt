@@ -3038,3 +3038,11 @@
 ✍️ Author: ToxSec
 🔗 Link: https://medium.com/@cocopelly255/writing-effective-bug-bounty-reports-9e71f6b8706c
 
+📌 When a Callback Form Became an Open Door — a short story about a hospital workflow gone wrong
+✍️ Author: Devansh Patel
+🔗 Link: https://medium.com/@devanshpatel930/when-a-callback-form-became-an-open-door-a-short-story-about-a-hospital-workflow-gone-wrong-50052deeb0c3
+
+📌 How to Report a Vulnerability When the Company Has No Responsible Disclosure Policy
+✍️ Author: 1day
+🔗 Link: https://medium.com/@1-day/how-to-report-a-vulnerability-when-the-company-has-no-responsible-disclosure-policy-9c729e56d328
+
