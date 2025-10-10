@@ -3046,3 +3046,11 @@
 ✍️ Author: 1day
 🔗 Link: https://medium.com/@1-day/how-to-report-a-vulnerability-when-the-company-has-no-responsible-disclosure-policy-9c729e56d328
 
+📌 I Found the Admin Panel. Then I Owned Everything.
+✍️ Author: youssef awad
+🔗 Link: https://medium.com/@youssefawad1357/i-found-the-admin-panel-then-i-owned-everything-95f6d367060a
+
+📌 0-click Account Takeover via Punycode
+✍️ Author: Saif Eldin
+🔗 Link: https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1
+
