@@ -3054,3 +3054,7 @@
 ✍️ Author: Saif Eldin
 🔗 Link: https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1
 
+📌 The $500 Stored XSS Bug in SideFX’s Messaging System
+✍️ Author: In
+🔗 Link: https://medium.com/bugbountywriteup/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391
+
