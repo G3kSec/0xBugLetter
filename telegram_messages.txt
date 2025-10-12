@@ -3058,3 +3058,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/bugbountywriteup/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391
 
+📌 Cross-Site Request Forgery (CSRF)
+✍️ Author: Md. Raihan
+🔗 Link: https://medium.com/@raihan408548/cross-site-request-forgery-csrf-958e968dc693
+
+📌 🚪 The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b
+
+📌 Finding XSS on a Real-World Bug Bounty Program
+✍️ Author: Ibtissam hammadi
+🔗 Link: https://medium.com/@ibtissamhammadi1/finding-xss-on-a-real-world-bug-bounty-program-d718335bcb30
+
