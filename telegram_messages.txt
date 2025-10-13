@@ -3070,3 +3070,7 @@
 ✍️ Author: Ibtissam hammadi
 🔗 Link: https://medium.com/@ibtissamhammadi1/finding-xss-on-a-real-world-bug-bounty-program-d718335bcb30
 
+📌 Cara Memulai Bug Bounty: Dari Pendaftaran sampai Laporan yang DiterimaRingkasan
+✍️ Author: Handev Code
+🔗 Link: https://medium.com/@handevcode/cara-memulai-bug-bounty-dari-pendaftaran-sampai-laporan-yang-diterimaringkasan-5e8aad8bd493
+
