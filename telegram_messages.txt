@@ -3074,3 +3074,11 @@
 ✍️ Author: Handev Code
 🔗 Link: https://medium.com/@handevcode/cara-memulai-bug-bounty-dari-pendaftaran-sampai-laporan-yang-diterimaringkasan-5e8aad8bd493
 
+📌 Blockchain Bug Hunting & Patch Workflow: A Complete Checklist for Ethical Hackers
+✍️ Author: In
+🔗 Link: https://medium.com/write-a-catalyst/blockchain-bug-hunting-patch-workflow-a-complete-checklist-for-ethical-hackers-057415161a0f
+
+📌 How I found A Reflected XSS on one of the Largest Telecommunication Companies
+✍️ Author: ShellReaper
+🔗 Link: https://medium.com/@shellreaper/how-i-found-a-reflected-on-one-of-the-largest-telecommunication-companies-755bc1c465d3
+
