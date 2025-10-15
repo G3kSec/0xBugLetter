@@ -3082,3 +3082,11 @@
 ✍️ Author: ShellReaper
 🔗 Link: https://medium.com/@shellreaper/how-i-found-a-reflected-on-one-of-the-largest-telecommunication-companies-755bc1c465d3
 
+📌 How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”
+✍️ Author: swiv
+🔗 Link: https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd
+
+📌 $6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af
+
