@@ -3090,3 +3090,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af
 
+📌 The Batcave Breach: A First-Timer’s Journey into Network Penetration Testing
+✍️ Author: MOAMEN REZK
+🔗 Link: https://medium.com/@momenrezkk90/the-batcave-breach-a-first-timers-journey-into-network-penetration-testing-d4b8ce514a77
+
+📌 How I Found a $250 XSS Bug After Losing Hope in Bug Bounty
+✍️ Author: Danish Ahmed
+🔗 Link: https://medium.com/@danishahmed2004505/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d
+
