@@ -3098,3 +3098,15 @@
 ✍️ Author: Danish Ahmed
 🔗 Link: https://medium.com/@danishahmed2004505/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d
 
+📌 Freelancer Scienario | Hackviser CWSExpert
+✍️ Author: Y0s_0x_IBM
+🔗 Link: https://medium.com/@yossefmohamedsalah2001/freelancer-scienario-hackviser-cwsexpert-6bd72c96a9ad
+
+📌 HOW TO FIND STORED XSS IN GOOGLE ASSETS & XSS CHAINING TRICK IN CSP PROTECTED GOOGLE
+✍️ Author: Azza0X1A
+🔗 Link: https://medium.com/@azzabughunter/how-to-find-stored-xss-in-google-assets-xss-chaining-trick-in-csp-protected-google-b854ee029e45
+
+📌 2 Best Self-Hosted Bounty Programs
+✍️ Author: Abhirup Konwar
+🔗 Link: https://medium.com/@abhirupkonwar04/2-best-self-hosted-bounty-programs-8769ba40b85a
+
