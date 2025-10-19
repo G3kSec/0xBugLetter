@@ -3114,3 +3114,7 @@
 ✍️ Author: JPablo13
 🔗 Link: https://medium.com/@jpablo13/complete-guide-to-dnsx-for-mass-dns-resolution-and-bug-bounty-f8bed1598770
 
+📌 Unauthorized Access to Enterprise Policies Management: $500 BAC Bug
+✍️ Author: Abhi Sharma
+🔗 Link: https://medium.com/@a13h1/unauthorized-access-to-enterprise-policies-management-500-bac-bug-60f04419fed4
+
