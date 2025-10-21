@@ -3118,3 +3118,15 @@
 ✍️ Author: Abhi Sharma
 🔗 Link: https://medium.com/@a13h1/unauthorized-access-to-enterprise-policies-management-500-bac-bug-60f04419fed4
 
+📌 🐞 Find Security Bugs Before Hackers Do — Static Code Analysis
+✍️ Author: Israel Aráoz Severiche
+🔗 Link: https://medium.com/@iaraoz/find-security-bugs-before-hackers-do-static-code-analysis-b26dcf0c515c
+
+📌 Week 14 — Understanding Redux & Fingerprinting Bundlers
+✍️ Author: Aang
+🔗 Link: https://medium.com/@iamaangx028/week-14-understanding-redux-fingerprinting-bundlers-cdba4a83fc7e
+
+📌 How I Got My first Private Invite in Bug Bounty
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/how-i-got-my-first-private-invite-in-bug-bounty-f51ea01e03a7
+
