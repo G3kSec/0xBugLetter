@@ -3130,3 +3130,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/how-i-got-my-first-private-invite-in-bug-bounty-f51ea01e03a7
 
+📌 Simple (but time consuming) guide to hunt for DOM XSS without a scanner
+✍️ Author: popalltheshells
+🔗 Link: https://medium.com/@popalltheshells/simple-but-time-consuming-guide-to-hunt-for-dom-xss-without-a-scanner-f5b65a262073
+
