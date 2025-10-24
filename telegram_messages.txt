@@ -3134,3 +3134,15 @@
 ✍️ Author: popalltheshells
 🔗 Link: https://medium.com/@popalltheshells/simple-but-time-consuming-guide-to-hunt-for-dom-xss-without-a-scanner-f5b65a262073
 
+📌 How I Found Two Role-Based Access Control (RBAC) Vulnerabilities
+✍️ Author: Muhammad Wageh
+🔗 Link: https://medium.com/@Muhammad_Wageh/how-i-found-two-role-based-access-control-rbac-vulnerabilities-f6ac62e42b65
+
+📌 $2000 Bounty: From Browser to Burp
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/2000-bounty-from-browser-to-burp-290dcb10f386
+
+📌 This Is How I Find Reflected XSS In Bug Bounty
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/this-is-how-i-find-reflected-xss-in-bug-bounty-7b42059a5d04
+
