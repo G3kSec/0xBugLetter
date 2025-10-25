@@ -3146,3 +3146,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/this-is-how-i-find-reflected-xss-in-bug-bounty-7b42059a5d04
 
+📌 Step-by-Step Guide: Automating Recon with Bash — Build Your Own Mini Nuclei Scanner
+✍️ Author: Very Lazy Tech 👾
+🔗 Link: https://medium.com/@verylazytech/step-by-step-guide-automating-recon-with-bash-build-your-own-mini-nuclei-scanner-3692c145cc77
+
+📌 Web Cache Deception: A Complete Beginner to Advanced Guide
+✍️ Author: In
+🔗 Link: https://medium.com/the-first-digit/web-cache-deception-a-complete-beginner-to-advanced-guide-94cf851cd89f
+
