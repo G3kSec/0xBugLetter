@@ -3154,3 +3154,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/the-first-digit/web-cache-deception-a-complete-beginner-to-advanced-guide-94cf851cd89f
 
+📌 𝑰𝒎𝒑𝒓𝒐𝒑𝒆𝒓 𝑨𝒖𝒕𝒉𝒆𝒏𝒕𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝒗𝒊𝒂 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝑻𝒂𝒌𝒆𝒐𝒗𝒆𝒓
+✍️ Author: Hossam_Mostafa
+🔗 Link: https://medium.com/@hossammostafa2003.1.1/-aebc36ed3465
+
+📌 Web Cache Poisoning : Ancaman di Balik Kecepatan
+✍️ Author: Dani Ilman
+🔗 Link: https://medium.com/@ilman.dani11/web-cache-poisoning-ancaman-di-balik-kecepatan-67da01a9a8f4
+
