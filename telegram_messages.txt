@@ -3162,3 +3162,11 @@
 ✍️ Author: Dani Ilman
 🔗 Link: https://medium.com/@ilman.dani11/web-cache-poisoning-ancaman-di-balik-kecepatan-67da01a9a8f4
 
+📌 how i founded my first reflected XSS in public vdp on h1
+✍️ Author: ali badr
+🔗 Link: https://medium.com/@sh3rif0x/how-i-founded-my-first-reflected-xss-in-public-vdp-on-h1-d566ddcb63d3
+
+📌 How To Not Get in Trouble Finding Beg Bounties
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619
+
