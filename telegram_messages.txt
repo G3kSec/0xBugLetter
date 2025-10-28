@@ -3170,3 +3170,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619
 
+📌 SSRF — Part 3: Advanced Tricks, Timing Channels & Out-of-the-Box Detection 🚀
+✍️ Author: Abhishek meena
+🔗 Link: https://medium.com/@Aacle/ssrf-part-3-advanced-tricks-timing-channels-out-of-the-box-detection-693c07c97015
+
+📌 Week 15 — Automated JS Enum: Methodology & Architecture
+✍️ Author: Aang
+🔗 Link: https://medium.com/@iamaangx028/week-15-automated-js-enum-methodology-architecture-31becf8693ec
+
+📌 How To Not Get in Trouble Doing Beg Bounties
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619
+
