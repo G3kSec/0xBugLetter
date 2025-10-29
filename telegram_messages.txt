@@ -3182,3 +3182,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619
 
+📌 How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access
+✍️ Author: Ahmed Hassan
+🔗 Link: https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f
+
