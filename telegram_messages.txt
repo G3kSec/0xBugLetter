@@ -3186,3 +3186,11 @@
 ✍️ Author: Ahmed Hassan
 🔗 Link: https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f
 
+📌 How I Made ChatGPT My Personal Hacking Assistant (And Broke Their “AI-Powered” Security) 🤖💥
+✍️ Author: Iski
+🔗 Link: https://medium.com/@iski/how-i-made-chatgpt-my-personal-hacking-assistant-and-broke-their-ai-powered-security-ee37d4a725c2
+
+📌 🔥🌵 Web Cache Poisoning — Part 2: Weaponizing Headers & URL Discrepancies
+✍️ Author: Abhishek meena
+🔗 Link: https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a
+
