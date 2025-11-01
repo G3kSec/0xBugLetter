@@ -3194,3 +3194,15 @@
 ✍️ Author: Abhishek meena
 🔗 Link: https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a
 
+📌 RustScan Guide for Ultra-Fast Port Scanning
+✍️ Author: JPablo13
+🔗 Link: https://medium.com/@jpablo13/rustscan-guide-for-ultra-fast-port-scanning-77a7aa3cac21
+
+📌 ⚙️ Remote Code Execution in GitLab — The Tale of a Rogue “GitHub Import”
+✍️ Author: Abhishek meena
+🔗 Link: https://medium.com/@Aacle/️-remote-code-execution-in-gitlab-the-tale-of-a-rogue-github-import-660ec866f07c
+
+📌 How To Not Get in Trouble Doing Bug Bounties
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619
+
