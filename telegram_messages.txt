@@ -3206,3 +3206,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619
 
+📌 I Followed This Method To Find XSS In 5 Minutes
+✍️ Author: Ibtissam
+🔗 Link: https://medium.com/@ibtissam1/i-followed-this-method-to-find-xss-in-5-minutes-74a4390ae1ec
+
+📌 Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f
+
