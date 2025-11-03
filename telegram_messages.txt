@@ -3214,3 +3214,11 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f
 
+📌 Mastering Nuclei: A Practical Guide to Fast, Template-Driven Vulnerability Scanning
+✍️ Author: Fikri Muzadi
+🔗 Link: https://medium.com/@fikrimuzadi/mastering-nuclei-a-practical-guide-to-fast-template-driven-vulnerability-scanning-8423d6ec8ac6
+
+📌 Hunting JavaScript: Finding Vulnerable JS Links
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313
+
