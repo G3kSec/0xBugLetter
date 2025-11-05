@@ -3222,3 +3222,15 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313
 
+📌 Cloudflare-Bypass: Origin server deserves some love too
+✍️ Author: Smit Gharat
+🔗 Link: https://medium.com/@smitgharat0001/cloudflare-bypass-origin-server-deserves-some-love-too-e8bd2182cfea
+
+📌 Simple IDORs Lead To PII Leaks Got $1476 Bounty
+✍️ Author: Ferdus Alam
+🔗 Link: https://medium.com/@ferdusalam_65023/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b
+
+📌 The Most Common Medium Severity Bug Found In Almost Every Website
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/the-most-common-medium-severity-bug-found-in-almost-every-website-b0d0649dd739
+
