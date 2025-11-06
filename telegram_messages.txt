@@ -3234,3 +3234,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/activated-thinker/the-most-common-medium-severity-bug-found-in-almost-every-website-b0d0649dd739
 
+📌 Hackviser — Cryptanalysis walkthrough
+✍️ Author: Mukilan Baskaran
+🔗 Link: https://medium.com/@mukibas37/hackviser-cryptanalysis-walkthrough-19b291173d00
+
