@@ -3238,3 +3238,11 @@
 ✍️ Author: Mukilan Baskaran
 🔗 Link: https://medium.com/@mukibas37/hackviser-cryptanalysis-walkthrough-19b291173d00
 
+📌 GET all Company Support Users Details including email and phones + Mass Account Take Over
+✍️ Author: Merroun Lahcen
+🔗 Link: https://medium.com/@devsecures/get-all-company-support-users-details-including-email-and-phones-mass-account-take-over-87d7d48cbe3d
+
+📌 “The Day I Found an Unsecured FTP — A Responsible Disclosure Story”
+✍️ Author: H4RUK7 K1R4
+🔗 Link: https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647
+
