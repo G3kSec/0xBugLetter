@@ -3246,3 +3246,11 @@
 ✍️ Author: H4RUK7 K1R4
 🔗 Link: https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647
 
+📌 CORS Vulnerability with Trusted Null Origin
+✍️ Author: Bash Overflow
+🔗 Link: https://medium.com/@bashoverflow/cors-vulnerability-with-trusted-null-origin-0f9593bd7674
+
+📌 400 bad request that earns me $$$ bounty
+✍️ Author: mohaned haron
+🔗 Link: https://medium.com/@mohaned0101/400-bad-request-that-earns-me-bounty-533f449d5dab
+
