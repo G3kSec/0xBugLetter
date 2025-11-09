@@ -3254,3 +3254,11 @@
 ✍️ Author: mohaned haron
 🔗 Link: https://medium.com/@mohaned0101/400-bad-request-that-earns-me-bounty-533f449d5dab
 
+📌 XSSniper Masterclass Bypass WAFs and Find XSS (for bug bounty)
+✍️ Author: Jackson Mittag
+🔗 Link: https://medium.com/@0dayscyber/xssniper-masterclass-bypass-wafs-and-find-xss-for-bug-bounty-e2f045b50752
+
+📌 🚨 OWASP Top 10 (2025 Release Candidate): What Every Security Professional Needs to Know
+✍️ Author: ◦•●◉✿ ¥ຮ₰ ʜ𝐚c𝐤𝑒𝙧 ✿◉●•◦
+🔗 Link: https://medium.com/@bughunteryash2511/owasp-top-10-2025-release-candidate-what-every-security-professional-needs-to-know-7d050a15f087
+
