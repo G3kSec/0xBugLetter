@@ -3262,3 +3262,15 @@
 ✍️ Author: ◦•●◉✿ ¥ຮ₰ ʜ𝐚c𝐤𝑒𝙧 ✿◉●•◦
 🔗 Link: https://medium.com/@bughunteryash2511/owasp-top-10-2025-release-candidate-what-every-security-professional-needs-to-know-7d050a15f087
 
+📌 Information Disclosure: Hardcoded Encryption Keys
+✍️ Author: Umanhonlen Gabriel
+🔗 Link: https://medium.com/@sudosu01/information-disclosure-hardcoded-encryption-keys-fc375abf68a3
+
+📌 When Six Zeros Broke a Food Delivery Empire
+✍️ Author: Jackson Mittag
+🔗 Link: https://medium.com/@0dayscyber/when-six-zeros-broke-a-food-delivery-empire-1b4a5cf5405b
+
+📌 Should Beginners Hack on Vdps?
+✍️ Author: In
+🔗 Link: https://medium.com/activated-thinker/should-beginners-hack-on-vdps-5f62a4d6dd20
+
