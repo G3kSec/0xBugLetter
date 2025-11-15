@@ -3282,3 +3282,7 @@
 ✍️ Author: Aminouji
 🔗 Link: https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990
 
+📌 How i Found My first IDOR On Heavily Tested Target
+✍️ Author: Pawan parmar
+🔗 Link: https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc
+
