@@ -3286,3 +3286,11 @@
 ✍️ Author: Pawan parmar
 🔗 Link: https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc
 
+📌 How to Test for IDOR: The Practical Methodology
+✍️ Author: z0h3
+🔗 Link: https://medium.com/@z0h3/how-to-test-for-idor-the-practical-methodology-fec3688febfb
+
+📌 A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience
+✍️ Author: In
+🔗 Link: https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5
+
