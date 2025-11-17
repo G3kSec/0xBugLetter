@@ -3294,3 +3294,7 @@
 ✍️ Author: In
 🔗 Link: https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5
 
+📌 The Best AI for Ethical Hacking
+✍️ Author: Appsec.pt
+🔗 Link: https://medium.com/@Appsec_pt/the-best-ai-for-ethical-hacking-911c92de3b37
+
