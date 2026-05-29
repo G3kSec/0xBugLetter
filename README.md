@@ -1,9 +1,22 @@
-# Bot-Alerts
+# 0xBotNews
 
-[![Daily Post](https://github.com/G3kSec/Bot-Alerts/actions/workflows/post.yml/badge.svg)](https://github.com/G3kSec/Bot-Alerts/actions/workflows/post.yml)
+[![Daily Post](https://github.com/G3kSec/0xBotNews/actions/workflows/post.yml/badge.svg)](https://github.com/G3kSec/0xBotNews/actions/workflows/post.yml)
 
-Bot que scrapea Medium diariamente en tags de bug bounty y envía los artículos nuevos a Discord via webhook.
+Bot que monitorea fuentes RSS de bug bounty diariamente y envía artículos nuevos a Discord con embeds.
+
+## Fuentes monitoreadas
+
+- Medium (bug-bounty, bug-bounty-writeup, bug-bounty-hunter)
+- PortSwigger Research
+- Intigriti Blog
+- ProjectDiscovery Blog
+- Assetnote Blog
+- HackerOne Blog
+- Detectify Labs
+- NahamSec
+- Vickie Li Dev
+- Bugcrowd Blog
 
 ## Setup
 
-Agrega el secret `DISCORD_WEBHOOK` en tu repositorio de GitHub (Settings → Secrets → Actions).
+Agrega el secret `DISCORD_WEBHOOK` en el repositorio (Settings → Secrets → Actions).
