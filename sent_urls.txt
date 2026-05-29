@@ -1,3 +1,6 @@
 https://medium.com/@atanupal22256/they-closed-it-as-n-a-then-they-silently-patched-it-heres-the-full-story-a8d30124c4d2?source=rss------bug_bounty-5
 https://medium.com/@enums/bypassing-an-admin-feature-flag-through-a-side-door-b8e3dc7feca1?source=rss------bug_bounty-5
 https://medium.com/@Magdyamr/building-my-first-soc-lab-with-splunk-and-sysmon-9b16eeaa5b1f?source=rss------bug_bounty-5
+https://medium.com/@kareem.hesham/an-infinite-loop-in-samsungs-ultrahdr-stack-59a779a5b21b?source=rss------bug_bounty-5
+https://medium.com/@rajagirisaiganesh/how-i-found-a-p2-cryptographic-vulnerability-in-androids-keymanager-google-vrp-88c603a1bde1?source=rss------bug_bounty-5
+https://osintteam.blog/idor-testing-how-to-find-insecure-direct-object-reference-vulnerabilities-with-real-examples-590b8b719b79?source=rss------bug_bounty-5
