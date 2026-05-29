@@ -1,45 +1,30 @@
 #!/bin/bash
 
 if ! command -v pip &> /dev/null; then
-  echo -e "Pip no encontrado. Instalando..."
-  python3 -m ensurepip --upgrade || {
-    echo -e "Error al instalar pip."
-    exit 1
-  }
-else
-  echo -e "Pip ya está instalado."
+  echo "Pip no encontrado. Instalando..."
+  python3 -m ensurepip --upgrade || { echo "Error al instalar pip."; exit 1; }
 fi
 
-if [ -f "requirements.txt" ]; then
-  echo -e "Instalando dependencias..."
-  pip install -r requirements.txt || {
-    echo -e "Error al instalar dependencias."
-    exit 1
-  }
-else
-  echo -e "Archivo requirements.txt no encontrado."
+echo "Instalando dependencias Python..."
+pip install -r requirements.txt || { echo "Error al instalar dependencias."; exit 1; }
+
+if ! command -v go &> /dev/null; then
+  echo "Go no encontrado. Instalando notify via prebuilt..."; exit 1
+fi
+
+if ! command -v notify &> /dev/null && [ ! -f "$HOME/go/bin/notify" ]; then
+  echo "Instalando notify..."
+  go install -v github.com/projectdiscovery/notify/cmd/notify@latest || { echo "Error al instalar notify."; exit 1; }
+fi
+
+if [ -z "$DISCORD_WEBHOOK" ]; then
+  echo "Error: La variable DISCORD_WEBHOOK no está definida."
   exit 1
 fi
 
-if [ -f "$HOME/go/bin/notify" ]; then
-  echo -e "Notify ya está instalado. No se descargará nuevamente."
-else
-  echo -e "Notify no encontrado. Instalando..."
-  go install -v github.com/projectdiscovery/notify/cmd/notify@latest || {
-    echo -e "Error al instalar Notify."
-    exit 1
-  }
-fi
+sed -i "s|DISCORD_WEBHOOK_PLACEHOLDER|$DISCORD_WEBHOOK|g" config.yaml
 
-if [ -f "index.py" ]; then
-  echo -e "🏃 Ejecutando el script index.py..."
-  python3 ./index.py || {
-    echo -e "Error al ejecutar index.py."
-    exit 1
-  }
-else
-  echo -e "Archivo index.py no encontrado."
-  exit 1
-fi
+echo "🏃 Ejecutando index.py..."
+python3 ./index.py || { echo "Error al ejecutar index.py."; exit 1; }
 
-echo -e "✅ Script completado con éxito."
+echo "✅ Script completado con éxito."

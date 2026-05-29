@@ -1,7 +1,7 @@
 
-discord:  
+discord:
   - id: "bot-alert-news"
     discord_channel: "bot-alert-blogs"
     discord_username: "Bot-Alert"
     discord_format: "{{data}}"
-    discord_webhook_url: "https://discord.com/api/webhooks/[REDACTED-ROTATED]"
+    discord_webhook_url: "DISCORD_WEBHOOK_PLACEHOLDER"
