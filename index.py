@@ -1,5 +1,6 @@
 import os
 import time
+import datetime
 import requests
 import feedparser
 import yaml
@@ -8,7 +9,9 @@ from bs4 import BeautifulSoup
 HISTORY_FILE = "sent_urls.txt"
 CONFIG_FILE = "config.yaml"
 BOT_NAME = "0xBotNews"
-EMBED_COLOR = 0x00B4D8
+MAX_DAILY = 3
+COLOR_HEADER = 0xEB459E   # fuchsia — destacado
+COLOR_ARTICLE = 0x00B4D8  # cyber blue
 
 
 def load_config():
@@ -23,66 +26,77 @@ def load_sent_urls():
     return set()
 
 
-def save_url(url):
+def save_urls(urls):
     with open(HISTORY_FILE, "a") as f:
-        f.write(url + "\n")
+        for url in urls:
+            f.write(url + "\n")
 
 
 def strip_html(text):
-    return BeautifulSoup(text or "", "html.parser").get_text()[:400]
+    return BeautifulSoup(text or "", "html.parser").get_text()[:350]
 
 
-def send_discord(webhook_url, title, url, source, description=""):
+def post(webhook_url, payload):
+    resp = requests.post(webhook_url, json=payload, timeout=10)
+    time.sleep(1)
+    return resp.status_code in (200, 204)
+
+
+def send_header(webhook_url, count):
+    today = datetime.date.today().strftime("%d %b %Y")
+    payload = {
+        "username": BOT_NAME,
+        "embeds": [{
+            "title": f"⚡ 0xBotNews :: Daily Intel Drop",
+            "description": (
+                f"> 🗓️ **{today}** — `{count}` fresh read{'s' if count > 1 else ''} from the bug bounty underground.\n"
+                "> 🎯 Hunt smart. Break things (legally). Get paid. 💸\n"
+                "> ━━━━━━━━━━━━━━━━━━━━━━━━"
+            ),
+            "color": COLOR_HEADER,
+        }]
+    }
+    post(webhook_url, payload)
+
+
+def send_article(webhook_url, title, url, source, description):
     payload = {
         "username": BOT_NAME,
         "embeds": [{
             "title": title[:256],
             "url": url,
             "description": description,
-            "color": EMBED_COLOR,
-            "footer": {"text": f"Source: {source}"},
+            "color": COLOR_ARTICLE,
+            "footer": {"text": f"📡 {source}"},
         }]
     }
-    resp = requests.post(webhook_url, json=payload, timeout=10)
-    time.sleep(1)  # Discord rate limit
-    return resp.status_code in (200, 204)
+    return post(webhook_url, payload)
 
 
-def process_feed(feed_cfg, sent_urls, webhook_url):
-    name = feed_cfg["name"]
-    url = feed_cfg["url"]
-
-    try:
-        feed = feedparser.parse(url)
-    except Exception as e:
-        print(f"❌ [{name}] Error: {e}")
-        return sent_urls
-
-    if not feed.entries:
-        print(f"🟡 [{name}] Sin entradas.")
-        return sent_urls
-
-    new_count = 0
-    for entry in feed.entries[:10]:
-        entry_url = entry.get("link", "")
-        if not entry_url or entry_url in sent_urls:
+def collect_new_articles(config, sent_urls):
+    articles = []
+    for feed_cfg in config.get("sources", []):
+        if len(articles) >= MAX_DAILY:
+            break
+        name = feed_cfg["name"]
+        try:
+            feed = feedparser.parse(feed_cfg["url"])
+        except Exception as e:
+            print(f"❌ [{name}] Error: {e}")
             continue
 
-        title = entry.get("title", "Sin título")
-        summary = strip_html(entry.get("summary", ""))
+        for entry in feed.entries[:10]:
+            if len(articles) >= MAX_DAILY:
+                break
+            url = entry.get("link", "")
+            if not url or url in sent_urls:
+                continue
+            title = entry.get("title", "Sin título")
+            summary = strip_html(entry.get("summary", ""))
+            articles.append((name, title, url, summary))
+            print(f"🔍 [{name}] {title[:60]}")
 
-        if send_discord(webhook_url, title, entry_url, name, summary):
-            print(f"🟢 [{name}] {title[:60]}")
-            sent_urls.add(entry_url)
-            save_url(entry_url)
-            new_count += 1
-        else:
-            print(f"❌ [{name}] Error enviando: {title[:60]}")
-
-    if new_count == 0:
-        print(f"🟡 [{name}] Sin artículos nuevos.")
-
-    return sent_urls
+    return articles
 
 
 def main():
@@ -93,8 +107,24 @@ def main():
     config = load_config()
     sent_urls = load_sent_urls()
 
-    for feed_cfg in config.get("sources", []):
-        sent_urls = process_feed(feed_cfg, sent_urls, webhook_url)
+    articles = collect_new_articles(config, sent_urls)
+
+    if not articles:
+        print("🟡 Sin artículos nuevos hoy.")
+        return
+
+    send_header(webhook_url, len(articles))
+
+    new_urls = []
+    for source, title, url, summary in articles:
+        if send_article(webhook_url, title, url, source, summary):
+            print(f"🟢 Enviado: {title[:60]}")
+            new_urls.append(url)
+        else:
+            print(f"❌ Error enviando: {title[:60]}")
+
+    save_urls(new_urls)
+    print(f"✅ {len(new_urls)}/{MAX_DAILY} artículos enviados.")
 
 
 if __name__ == "__main__":
