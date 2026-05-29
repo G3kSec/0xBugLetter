@@ -1,36 +1,38 @@
 name: Daily Post
 on:
-  schedule:  
+  schedule:
     - cron: "0 1 * * *"
-    
+  workflow_dispatch:
+
 jobs:
   build:
-    env:
-      telegram: ${{secrets.TELEGRAM_TOKEN}}
-      chat: ${{secrets.CHAT_ID}}
-      discord: ${{secrets.DISCORD_WEBHOOK}}
-
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
-    
+
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v2
-      
+        uses: actions/checkout@v4
+
+      - name: Setup Go cache
+        uses: actions/cache@v4
+        with:
+          path: ~/go
+          key: ${{ runner.os }}-go-notify
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Run script
-        run: 
-          chmod +x ./.github/scripts/start.sh && /usr/bin/bash ./.github/scripts/start.sh
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: chmod +x ./.github/scripts/start.sh && /usr/bin/bash ./.github/scripts/start.sh
 
       - name: Commit & Push
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 💣 Automated Daily Post 🔥
+          commit_message: "💣 Automated Daily Post 🔥"
           commit_user_name: G3kSec [GitHub Actions]
           commit_author: g3ksec
