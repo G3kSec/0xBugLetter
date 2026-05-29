@@ -14,12 +14,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Go cache
-        uses: actions/cache@v4
-        with:
-          path: ~/go
-          key: ${{ runner.os }}-go-notify
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:

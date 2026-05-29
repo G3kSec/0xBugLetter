@@ -1,79 +1,100 @@
 import os
-import subprocess
-from bs4 import BeautifulSoup
+import time
 import requests
+import feedparser
+import yaml
+from bs4 import BeautifulSoup
 
-TAGS = ['bug-bounty', 'bug-bounty-writeup', 'bug-bounty-hunter']
-HISTORY_FILE = "sent_messages.txt"
+HISTORY_FILE = "sent_urls.txt"
+CONFIG_FILE = "config.yaml"
+BOT_NAME = "0xBotNews"
+EMBED_COLOR = 0x00B4D8
 
 
-def load_sent_messages():
+def load_config():
+    with open(CONFIG_FILE) as f:
+        return yaml.safe_load(f)
+
+
+def load_sent_urls():
     if os.path.exists(HISTORY_FILE):
-        with open(HISTORY_FILE, "r", encoding="utf-8") as f:
-            return f.read()
-    return ""
+        with open(HISTORY_FILE) as f:
+            return set(line.strip() for line in f if line.strip())
+    return set()
 
 
-def save_message(message):
-    with open(HISTORY_FILE, "a", encoding="utf-8") as f:
-        f.write(message + "\n\n")
+def save_url(url):
+    with open(HISTORY_FILE, "a") as f:
+        f.write(url + "\n")
 
 
-def send_to_discord(message):
-    with open("temp_notify.txt", "w") as f:
-        f.write(message)
-    result = subprocess.run(
-        ["notify", "-silent", "-pc", "config.yaml", "-p", "discord", "-bulk"],
-        stdin=open("temp_notify.txt"),
-        capture_output=True,
-        text=True,
-    )
-    os.remove("temp_notify.txt")
-    return result.returncode == 0
+def strip_html(text):
+    return BeautifulSoup(text or "", "html.parser").get_text()[:400]
 
 
-def scrape_tag(tag, sent_messages):
-    url = f"https://medium.com/tag/{tag}/archive"
-    response = requests.get(url, timeout=15)
-    if response.status_code != 200:
-        print(f"❌ Error al acceder a Medium para '{tag}'. Status: {response.status_code}")
-        return
+def send_discord(webhook_url, title, url, source, description=""):
+    payload = {
+        "username": BOT_NAME,
+        "embeds": [{
+            "title": title[:256],
+            "url": url,
+            "description": description,
+            "color": EMBED_COLOR,
+            "footer": {"text": f"Source: {source}"},
+        }]
+    }
+    resp = requests.post(webhook_url, json=payload, timeout=10)
+    time.sleep(1)  # Discord rate limit
+    return resp.status_code in (200, 204)
 
-    soup = BeautifulSoup(response.text, "html.parser")
-    stories = soup.find_all("article")
-    if not stories:
-        print(f"🟡 No se encontraron artículos para '{tag}'.")
-        return
 
-    for story in stories:
-        title_el = story.find("h2")
-        link_el = story.find("div", style="position:relative;display:flex")
-        author_el = story.find("p")
+def process_feed(feed_cfg, sent_urls, webhook_url):
+    name = feed_cfg["name"]
+    url = feed_cfg["url"]
 
-        if not title_el or not link_el:
+    try:
+        feed = feedparser.parse(url)
+    except Exception as e:
+        print(f"❌ [{name}] Error: {e}")
+        return sent_urls
+
+    if not feed.entries:
+        print(f"🟡 [{name}] Sin entradas.")
+        return sent_urls
+
+    new_count = 0
+    for entry in feed.entries[:10]:
+        entry_url = entry.get("link", "")
+        if not entry_url or entry_url in sent_urls:
             continue
 
-        title = title_el.text
-        story_url = link_el.get("data-href", "")
-        author = author_el.text if author_el else "Unknown Author"
-        message = f"📌 {title}\n✍️ Author: {author}\n🔗 Link: {story_url}"
+        title = entry.get("title", "Sin título")
+        summary = strip_html(entry.get("summary", ""))
 
-        if message in sent_messages:
-            print(f"🟡 Duplicado, omitido: {title[:50]}")
-            continue
-
-        if send_to_discord(message):
-            print(f"🟢 Enviado: {title[:50]}")
-            save_message(message)
-            sent_messages += message + "\n\n"
+        if send_discord(webhook_url, title, entry_url, name, summary):
+            print(f"🟢 [{name}] {title[:60]}")
+            sent_urls.add(entry_url)
+            save_url(entry_url)
+            new_count += 1
         else:
-            print(f"❌ Error al enviar: {title[:50]}")
+            print(f"❌ [{name}] Error enviando: {title[:60]}")
+
+    if new_count == 0:
+        print(f"🟡 [{name}] Sin artículos nuevos.")
+
+    return sent_urls
 
 
 def main():
-    sent_messages = load_sent_messages()
-    for tag in TAGS:
-        scrape_tag(tag, sent_messages)
+    webhook_url = os.environ.get("DISCORD_WEBHOOK")
+    if not webhook_url:
+        raise SystemExit("Error: DISCORD_WEBHOOK no definido.")
+
+    config = load_config()
+    sent_urls = load_sent_urls()
+
+    for feed_cfg in config.get("sources", []):
+        sent_urls = process_feed(feed_cfg, sent_urls, webhook_url)
 
 
 if __name__ == "__main__":

@@ -1,7 +1,36 @@
+sources:
+  - name: "Medium · Bug Bounty"
+    url: "https://medium.com/feed/tag/bug-bounty"
 
-discord:
-  - id: "bot-alert-news"
-    discord_channel: "bot-alert-blogs"
-    discord_username: "Bot-Alert"
-    discord_format: "{{data}}"
-    discord_webhook_url: "DISCORD_WEBHOOK_PLACEHOLDER"
+  - name: "Medium · Bug Bounty Writeups"
+    url: "https://medium.com/feed/tag/bug-bounty-writeup"
+
+  - name: "Medium · Bug Bounty Hunter"
+    url: "https://medium.com/feed/tag/bug-bounty-hunter"
+
+  - name: "PortSwigger Research"
+    url: "https://portswigger.net/research/rss"
+
+  - name: "Intigriti Blog"
+    url: "https://blog.intigriti.com/feed/"
+
+  - name: "ProjectDiscovery Blog"
+    url: "https://blog.projectdiscovery.io/rss/"
+
+  - name: "Assetnote Blog"
+    url: "https://blog.assetnote.io/feed/"
+
+  - name: "HackerOne Blog"
+    url: "https://www.hackerone.com/blog.rss"
+
+  - name: "Detectify Labs"
+    url: "https://labs.detectify.com/feed/"
+
+  - name: "NahamSec"
+    url: "https://www.nahamsec.com/posts?format=rss"
+
+  - name: "Vickie Li Dev"
+    url: "https://vickieli.dev/feed.xml"
+
+  - name: "Bugcrowd Blog"
+    url: "https://www.bugcrowd.com/blog/feed/"
