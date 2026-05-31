@@ -7,3 +7,6 @@ https://osintteam.blog/idor-testing-how-to-find-insecure-direct-object-reference
 https://medium.com/@Cyb3rX7u/secleaf-q2-ctf-2026-writeups-e44b5326456a?source=rss------bug_bounty-5
 https://medium.com/@userwithheart/the-dumbest-bug-i-ever-found-and-why-complexity-is-overrated-d9e566848151?source=rss------bug_bounty-5
 https://medium.com/@mohahakeem566/jwt-security-testing-methodology-a-complete-guide-for-bug-bounty-hunters-1b4547c85fa5?source=rss------bug_bounty-5
+https://medium.com/@sagax.sec/how-i-automated-open-redirect-vulnerability-hunting-using-a-single-terminal-command-6df641733650?source=rss------bug_bounty-5
+https://meetcyber.net/file-upload-attacks-bypassing-client-side-validation-40fe32c601dd?source=rss------bug_bounty-5
+https://medium.com/@GR1M/admin-dashboard-accessible-without-authentication-71cfb6867ccd?source=rss------bug_bounty-5
