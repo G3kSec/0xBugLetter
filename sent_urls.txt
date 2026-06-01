@@ -10,3 +10,6 @@ https://medium.com/@mohahakeem566/jwt-security-testing-methodology-a-complete-gu
 https://medium.com/@sagax.sec/how-i-automated-open-redirect-vulnerability-hunting-using-a-single-terminal-command-6df641733650?source=rss------bug_bounty-5
 https://meetcyber.net/file-upload-attacks-bypassing-client-side-validation-40fe32c601dd?source=rss------bug_bounty-5
 https://medium.com/@GR1M/admin-dashboard-accessible-without-authentication-71cfb6867ccd?source=rss------bug_bounty-5
+https://medium.com/@tprajwol55/hard-coded-third-party-api-key-exposed-in-frontend-environment-object-0ad1efed1444?source=rss------bug_bounty-5
+https://systemweakness.com/account-take-over-via-password-reset-indias-top-central-governement-platform-50k-user-s-account-6ac6961a013e?source=rss------bug_bounty-5
+https://medium.com/@xploiterr/from-blocked-to-bypassed-a-reflected-xss-journey-with-accesskey-trick-76d2bd38ad12?source=rss------bug_bounty-5
