@@ -13,3 +13,6 @@ https://medium.com/@GR1M/admin-dashboard-accessible-without-authentication-71cfb
 https://medium.com/@tprajwol55/hard-coded-third-party-api-key-exposed-in-frontend-environment-object-0ad1efed1444?source=rss------bug_bounty-5
 https://systemweakness.com/account-take-over-via-password-reset-indias-top-central-governement-platform-50k-user-s-account-6ac6961a013e?source=rss------bug_bounty-5
 https://medium.com/@xploiterr/from-blocked-to-bypassed-a-reflected-xss-journey-with-accesskey-trick-76d2bd38ad12?source=rss------bug_bounty-5
+https://infosecwriteups.com/how-i-was-able-to-modify-ratings-on-a-target-and-cause-business-impact-f690fa0695b8?source=rss------bug_bounty-5
+https://infosecwriteups.com/uncovering-the-blind-spot-bypassing-a-security-patch-cve-2026-24884-to-achieve-arbitrary-file-bc385eaa73fa?source=rss------bug_bounty-5
+https://medium.com/@modasiyamahin14/naive-receiver-walk-through-f03c0dbedbb5?source=rss------bug_bounty-5
