@@ -16,3 +16,6 @@ https://medium.com/@xploiterr/from-blocked-to-bypassed-a-reflected-xss-journey-w
 https://infosecwriteups.com/how-i-was-able-to-modify-ratings-on-a-target-and-cause-business-impact-f690fa0695b8?source=rss------bug_bounty-5
 https://infosecwriteups.com/uncovering-the-blind-spot-bypassing-a-security-patch-cve-2026-24884-to-achieve-arbitrary-file-bc385eaa73fa?source=rss------bug_bounty-5
 https://medium.com/@modasiyamahin14/naive-receiver-walk-through-f03c0dbedbb5?source=rss------bug_bounty-5
+https://medium.com/@pentesterclubpvtltd/spyai-explained-passive-reconnaissance-for-ai-systems-de13506422e0?source=rss------bug_bounty-5
+https://medium.com/@pankaj_73968/i-sent-one-email-to-forgot-password-and-the-server-doxxed-the-user-back-7c8cb3bc8cd0?source=rss------bug_bounty-5
+https://medium.com/@lazysharaf/how-i-hacked-a-live-chatbot-and-earned-my-first-4-digit-bounty-5c43c8891741?source=rss------bug_bounty-5
