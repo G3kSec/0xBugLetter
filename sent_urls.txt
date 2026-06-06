@@ -25,3 +25,6 @@ https://medium.com/@omar_ahmed496/full-server-takeover-ssh-leak-dell-technologie
 https://medium.com/@HackerMD/foundry-mastery-part-1-basics-066e4c3463bf?source=rss------bug_bounty-5
 https://medium.com/@bughunting/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty-5
 https://medium.com/@jpablo13/the-definitive-guide-to-wsl-2-for-cybersecurity-and-development-installation-and-commands-f251dea44e9b?source=rss------bug_bounty-5
+https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty-5
+https://sin99xx.medium.com/inner-parser-ssrf-e940b76514e7?source=rss------bug_bounty-5
+https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bug_bounty-5
