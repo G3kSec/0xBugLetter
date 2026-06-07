@@ -28,3 +28,6 @@ https://medium.com/@jpablo13/the-definitive-guide-to-wsl-2-for-cybersecurity-and
 https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty-5
 https://sin99xx.medium.com/inner-parser-ssrf-e940b76514e7?source=rss------bug_bounty-5
 https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthrough-guide-community-edition-from-practitioner-lab-07-c1274cbf2b86?source=rss------bug_bounty-5
+https://su6osec.medium.com/the-0-purchase-bug-how-perfectly-working-code-cost-a-company-thousands-23133a455f93?source=rss------bug_bounty-5
+https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bug_bounty-5
+https://medium.com/@subscribeall05/the-bug-that-almost-made-me-quit-cybersecurity-and-the-lesson-that-changed-my-career-forever-34184d0eb578?source=rss------bug_bounty-5
