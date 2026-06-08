@@ -31,3 +31,6 @@ https://medium.com/@ayeshaaghafoor48/mastering-csrf-portswigger-academy-walkthro
 https://su6osec.medium.com/the-0-purchase-bug-how-perfectly-working-code-cost-a-company-thousands-23133a455f93?source=rss------bug_bounty-5
 https://medium.com/@jabirkhan1/i-fine-tuned-a-72b-security-llm-from-scratch-then-open-sourced-everything-c90c8b755cc3?source=rss------bug_bounty-5
 https://medium.com/@subscribeall05/the-bug-that-almost-made-me-quit-cybersecurity-and-the-lesson-that-changed-my-career-forever-34184d0eb578?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/slither-static-analysis-tool-d14c759836e0?source=rss------bug_bounty-5
+https://medium.com/@chotaliyasavan754/how-i-found-a-flaw-that-let-me-delete-anyones-wishlist-on-a-major-shopping-site-aa50a95fa046?source=rss------bug_bounty-5
+https://medium.com/@bughunting/i-got-rejected-12-times-before-my-first-bounty-164c31caf9eb?source=rss------bug_bounty-5
