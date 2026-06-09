@@ -34,3 +34,6 @@ https://medium.com/@subscribeall05/the-bug-that-almost-made-me-quit-cybersecurit
 https://medium.com/@HackerMD/slither-static-analysis-tool-d14c759836e0?source=rss------bug_bounty-5
 https://medium.com/@chotaliyasavan754/how-i-found-a-flaw-that-let-me-delete-anyones-wishlist-on-a-major-shopping-site-aa50a95fa046?source=rss------bug_bounty-5
 https://medium.com/@bughunting/i-got-rejected-12-times-before-my-first-bounty-164c31caf9eb?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/mythril-echidna-dynamic-analysis-253068402263?source=rss------bug_bounty-5
+https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bug_bounty-5
+https://medium.com/@mrx_w_/how-i-discovered-23-000-leaked-records-through-google-dorking-7894df815109?source=rss------bug_bounty-5
