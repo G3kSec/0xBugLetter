@@ -37,3 +37,6 @@ https://medium.com/@bughunting/i-got-rejected-12-times-before-my-first-bounty-16
 https://medium.com/@HackerMD/mythril-echidna-dynamic-analysis-253068402263?source=rss------bug_bounty-5
 https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bug_bounty-5
 https://medium.com/@mrx_w_/how-i-discovered-23-000-leaked-records-through-google-dorking-7894df815109?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/tenderly-etherscan-debugging-recon-dbb5c7b96509?source=rss------bug_bounty-5
+https://genbounty.medium.com/build-in-public-test-in-private-on-the-genbounty-ai-bug-bounty-platform-744e9f73204c?source=rss------bug_bounty-5
+https://medium.com/@ayeshaaghafoor48/portswigger-lab-writeup-exploiting-an-api-endpoint-using-documentation-2d3b8cd3bc7c?source=rss------bug_bounty-5
