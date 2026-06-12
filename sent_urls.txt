@@ -43,3 +43,6 @@ https://medium.com/@ayeshaaghafoor48/portswigger-lab-writeup-exploiting-an-api-e
 https://medium.com/@jpablo13/gu%C3%ADa-fundamental-sobre-information-disclosure-8e489a8ae3cd?source=rss------bug_bounty-5
 https://medium.com/@abdurrahimjamalzada/i-found-a-critical-oauth-vulnerability-in-open-edx-heres-how-it-happened-48b01b2370d9?source=rss------bug_bounty-5
 https://infosecwriteups.com/ssrf-exploitation-from-reading-internal-pages-to-dumping-system-files-4ebe9dbc566a?source=rss------bug_bounty-5
+https://medium.com/@bughunting/the-difference-between-a-bug-and-a-feature-and-why-it-matters-6e963a0943f8?source=rss------bug_bounty-5
+https://21zerixpm.medium.com/7-swift-concurrency-bugs-that-shipped-to-production-85b61f8c9dea?source=rss------bug_bounty-5
+https://osintteam.blog/top-platforms-to-earn-from-hacking-in-2026-fd4fd51ffcb3?source=rss------bug_bounty-5
