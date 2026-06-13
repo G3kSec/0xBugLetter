@@ -46,3 +46,6 @@ https://infosecwriteups.com/ssrf-exploitation-from-reading-internal-pages-to-dum
 https://medium.com/@bughunting/the-difference-between-a-bug-and-a-feature-and-why-it-matters-6e963a0943f8?source=rss------bug_bounty-5
 https://21zerixpm.medium.com/7-swift-concurrency-bugs-that-shipped-to-production-85b61f8c9dea?source=rss------bug_bounty-5
 https://osintteam.blog/top-platforms-to-earn-from-hacking-in-2026-fd4fd51ffcb3?source=rss------bug_bounty-5
+https://infyra.medium.com/how-i-found-a-critical-vulnerability-in-a-fortune-500-company-and-got-paid-15-000-for-it-e30f314765b8?source=rss------bug_bounty-5
+https://medium.com/@mohammad.ehab7760/how-a-simple-mfa-test-turned-into-an-interesting-meta-authentication-research-case-e39a4ef6990f?source=rss------bug_bounty-5
+https://medium.com/@SilentExploit/nibbles-proving-grounds-oscp-preparation-492853db8ff8?source=rss------bug_bounty-5
