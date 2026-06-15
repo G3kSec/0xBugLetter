@@ -52,3 +52,6 @@ https://medium.com/@SilentExploit/nibbles-proving-grounds-oscp-preparation-49285
 https://medium.com/@nayaki.suresh3/bughunter-review-2026-ai-bug-bounty-toolkit-powered-by-claude-free-and-paid-options-55d5d481b055?source=rss------bug_bounty-5
 https://21zerixpm.medium.com/why-your-uikit-border-colors-break-in-dark-mode-and-how-to-fix-it-a97567dcd373?source=rss------bug_bounty-5
 https://medium.com/@bughunting/the-best-bug-is-the-one-you-actually-report-b95bcf289b39?source=rss------bug_bounty-5
+https://medium.com/@sebasvargas2/unlimited-account-creation-without-verification-email-flooding-91a75f086e5e?source=rss------bug_bounty-5
+https://medium.com/@kerolosiskander9/how-i-escalated-privileges-in-a-file-sharing-platform-by-changing-one-word-abd014432980?source=rss------bug_bounty-5
+https://medium.com/@hdhffxfg/breaking-access-control-logic-manipulation-role-escalation-part-2-dce5cc44c909?source=rss------bug_bounty-5
