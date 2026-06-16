@@ -55,3 +55,6 @@ https://medium.com/@bughunting/the-best-bug-is-the-one-you-actually-report-b95bc
 https://medium.com/@sebasvargas2/unlimited-account-creation-without-verification-email-flooding-91a75f086e5e?source=rss------bug_bounty-5
 https://medium.com/@kerolosiskander9/how-i-escalated-privileges-in-a-file-sharing-platform-by-changing-one-word-abd014432980?source=rss------bug_bounty-5
 https://medium.com/@hdhffxfg/breaking-access-control-logic-manipulation-role-escalation-part-2-dce5cc44c909?source=rss------bug_bounty-5
+https://medium.com/@hdhffxfg/breaking-access-control-object-references-data-leakage-part-3-9a2c29833472?source=rss------bug_bounty-5
+https://medium.com/@masood.nfc77/how-to-find-more-subdomains-than-everyone-else-6dc35c88db2a?source=rss------bug_bounty-5
+https://medium.com/@masood.nfc77/5-beginner-mistakes-that-get-your-bug-bounty-reports-rejected-3b11d0f5de9f?source=rss------bug_bounty-5
