@@ -58,3 +58,6 @@ https://medium.com/@hdhffxfg/breaking-access-control-logic-manipulation-role-esc
 https://medium.com/@hdhffxfg/breaking-access-control-object-references-data-leakage-part-3-9a2c29833472?source=rss------bug_bounty-5
 https://medium.com/@masood.nfc77/how-to-find-more-subdomains-than-everyone-else-6dc35c88db2a?source=rss------bug_bounty-5
 https://medium.com/@masood.nfc77/5-beginner-mistakes-that-get-your-bug-bounty-reports-rejected-3b11d0f5de9f?source=rss------bug_bounty-5
+https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty-5
+https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bug_bounty-5
+https://vineet08.medium.com/how-a-resend-invitation-feature-led-to-unauthorized-account-creation-eb2ed0b6e391?source=rss------bug_bounty-5
