@@ -61,3 +61,6 @@ https://medium.com/@masood.nfc77/5-beginner-mistakes-that-get-your-bug-bounty-re
 https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty-5
 https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bug_bounty-5
 https://vineet08.medium.com/how-a-resend-invitation-feature-led-to-unauthorized-account-creation-eb2ed0b6e391?source=rss------bug_bounty-5
+https://medium.com/@paritoshblogs/building-a-practical-cti-rag-assistant-an-ai-powered-threat-intelligence-workflow-bfba13774507?source=rss------bug_bounty-5
+https://medium.com/@priyanshuuparmar/authentication-bypass-via-insecure-redirect-url-parameter-leading-to-account-takeover-8b6e8d72da5e?source=rss------bug_bounty-5
+https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-lesson-in-broken-api-authorization-b6f0fbd4154f?source=rss------bug_bounty-5
