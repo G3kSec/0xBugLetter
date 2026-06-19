@@ -64,3 +64,6 @@ https://vineet08.medium.com/how-a-resend-invitation-feature-led-to-unauthorized-
 https://medium.com/@paritoshblogs/building-a-practical-cti-rag-assistant-an-ai-powered-threat-intelligence-workflow-bfba13774507?source=rss------bug_bounty-5
 https://medium.com/@priyanshuuparmar/authentication-bypass-via-insecure-redirect-url-parameter-leading-to-account-takeover-8b6e8d72da5e?source=rss------bug_bounty-5
 https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-lesson-in-broken-api-authorization-b6f0fbd4154f?source=rss------bug_bounty-5
+https://medium.com/@bughunting/the-one-thing-nobody-checks-in-password-reset-and-why-it-pays-215ae92a8d9c?source=rss------bug_bounty-5
+https://medium.com/@ahmed_samy/how-i-found-a-server-side-entitlement-issue-that-allowed-free-users-to-access-premium-features-b5564eb96c21?source=rss------bug_bounty-5
+https://medium.com/@a13h1/900-session-flaw-deprovisioned-users-retain-access-after-permission-removal-f775a3f81bc9?source=rss------bug_bounty-5
