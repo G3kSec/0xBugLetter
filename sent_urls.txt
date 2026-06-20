@@ -67,3 +67,6 @@ https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-les
 https://medium.com/@bughunting/the-one-thing-nobody-checks-in-password-reset-and-why-it-pays-215ae92a8d9c?source=rss------bug_bounty-5
 https://medium.com/@ahmed_samy/how-i-found-a-server-side-entitlement-issue-that-allowed-free-users-to-access-premium-features-b5564eb96c21?source=rss------bug_bounty-5
 https://medium.com/@a13h1/900-session-flaw-deprovisioned-users-retain-access-after-permission-removal-f775a3f81bc9?source=rss------bug_bounty-5
+https://medium.com/@moatasem20052002/the-proxy-that-snitched-on-itself-1964b68b1aa7?source=rss------bug_bounty-5
+https://medium.com/@bughunting/my-first-bug-found-me-i-wasnt-even-looking-1d81633c9c46?source=rss------bug_bounty-5
+https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty-5
