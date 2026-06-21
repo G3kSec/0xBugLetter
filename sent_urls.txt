@@ -70,3 +70,6 @@ https://medium.com/@a13h1/900-session-flaw-deprovisioned-users-retain-access-aft
 https://medium.com/@moatasem20052002/the-proxy-that-snitched-on-itself-1964b68b1aa7?source=rss------bug_bounty-5
 https://medium.com/@bughunting/my-first-bug-found-me-i-wasnt-even-looking-1d81633c9c46?source=rss------bug_bounty-5
 https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/smart-contract-reading-code-audit-karna-seekho-ba14ae7ec7a0?source=rss------bug_bounty-5
+https://medium.com/@framesec/bug-bounty-nightmare-company-fixed-my-bug-then-banned-me-to-avoid-paying-a5f1c0012b8a?source=rss------bug_bounty-5
+https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty-5
