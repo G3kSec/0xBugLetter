@@ -73,3 +73,6 @@ https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-out
 https://medium.com/@HackerMD/smart-contract-reading-code-audit-karna-seekho-ba14ae7ec7a0?source=rss------bug_bounty-5
 https://medium.com/@framesec/bug-bounty-nightmare-company-fixed-my-bug-then-banned-me-to-avoid-paying-a5f1c0012b8a?source=rss------bug_bounty-5
 https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty-5
+https://medium.com/@pritamtare029/cloud-storage-misconfigurations-when-your-data-becomes-public-without-you-knowing-925ad430f76c?source=rss------bug_bounty-5
+https://medium.com/@MianHammadx0root/unlimited-coupon-abuse-a-critical-business-logic-flaw-490b8405c438?source=rss------bug_bounty-5
+https://medium.com/@spyxpg/file-size-restriction-bypass-via-max-file-size-parameter-manipulation-a5f43ce9c57e?source=rss------bug_bounty-5
