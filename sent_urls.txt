@@ -76,3 +76,6 @@ https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-r
 https://medium.com/@pritamtare029/cloud-storage-misconfigurations-when-your-data-becomes-public-without-you-knowing-925ad430f76c?source=rss------bug_bounty-5
 https://medium.com/@MianHammadx0root/unlimited-coupon-abuse-a-critical-business-logic-flaw-490b8405c438?source=rss------bug_bounty-5
 https://medium.com/@spyxpg/file-size-restriction-bypass-via-max-file-size-parameter-manipulation-a5f43ce9c57e?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/defi-protocol-types-part-1-dex-lending-91aba9976f5e?source=rss------bug_bounty-5
+https://medium.com/@masood.nfc77/10-things-you-can-do-with-burp-suite-community-edition-for-free-4513d86a4040?source=rss------bug_bounty-5
+https://medium.com/@masood.nfc77/how-to-actually-learn-from-other-hunters-public-reports-92c52b6d9a3f?source=rss------bug_bounty-5
