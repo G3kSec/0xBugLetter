@@ -79,3 +79,6 @@ https://medium.com/@spyxpg/file-size-restriction-bypass-via-max-file-size-parame
 https://medium.com/@HackerMD/defi-protocol-types-part-1-dex-lending-91aba9976f5e?source=rss------bug_bounty-5
 https://medium.com/@masood.nfc77/10-things-you-can-do-with-burp-suite-community-edition-for-free-4513d86a4040?source=rss------bug_bounty-5
 https://medium.com/@masood.nfc77/how-to-actually-learn-from-other-hunters-public-reports-92c52b6d9a3f?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/classic-vulnerabilities-part-1-reentrancy-access-control-integer-bugs-9efd599ba493?source=rss------bug_bounty-5
+https://medium.com/@jpablo13/vulnerabilidades-basadas-en-el-dom-gu%C3%ADa-t%C3%A9cnica-de-explotaci%C3%B3n-y-mitigaci%C3%B3n-fb449b3cca4f?source=rss------bug_bounty-5
+https://medium.com/@guyani/the-database-that-couldnt-keep-a-secret-0e99202ab81b?source=rss------bug_bounty-5
