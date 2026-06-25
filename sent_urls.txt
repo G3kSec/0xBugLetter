@@ -82,3 +82,6 @@ https://medium.com/@masood.nfc77/how-to-actually-learn-from-other-hunters-public
 https://medium.com/@HackerMD/classic-vulnerabilities-part-1-reentrancy-access-control-integer-bugs-9efd599ba493?source=rss------bug_bounty-5
 https://medium.com/@jpablo13/vulnerabilidades-basadas-en-el-dom-gu%C3%ADa-t%C3%A9cnica-de-explotaci%C3%B3n-y-mitigaci%C3%B3n-fb449b3cca4f?source=rss------bug_bounty-5
 https://medium.com/@guyani/the-database-that-couldnt-keep-a-secret-0e99202ab81b?source=rss------bug_bounty-5
+https://medium.com/@HackerMD/classic-vulnerabilities-part-2-oracle-manipulation-flash-loans-price-attacks-167d605fbe78?source=rss------bug_bounty-5
+https://osintteam.blog/nuclei-in-kali-linux-the-complete-guide-from-basic-to-advanced-13c4579b2746?source=rss------bug_bounty-5
+https://osintteam.blog/i-ran-one-command-and-found-847-subdomains-in-3-minutes-here-is-how-subfinder-actually-works-1b4e45f64987?source=rss------bug_bounty-5
