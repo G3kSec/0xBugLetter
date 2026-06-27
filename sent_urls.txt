@@ -88,3 +88,6 @@ https://osintteam.blog/i-ran-one-command-and-found-847-subdomains-in-3-minutes-h
 https://osintteam.blog/how-ethical-hackers-discover-hidden-directories-and-sensitive-files-on-web-applications-a521161d90f4?source=rss------bug_bounty-5
 https://osintteam.blog/sqlmap-explained-how-it-works-get-and-post-testing-waf-bypass-d69f08e6c49e?source=rss------bug_bounty-5
 https://medium.com/@a13h1/1-100-privilege-escalation-group-leader-can-promote-anyone-via-hidden-parameter-ae43cdae30a0?source=rss------bug_bounty-5
+https://medium.com/@AnukarOP/how-i-became-admin-of-one-of-the-biggest-platform-with-just-one-api-call-8a5d8239704f?source=rss------bug_bounty-5
+https://medium.com/@psaibtech/i-hacked-an-application-and-what-i-found-was-worse-than-expected-73a62b763c43?source=rss------bug_bounty-5
+https://medium.com/@pentesterclubpvtltd/adaptixc2-explained-understanding-modern-command-and-control-frameworks-from-a-defenders-1046f20ade04?source=rss------bug_bounty-5
