@@ -91,3 +91,6 @@ https://medium.com/@a13h1/1-100-privilege-escalation-group-leader-can-promote-an
 https://medium.com/@AnukarOP/how-i-became-admin-of-one-of-the-biggest-platform-with-just-one-api-call-8a5d8239704f?source=rss------bug_bounty-5
 https://medium.com/@psaibtech/i-hacked-an-application-and-what-i-found-was-worse-than-expected-73a62b763c43?source=rss------bug_bounty-5
 https://medium.com/@pentesterclubpvtltd/adaptixc2-explained-understanding-modern-command-and-control-frameworks-from-a-defenders-1046f20ade04?source=rss------bug_bounty-5
+https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty-5
+https://osintteam.blog/race-condition-vulnerability-how-to-find-it-test-it-and-report-it-bb363f4d5050?source=rss------bug_bounty-5
+https://osintteam.blog/i-found-a-hidden-admin-panel-in-3-minutes-here-is-the-tool-that-did-it-92605cfb3bcb?source=rss------bug_bounty-5
