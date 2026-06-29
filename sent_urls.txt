@@ -94,3 +94,6 @@ https://medium.com/@pentesterclubpvtltd/adaptixc2-explained-understanding-modern
 https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty-5
 https://osintteam.blog/race-condition-vulnerability-how-to-find-it-test-it-and-report-it-bb363f4d5050?source=rss------bug_bounty-5
 https://osintteam.blog/i-found-a-hidden-admin-panel-in-3-minutes-here-is-the-tool-that-did-it-92605cfb3bcb?source=rss------bug_bounty-5
+https://atanupal22256.medium.com/the-uchiha-methodology-my-complete-bug-hunting-blueprint-that-took-me-from-zero-to-bounties-18a4a115bc43?source=rss------bug_bounty-5
+https://medium.com/@nayanacharya050/i-didnt-hack-oauth-i-just-clicked-login-eight-times-037b8773c8b2?source=rss------bug_bounty-5
+https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-79c3efc07bba?source=rss------bug_bounty-5
