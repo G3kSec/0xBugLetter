@@ -100,3 +100,6 @@ https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%8
 https://medium.com/hackmetoocom/we-rebuilt-every-lab-from-scratch-heres-what-changed-ca5d1d30cb43?source=rss------bug_bounty-5
 https://osintteam.blog/10-burp-suite-extensions-every-pentester-should-know-and-how-to-actually-use-them-8311585ed1b6?source=rss------bug_bounty-5
 https://hexahunter.medium.com/i-spent-months-learning-hacking-the-wrong-way-heres-the-roadmap-i-wish-someone-gave-me-8d99d9308ce5?source=rss------bug_bounty-5
+https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5
+https://medium.com/@albertstive1010/how-i-found-a-medium-severity-vulnerability-on-the-nasa-website-0a6b0961dd01?source=rss------bug_bounty-5
+https://medium.com/@jpablo13/gu%C3%ADa-de-inyecci%C3%B3n-de-comandos-os-explotaci%C3%B3n-bypass-de-waf-y-poc-e579c8eb263f?source=rss------bug_bounty-5
