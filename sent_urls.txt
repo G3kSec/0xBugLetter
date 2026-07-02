@@ -103,3 +103,6 @@ https://hexahunter.medium.com/i-spent-months-learning-hacking-the-wrong-way-here
 https://medium.com/@psaibtech/how-i-turned-a-worthless-csrf-idor-into-a-full-account-takeover-eb8d448d7a58?source=rss------bug_bounty-5
 https://medium.com/@albertstive1010/how-i-found-a-medium-severity-vulnerability-on-the-nasa-website-0a6b0961dd01?source=rss------bug_bounty-5
 https://medium.com/@jpablo13/gu%C3%ADa-de-inyecci%C3%B3n-de-comandos-os-explotaci%C3%B3n-bypass-de-waf-y-poc-e579c8eb263f?source=rss------bug_bounty-5
+https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee?source=rss------bug_bounty-5
+https://medium.com/@0xhunhun/the-art-of-fuzzing-how-to-fuzz-df92885fc0a3?source=rss------bug_bounty-5
+https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organization-administration-ea9bd9f914ab?source=rss------bug_bounty-5
