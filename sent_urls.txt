@@ -106,3 +106,6 @@ https://medium.com/@jpablo13/gu%C3%ADa-de-inyecci%C3%B3n-de-comandos-os-explotac
 https://medium.com/@nilanjan.calculus/hacked-audited-fixed-10-vulnerabilities-in-one-flask-app-0dd829a55aee?source=rss------bug_bounty-5
 https://medium.com/@0xhunhun/the-art-of-fuzzing-how-to-fuzz-df92885fc0a3?source=rss------bug_bounty-5
 https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organization-administration-ea9bd9f914ab?source=rss------bug_bounty-5
+https://medium.com/@salahezzat120/how-i-found-a-batch-api-quota-bypass-in-an-email-platform-43312fe08d9f?source=rss------bug_bounty-5
+https://theskul13st.medium.com/how-i-found-a-local-file-inclusion-in-dhl-e9bd0266f2ea?source=rss------bug_bounty-5
+https://medium.com/@demondevarmy/why-i-built-a-new-go-based-recon-tool-in-2026-and-how-it-holds-up-against-reconftw-and-bbot-c4804b361cb6?source=rss------bug_bounty-5
