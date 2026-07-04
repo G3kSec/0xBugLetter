@@ -109,3 +109,6 @@ https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organiza
 https://medium.com/@salahezzat120/how-i-found-a-batch-api-quota-bypass-in-an-email-platform-43312fe08d9f?source=rss------bug_bounty-5
 https://theskul13st.medium.com/how-i-found-a-local-file-inclusion-in-dhl-e9bd0266f2ea?source=rss------bug_bounty-5
 https://medium.com/@demondevarmy/why-i-built-a-new-go-based-recon-tool-in-2026-and-how-it-holds-up-against-reconftw-and-bbot-c4804b361cb6?source=rss------bug_bounty-5
+https://medium.com/@m0ro23/how-i-found-an-account-takeover-ato-in-swisscom-383e7bbf2d2b?source=rss------bug_bounty-5
+https://medium.com/@jpablo13/os-command-injection-guide-exploitation-waf-bypass-poc-0462d5f378ea?source=rss------bug_bounty-5
+https://0xw4llsec.medium.com/never-underestimate-this-boring-vulnerability-in-bug-bounties-2fa-madness-writeup-hacking-hub-bf7df52fdecd?source=rss------bug_bounty-5
