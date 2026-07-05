@@ -112,3 +112,6 @@ https://medium.com/@demondevarmy/why-i-built-a-new-go-based-recon-tool-in-2026-a
 https://medium.com/@m0ro23/how-i-found-an-account-takeover-ato-in-swisscom-383e7bbf2d2b?source=rss------bug_bounty-5
 https://medium.com/@jpablo13/os-command-injection-guide-exploitation-waf-bypass-poc-0462d5f378ea?source=rss------bug_bounty-5
 https://0xw4llsec.medium.com/never-underestimate-this-boring-vulnerability-in-bug-bounties-2fa-madness-writeup-hacking-hub-bf7df52fdecd?source=rss------bug_bounty-5
+https://medium.com/@5um1t0x/tryhackme-fools-mate-walkthrough-bb3752f012ff?source=rss------bug_bounty-5
+https://meetcyber.net/how-i-do-recon-in-2026-no-subdomains-no-wordlists-just-the-app-2b446f76e764?source=rss------bug_bounty-5
+https://v3n0m.medium.com/break-the-gate-own-the-tunnel-the-brutal-ssh-flag-guide-every-hacker-must-master-844b75b2cc5a?source=rss------bug_bounty-5
