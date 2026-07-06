@@ -115,3 +115,6 @@ https://0xw4llsec.medium.com/never-underestimate-this-boring-vulnerability-in-bu
 https://medium.com/@5um1t0x/tryhackme-fools-mate-walkthrough-bb3752f012ff?source=rss------bug_bounty-5
 https://meetcyber.net/how-i-do-recon-in-2026-no-subdomains-no-wordlists-just-the-app-2b446f76e764?source=rss------bug_bounty-5
 https://v3n0m.medium.com/break-the-gate-own-the-tunnel-the-brutal-ssh-flag-guide-every-hacker-must-master-844b75b2cc5a?source=rss------bug_bounty-5
+https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5
+https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-76a5a81d0f2c?source=rss------bug_bounty-5
+https://medium.com/@tahaabdelalali1/investigating-a-potential-stored-xss-during-community-platform-testing-3084d20e68da?source=rss------bug_bounty-5
