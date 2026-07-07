@@ -118,3 +118,6 @@ https://v3n0m.medium.com/break-the-gate-own-the-tunnel-the-brutal-ssh-flag-guide
 https://medium.com/@S3THU/from-application-rce-to-full-host-takeover-via-docker-socket-misconfiguration-7f8db4865c2a?source=rss------bug_bounty-5
 https://medium.com/@luciuslogic/the-methodology-behind-cve-2026-11395-an-unauthenticated-ssrf-hiding-in-plain-sight-76a5a81d0f2c?source=rss------bug_bounty-5
 https://medium.com/@tahaabdelalali1/investigating-a-potential-stored-xss-during-community-platform-testing-3084d20e68da?source=rss------bug_bounty-5
+https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty-5
+https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5
+https://medium.com/@ilianothingg/how-a-missing-rate-limit-could-have-flooded-an-entire-support-system-ca435214ce69?source=rss------bug_bounty-5
