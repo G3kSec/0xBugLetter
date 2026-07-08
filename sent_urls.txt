@@ -121,3 +121,6 @@ https://medium.com/@tahaabdelalali1/investigating-a-potential-stored-xss-during-
 https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty-5
 https://medium.com/@zyadatef2462003/when-changing-an-email-isnt-enough-discovering-a-persistent-account-takeover-and-session-leakage-b0e1cc0b77ac?source=rss------bug_bounty-5
 https://medium.com/@ilianothingg/how-a-missing-rate-limit-could-have-flooded-an-entire-support-system-ca435214ce69?source=rss------bug_bounty-5
+https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5
+https://hamzadzworm.medium.com/the-403-that-wasnt-how-i-ended-up-accessing-100k-azure-ad-users-my-microsoft-research-story-985db681f083?source=rss------bug_bounty-5
+https://bharath.medium.com/master-node-js-npm-a-python-developers-security-guide-6c686accfe7e?source=rss------bug_bounty-5
