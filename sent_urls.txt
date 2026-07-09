@@ -124,3 +124,6 @@ https://medium.com/@ilianothingg/how-a-missing-rate-limit-could-have-flooded-an-
 https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty-5
 https://hamzadzworm.medium.com/the-403-that-wasnt-how-i-ended-up-accessing-100k-azure-ad-users-my-microsoft-research-story-985db681f083?source=rss------bug_bounty-5
 https://bharath.medium.com/master-node-js-npm-a-python-developers-security-guide-6c686accfe7e?source=rss------bug_bounty-5
+https://medium.com/@menevarad007/from-vulnerability-to-cve-how-the-process-really-works-6f595af97a74?source=rss------bug_bounty-5
+https://medium.com/@patrick.lefler/a-short-history-of-bug-bounties-76314c0cf807?source=rss------bug_bounty-5
+https://medium.com/@rjbdjnf/the-attack-that-steals-your-api-keys-through-a-github-issue-comment-b0301c1906dc?source=rss------bug_bounty-5
