@@ -127,3 +127,6 @@ https://bharath.medium.com/master-node-js-npm-a-python-developers-security-guide
 https://medium.com/@menevarad007/from-vulnerability-to-cve-how-the-process-really-works-6f595af97a74?source=rss------bug_bounty-5
 https://medium.com/@patrick.lefler/a-short-history-of-bug-bounties-76314c0cf807?source=rss------bug_bounty-5
 https://medium.com/@rjbdjnf/the-attack-that-steals-your-api-keys-through-a-github-issue-comment-b0301c1906dc?source=rss------bug_bounty-5
+https://medium.com/@krisnawhy300/bug-bounty-series-18-directory-traversal-0c66b4daee05?source=rss------bug_bounty-5
+https://medium.com/@krisnawhy300/bug-bounty-series-17-broken-authentication-a5e2877b5101?source=rss------bug_bounty-5
+https://medium.com/@0xMo7areb/%EF%B8%8Fbusiness-logic-bug-allows-bypass-of-single-owner-restriction-0578b25d3219?source=rss------bug_bounty-5
