@@ -130,3 +130,6 @@ https://medium.com/@rjbdjnf/the-attack-that-steals-your-api-keys-through-a-githu
 https://medium.com/@krisnawhy300/bug-bounty-series-18-directory-traversal-0c66b4daee05?source=rss------bug_bounty-5
 https://medium.com/@krisnawhy300/bug-bounty-series-17-broken-authentication-a5e2877b5101?source=rss------bug_bounty-5
 https://medium.com/@0xMo7areb/%EF%B8%8Fbusiness-logic-bug-allows-bypass-of-single-owner-restriction-0578b25d3219?source=rss------bug_bounty-5
+https://infosecwriteups.com/protonvpn-stores-your-authentication-private-key-in-plaintext-proton-says-its-intended-behavior-435dbb823612?source=rss------bug_bounty-5
+https://z3r0-day.medium.com/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-9c824d9f57c2?source=rss------bug_bounty-5
+https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunting-high-impact-vulnerabilities-in-2026-a95215087b79?source=rss------bug_bounty-5
