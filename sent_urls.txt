@@ -133,3 +133,6 @@ https://medium.com/@0xMo7areb/%EF%B8%8Fbusiness-logic-bug-allows-bypass-of-singl
 https://infosecwriteups.com/protonvpn-stores-your-authentication-private-key-in-plaintext-proton-says-its-intended-behavior-435dbb823612?source=rss------bug_bounty-5
 https://z3r0-day.medium.com/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-9c824d9f57c2?source=rss------bug_bounty-5
 https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunting-high-impact-vulnerabilities-in-2026-a95215087b79?source=rss------bug_bounty-5
+https://medium.com/@Shatha511/hacking-web-application-using-curl-a5c125a789b4?source=rss------bug_bounty-5
+https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty-5
+https://atanupal22256.medium.com/the-silent-offer-how-a-job-posting-stole-an-admin-account-f694a0250a31?source=rss------bug_bounty-5
