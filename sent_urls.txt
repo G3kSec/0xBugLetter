@@ -136,3 +136,6 @@ https://medium.com/@hakim.mca.716/beyond-recon-my-personal-methodology-for-hunti
 https://medium.com/@Shatha511/hacking-web-application-using-curl-a5c125a789b4?source=rss------bug_bounty-5
 https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty-5
 https://atanupal22256.medium.com/the-silent-offer-how-a-job-posting-stole-an-admin-account-f694a0250a31?source=rss------bug_bounty-5
+https://medium.com/@0Ziiad/valid-tokens-broken-limits-a-race-condition-story-b19a77b26b33?source=rss------bug_bounty-5
+https://medium.com/@pophacker996/valid-tokens-broken-limits-a-race-condition-story-80d90d80093c?source=rss------bug_bounty-5
+https://srimant999.medium.com/zero-days-the-worm-that-broke-irans-centrifuges-without-firing-a-shot-a7e108247a7a?source=rss------bug_bounty-5
