@@ -139,3 +139,6 @@ https://atanupal22256.medium.com/the-silent-offer-how-a-job-posting-stole-an-adm
 https://medium.com/@0Ziiad/valid-tokens-broken-limits-a-race-condition-story-b19a77b26b33?source=rss------bug_bounty-5
 https://medium.com/@pophacker996/valid-tokens-broken-limits-a-race-condition-story-80d90d80093c?source=rss------bug_bounty-5
 https://srimant999.medium.com/zero-days-the-worm-that-broke-irans-centrifuges-without-firing-a-shot-a7e108247a7a?source=rss------bug_bounty-5
+https://medium.com/@psaibtech/i-replaced-myself-with-an-ai-hacker-for-24-hours-heres-how-much-bounty-it-found-9b72586e6aae?source=rss------bug_bounty-5
+https://medium.com/@N0aziXss/idor-bypass-techniques-a-practical-methodology-for-security-testing-47376bbf1ac2?source=rss------bug_bounty-5
+https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty-5
