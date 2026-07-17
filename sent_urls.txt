@@ -148,3 +148,6 @@ https://osintteam.blog/i-asked-the-frontend-for-secrets-and-it-said-yes-7cb62e15
 https://medium.com/infosec-writes-up/10-recon-techniques-every-pentester-should-master-2c299d3e2826?source=rss------bug_bounty-5
 https://medium.com/@sunny561/how-a-simple-s3-bucket-misconfiguration-turned-into-a-security-assessment-6b4ac536652c?source=rss------bug_bounty-5
 https://infosecwriteups.com/the-endpoint-everyone-ignored-just-took-down-a-server-c32d51cf886e?source=rss------bug_bounty-5
+https://medium.com/@omaralgbry1/password-reset-vulnerabilities-list-2bec302886a3?source=rss------bug_bounty-5
+https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------bug_bounty-5
+https://medium.com/@abdelrahman.maged.cg/it-was-just-a-number-6547f360a1b2?source=rss------bug_bounty-5
