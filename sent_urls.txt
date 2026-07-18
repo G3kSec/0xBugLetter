@@ -151,3 +151,6 @@ https://infosecwriteups.com/the-endpoint-everyone-ignored-just-took-down-a-serve
 https://medium.com/@omaralgbry1/password-reset-vulnerabilities-list-2bec302886a3?source=rss------bug_bounty-5
 https://medium.com/@hossein.za68/stored-xss-via-svg-file-upload-leading-to-account-takeover-in-an-lms-platform-c3266453c9a0?source=rss------bug_bounty-5
 https://medium.com/@abdelrahman.maged.cg/it-was-just-a-number-6547f360a1b2?source=rss------bug_bounty-5
+https://medium.com/@northsidehacker/bypassing-rate-limiting-on-a-password-reset-endpoint-with-a-single-whitespace-character-cb1691833d5b?source=rss------bug_bounty-5
+https://osintteam.blog/breaking-the-iframes-modern-clickjacking-attacks-explained-3032da7c238f?source=rss------bug_bounty-5
+https://osintteam.blog/breaking-directories-a-bug-hunters-guide-to-directory-traversal-112b98b515e7?source=rss------bug_bounty-5
