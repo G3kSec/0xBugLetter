@@ -157,3 +157,6 @@ https://osintteam.blog/breaking-directories-a-bug-hunters-guide-to-directory-tra
 https://medium.com/@nsm10a01akhil/bug-bounty-pre-recon-methodology-a-beginners-guide-to-finding-the-attack-surface-892e5699e5e8?source=rss------bug_bounty-5
 https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty-5
 https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-data-leakage-229c61722992?source=rss------bug_bounty-5
+https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bug_bounty-5
+https://medium.com/@chilukavarshith4005/registration-security-testing-checklist-89d151d4e0f4?source=rss------bug_bounty-5
+https://medium.com/@akmalmuhfauzan/unrestricted-file-upload-via-exposed-upload-preset-fa3951034a33?source=rss------bug_bounty-5
