@@ -160,3 +160,6 @@ https://medium.com/@Nyx0r/from-reflected-xss-to-critical-bug-led-to-sensitive-da
 https://medium.com/@bag0zathev2/from-a-hey-name-banner-to-full-account-takeover-chaining-4-bugs-through-a-rewards-webview-f89a2b0f830f?source=rss------bug_bounty-5
 https://medium.com/@chilukavarshith4005/registration-security-testing-checklist-89d151d4e0f4?source=rss------bug_bounty-5
 https://medium.com/@akmalmuhfauzan/unrestricted-file-upload-via-exposed-upload-preset-fa3951034a33?source=rss------bug_bounty-5
+https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5
+https://medium.com/@5um1t0x/cupids-matchmaker-tryhackme-walkthrough-6f1ed059472d?source=rss------bug_bounty-5
+https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-9bb4715c6026?source=rss------bug_bounty-5
