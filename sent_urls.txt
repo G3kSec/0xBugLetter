@@ -163,3 +163,6 @@ https://medium.com/@akmalmuhfauzan/unrestricted-file-upload-via-exposed-upload-p
 https://medium.com/@minhhk/deep-dive-technical-write-up-cve-2026-13156-mailersend-wordpress-plugin-csrf-settings-deletion-5b3638e201e7?source=rss------bug_bounty-5
 https://medium.com/@5um1t0x/cupids-matchmaker-tryhackme-walkthrough-6f1ed059472d?source=rss------bug_bounty-5
 https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor-to-privilege-escalation-9bb4715c6026?source=rss------bug_bounty-5
+https://medium.com/@jpablo13/llm-security-guide-prompt-injection-and-api-exploitation-286373ae23ae?source=rss------bug_bounty-5
+https://medium.com/@shakthisv90/how-i-approach-finding-graphql-api-vulnerabilities-621172e9dcf4?source=rss------bug_bounty-5
+https://meetcyber.net/the-night-the-air-started-talking-a-technical-journey-into-wi-fi-hacking-with-kali-linux-938f2d2f9e23?source=rss------bug_bounty-5
