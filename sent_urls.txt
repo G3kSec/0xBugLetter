@@ -166,3 +166,6 @@ https://medium.com/@perdosecurity/real-world-broken-access-control-bac-from-idor
 https://medium.com/@jpablo13/llm-security-guide-prompt-injection-and-api-exploitation-286373ae23ae?source=rss------bug_bounty-5
 https://medium.com/@shakthisv90/how-i-approach-finding-graphql-api-vulnerabilities-621172e9dcf4?source=rss------bug_bounty-5
 https://meetcyber.net/the-night-the-air-started-talking-a-technical-journey-into-wi-fi-hacking-with-kali-linux-938f2d2f9e23?source=rss------bug_bounty-5
+https://medium.com/@r4sh1dy/change-your-role-or-change-the-role-a2870060714c?source=rss------bug_bounty-5
+https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bug_bounty-5
+https://1amrahul.medium.com/file-path-traversal-simple-case-walkthrough-apprentice-b79182ae4d49?source=rss------bug_bounty-5
