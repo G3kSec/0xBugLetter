@@ -169,3 +169,6 @@ https://meetcyber.net/the-night-the-air-started-talking-a-technical-journey-into
 https://medium.com/@r4sh1dy/change-your-role-or-change-the-role-a2870060714c?source=rss------bug_bounty-5
 https://medium.com/@utaah/bug-bounty-automation-elite-recon-pipeline-bonus-script-7fd94ad62d84?source=rss------bug_bounty-5
 https://1amrahul.medium.com/file-path-traversal-simple-case-walkthrough-apprentice-b79182ae4d49?source=rss------bug_bounty-5
+https://osintteam.blog/mastering-google-dorking-a-cybersecurity-guide-for-pentesters-and-attackers-9d7102d35e83?source=rss------bug_bounty-5
+https://osintteam.blog/one-command-pulled-urls-from-four-different-sources-at-once-i-was-not-ready-for-the-results-8a1895d4f4bd?source=rss------bug_bounty-5
+https://sayemeh.medium.com/how-i-find-sql-injection-vulnerabilities-my-bug-bounty-hunting-manual-testing-methodology-970c87535839?source=rss------bug_bounty-5
