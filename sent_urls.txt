@@ -172,3 +172,6 @@ https://1amrahul.medium.com/file-path-traversal-simple-case-walkthrough-apprenti
 https://osintteam.blog/mastering-google-dorking-a-cybersecurity-guide-for-pentesters-and-attackers-9d7102d35e83?source=rss------bug_bounty-5
 https://osintteam.blog/one-command-pulled-urls-from-four-different-sources-at-once-i-was-not-ready-for-the-results-8a1895d4f4bd?source=rss------bug_bounty-5
 https://sayemeh.medium.com/how-i-find-sql-injection-vulnerabilities-my-bug-bounty-hunting-manual-testing-methodology-970c87535839?source=rss------bug_bounty-5
+https://cyphernova1337.medium.com/why-you-should-always-test-websockets-and-why-most-hunters-never-do-84d3f3a901fd?source=rss------bug_bounty-5
+https://medium.com/@HaakimSec/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bug_bounty-5
+https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry-where-one-wrong-value-can-change-455e6681bf82?source=rss------bug_bounty-5
