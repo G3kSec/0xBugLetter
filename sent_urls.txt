@@ -175,3 +175,6 @@ https://sayemeh.medium.com/how-i-find-sql-injection-vulnerabilities-my-bug-bount
 https://cyphernova1337.medium.com/why-you-should-always-test-websockets-and-why-most-hunters-never-do-84d3f3a901fd?source=rss------bug_bounty-5
 https://medium.com/@HaakimSec/the-wp2shell-exploit-chain-understanding-the-critical-wordpress-core-pre-auth-rce-41de56d4d19e?source=rss------bug_bounty-5
 https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry-where-one-wrong-value-can-change-455e6681bf82?source=rss------bug_bounty-5
+https://alvinferd.medium.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5
+https://medium.com/@someone356neenunaa/bug-bounty-journey-day-0-the-commitment-2c326b6b3742?source=rss------bug_bounty-5
+https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5
