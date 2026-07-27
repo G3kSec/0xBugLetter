@@ -178,3 +178,6 @@ https://meetcyber.net/the-hidden-control-room-beneath-windows-enter-the-registry
 https://alvinferd.medium.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty-5
 https://medium.com/@someone356neenunaa/bug-bounty-journey-day-0-the-commitment-2c326b6b3742?source=rss------bug_bounty-5
 https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty-writeup-9757b4a5c7ec?source=rss------bug_bounty-5
+https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty-5
+https://medium.com/@zuhamohammad0709/the-breaches-that-taught-me-the-owasp-top-10-439a9deb4cf2?source=rss------bug_bounty-5
+https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty-5
