@@ -181,3 +181,6 @@ https://medium.com/@hassanbounty30/reflected-xss-in-e-commerce-search-bug-bounty
 https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty-5
 https://medium.com/@zuhamohammad0709/the-breaches-that-taught-me-the-owasp-top-10-439a9deb4cf2?source=rss------bug_bounty-5
 https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty-5
+https://medium.com/@pentesterclubpvtltd/blacktrace-explained-python-powered-osint-tool-for-security-researchers-e13389e33d69?source=rss------bug_bounty-5
+https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty-5
+https://medium.com/@verylazytech/mobile-malware-analysis-10-tools-to-reverse-android-ios-apps-like-a-pro-cadac2e6a974?source=rss------bug_bounty-5
