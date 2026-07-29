@@ -184,3 +184,6 @@ https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon
 https://medium.com/@pentesterclubpvtltd/blacktrace-explained-python-powered-osint-tool-for-security-researchers-e13389e33d69?source=rss------bug_bounty-5
 https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty-5
 https://medium.com/@verylazytech/mobile-malware-analysis-10-tools-to-reverse-android-ios-apps-like-a-pro-cadac2e6a974?source=rss------bug_bounty-5
+https://medium.com/@hemand390hemanth/how-i-earned-xxxx-by-breaking-into-a-companys-employee-only-internal-platform-8ddcfbe55ff0?source=rss------bug_bounty-5
+https://clarkvoss.medium.com/everything-is-input-sql-injection-through-parameter-names-83f517eee633?source=rss------bug_bounty-5
+https://medium.com/@jpablo13/gu%C3%ADa-definitiva-de-seguridad-en-apis-owasp-top-10-bypasses-y-mitigaci%C3%B3n-403c06ffb534?source=rss------bug_bounty-5
