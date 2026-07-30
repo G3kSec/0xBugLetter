@@ -187,3 +187,6 @@ https://medium.com/@verylazytech/mobile-malware-analysis-10-tools-to-reverse-and
 https://medium.com/@hemand390hemanth/how-i-earned-xxxx-by-breaking-into-a-companys-employee-only-internal-platform-8ddcfbe55ff0?source=rss------bug_bounty-5
 https://clarkvoss.medium.com/everything-is-input-sql-injection-through-parameter-names-83f517eee633?source=rss------bug_bounty-5
 https://medium.com/@jpablo13/gu%C3%ADa-definitiva-de-seguridad-en-apis-owasp-top-10-bypasses-y-mitigaci%C3%B3n-403c06ffb534?source=rss------bug_bounty-5
+https://medium.com/@mattgale87/how-i-found-a-high-severity-ai-security-issue-on-khan-academys-vdp-195f46c7ab91?source=rss------bug_bounty-5
+https://medium.com/@hossein.za68/when-password-reset-becomes-login-a-real-world-session-puzzling-vulnerability-4762e1e75b24?source=rss------bug_bounty-5
+https://medium.com/@m_kasim2/pakistans-first-bug-bounty-platform-meet-bugchase-com-45ba3a7e53db?source=rss------bug_bounty-5
