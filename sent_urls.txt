@@ -190,3 +190,6 @@ https://medium.com/@jpablo13/gu%C3%ADa-definitiva-de-seguridad-en-apis-owasp-top
 https://medium.com/@mattgale87/how-i-found-a-high-severity-ai-security-issue-on-khan-academys-vdp-195f46c7ab91?source=rss------bug_bounty-5
 https://medium.com/@hossein.za68/when-password-reset-becomes-login-a-real-world-session-puzzling-vulnerability-4762e1e75b24?source=rss------bug_bounty-5
 https://medium.com/@m_kasim2/pakistans-first-bug-bounty-platform-meet-bugchase-com-45ba3a7e53db?source=rss------bug_bounty-5
+https://medium.com/@cybervulnx/nmap-for-absolute-beginners-f00d4b3b1a77?source=rss------bug_bounty-5
+https://medium.com/@tinopreter/1-500-ai-system-prompt-leak-using-this-burp-suite-configuration-e1cb6ab27dc5?source=rss------bug_bounty-5
+https://medium.com/@dasunsooriyabandara/why-finding-a-bug-isnt-enough-the-art-of-writing-a-good-bug-report-a40579ad2dd9?source=rss------bug_bounty-5
