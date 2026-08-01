@@ -193,3 +193,6 @@ https://medium.com/@m_kasim2/pakistans-first-bug-bounty-platform-meet-bugchase-c
 https://medium.com/@cybervulnx/nmap-for-absolute-beginners-f00d4b3b1a77?source=rss------bug_bounty-5
 https://medium.com/@tinopreter/1-500-ai-system-prompt-leak-using-this-burp-suite-configuration-e1cb6ab27dc5?source=rss------bug_bounty-5
 https://medium.com/@dasunsooriyabandara/why-finding-a-bug-isnt-enough-the-art-of-writing-a-good-bug-report-a40579ad2dd9?source=rss------bug_bounty-5
+https://medium.com/@pentesterclubpvtltd/understanding-ai-assisted-command-control-research-why-security-teams-study-c2-frameworks-9fc101b3ed61?source=rss------bug_bounty-5
+https://alvinferd.medium.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty-5
+https://medium.com/@Lelouchzero/how-i-found-a-critical-race-condition-on-kruidvat-a-step-by-step-bug-bounty-walkthrough-773f20a323f5?source=rss------bug_bounty-5
