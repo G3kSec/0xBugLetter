@@ -196,3 +196,6 @@ https://medium.com/@dasunsooriyabandara/why-finding-a-bug-isnt-enough-the-art-of
 https://medium.com/@pentesterclubpvtltd/understanding-ai-assisted-command-control-research-why-security-teams-study-c2-frameworks-9fc101b3ed61?source=rss------bug_bounty-5
 https://alvinferd.medium.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty-5
 https://medium.com/@Lelouchzero/how-i-found-a-critical-race-condition-on-kruidvat-a-step-by-step-bug-bounty-walkthrough-773f20a323f5?source=rss------bug_bounty-5
+https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-bloodhound-part-2-installation-setup-step-by-step-guide-4fd61f9e23a1?source=rss------bug_bounty-5
+https://medium.com/@Aacle/the-bug-bounty-playbook-authentication-bypass-e70cc2824564?source=rss------bug_bounty-5
+https://medium.com/@Pwnedl0l/the-visma-case-study-part-3-cross-account-state-manipulation-and-administrative-bypass-27aef887c316?source=rss------bug_bounty-5
