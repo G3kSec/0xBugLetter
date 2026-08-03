@@ -199,3 +199,6 @@ https://medium.com/@Lelouchzero/how-i-found-a-critical-race-condition-on-kruidva
 https://medium.com/bug-bounty-hunting-a-comprehensive-guide-in/%EF%B8%8F-bloodhound-part-2-installation-setup-step-by-step-guide-4fd61f9e23a1?source=rss------bug_bounty-5
 https://medium.com/@Aacle/the-bug-bounty-playbook-authentication-bypass-e70cc2824564?source=rss------bug_bounty-5
 https://medium.com/@Pwnedl0l/the-visma-case-study-part-3-cross-account-state-manipulation-and-administrative-bypass-27aef887c316?source=rss------bug_bounty-5
+https://osintteam.blog/github-dorking-a-complete-guide-for-bug-bounty-hunters-and-penetration-testers-b9f8e784e29b?source=rss------bug_bounty-5
+https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bug_bounty-5
+https://osintteam.blog/hacking-iis-for-bug-bounty-attacking-the-windows-underneath-the-web-server-799cf02f60f5?source=rss------bug_bounty-5
