@@ -202,3 +202,6 @@ https://medium.com/@Pwnedl0l/the-visma-case-study-part-3-cross-account-state-man
 https://osintteam.blog/github-dorking-a-complete-guide-for-bug-bounty-hunters-and-penetration-testers-b9f8e784e29b?source=rss------bug_bounty-5
 https://osintteam.blog/dorkinatorai-a-calmer-way-to-start-recon-using-ai-42db2b4e956c?source=rss------bug_bounty-5
 https://osintteam.blog/hacking-iis-for-bug-bounty-attacking-the-windows-underneath-the-web-server-799cf02f60f5?source=rss------bug_bounty-5
+https://medium.com/@Mohamed_Sameh/meterpreter-cheat-sheet-part-2-4d6d241482d6?source=rss------bug_bounty-5
+https://medium.com/@omaymagnoug16/bug-bounty-1-que-tester-sur-une-application-web-avant-m%C3%AAme-de-cr%C3%A9er-un-compte-6b11631fb58b?source=rss------bug_bounty-5
+https://medium.com/@deathsure445/broken-link-hijacking-how-i-became-a-government-agency-on-linkedin-legally-sort-of-f94f8136220a?source=rss------bug_bounty-5
