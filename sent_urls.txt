@@ -208,3 +208,6 @@ https://medium.com/@deathsure445/broken-link-hijacking-how-i-became-a-government
 https://medium.com/@getroutenet196/100-high-value-files-paths-every-bug-hunter-should-check-during-recon-8b6900b20ff4?source=rss------bug_bounty-5
 https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty-5
 https://medium.com/@anandhukannan/learning-cors-the-right-way-understanding-the-browser-before-the-attack-3d0089c65979?source=rss------bug_bounty-5
+https://medium.com/@jpablo13/ultimate-api-security-guide-owasp-top-10-bypass-techniques-remediation-22c0005acd3a?source=rss------bug_bounty-5
+https://cyphernova1337.medium.com/zero-trust-opsec-for-a-fresh-kali-install-what-you-must-do-and-what-you-should-bdf57279123d?source=rss------bug_bounty-5
+https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bug_bounty-5
