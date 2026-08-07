@@ -211,3 +211,6 @@ https://medium.com/@anandhukannan/learning-cors-the-right-way-understanding-the-
 https://medium.com/@jpablo13/ultimate-api-security-guide-owasp-top-10-bypass-techniques-remediation-22c0005acd3a?source=rss------bug_bounty-5
 https://cyphernova1337.medium.com/zero-trust-opsec-for-a-fresh-kali-install-what-you-must-do-and-what-you-should-bdf57279123d?source=rss------bug_bounty-5
 https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unescaped-html-attribute-injection-009e1f6e99d7?source=rss------bug_bounty-5
+https://clarkvoss.medium.com/ldap-injection-its-as-simple-as-a-true-false-31577d5ea9f9?source=rss------bug_bounty-5
+https://medium.com/@tushar.from.cyber/how-i-hijacked-lightsparks-jsr-package-and-could-have-backdoored-every-developer-using-their-11b258688243?source=rss------bug_bounty-5
+https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5
