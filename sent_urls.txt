@@ -214,3 +214,6 @@ https://medium.com/@rs67iran/bypassing-a-safe-input-field-reflected-xss-via-unes
 https://clarkvoss.medium.com/ldap-injection-its-as-simple-as-a-true-false-31577d5ea9f9?source=rss------bug_bounty-5
 https://medium.com/@tushar.from.cyber/how-i-hijacked-lightsparks-jsr-package-and-could-have-backdoored-every-developer-using-their-11b258688243?source=rss------bug_bounty-5
 https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?source=rss------bug_bounty-5
+https://medium.com/@kenjisubagja/uncovering-a-privacy-bug-in-proton-meet-how-a-simple-logic-typo-earned-me-100-2a8c8d6c47d1?source=rss------bug_bounty-5
+https://osintteam.blog/ai-security-trends-every-developer-should-know-in-2026-656b89982bf8?source=rss------bug_bounty-5
+https://medium.com/@mo_0xnaser/captcha-bypass-bug-on-a-bug-bounty-program-94ec4f6add57?source=rss------bug_bounty-5
