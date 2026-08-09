@@ -217,3 +217,6 @@ https://medium.com/@abdelhakim14/sql-injection-complete-guide-96702a95a506?sourc
 https://medium.com/@kenjisubagja/uncovering-a-privacy-bug-in-proton-meet-how-a-simple-logic-typo-earned-me-100-2a8c8d6c47d1?source=rss------bug_bounty-5
 https://osintteam.blog/ai-security-trends-every-developer-should-know-in-2026-656b89982bf8?source=rss------bug_bounty-5
 https://medium.com/@mo_0xnaser/captcha-bypass-bug-on-a-bug-bounty-program-94ec4f6add57?source=rss------bug_bounty-5
+https://medium.com/@Aacle/rce-in-2026-doesnt-look-like-rce-in-2020-here-s-what-actually-matters-now-fedb5bee2c86?source=rss------bug_bounty-5
+https://medium.com/@cybersecplayground/poc-vault-by-cybersecplayground-dffa3fad3784?source=rss------bug_bounty-5
+https://infosecwriteups.com/bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-portswigger-web-security-346b99f322ef?source=rss------bug_bounty-5
