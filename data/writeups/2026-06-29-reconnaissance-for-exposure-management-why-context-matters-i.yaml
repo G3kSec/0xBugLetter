@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Reconnaissance for exposure management: why context matters in the AI era"
+author: "Intigriti"
+date: "2026-06-29"
+url: "https://www.intigriti.com/blog/business-insights/reconnaissance-for-exposure-management-why-context-matters-in-the-ai-era"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "Over the last few weeks, we’ve explored what AI is changing in security: discovery is faster (Vulnpocalypse now?), volume is higher (Common AI misconceptions debugged!), and the human layer triage (The AI Impact), judgment, and prioritization has become more important, not less (CEO Insights). But there’s a deeper implication hiding underneath all of that: most security teams still only learn from"
+
+tags:
+  - "methodology"
+  - "business-insights"

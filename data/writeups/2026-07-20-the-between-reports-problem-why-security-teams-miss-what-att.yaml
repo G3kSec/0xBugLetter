@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "The between-reports problem: why security teams miss what attackers see"
+author: "Intigriti"
+date: "2026-07-20"
+url: "https://www.intigriti.com/blog/business-insights/why-security-teams-miss-what-attackers-see"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "What you will learn Why faster discovery and higher volume can still leave teams blind between vulnerability reports. Why scanners and inventories are necessary, but not enough to explain attacker focus and intent. What “between-reports visibility” actually means (without the product pitch). What we believe security teams will need next: earlier signals that support action before the next repor"
+
+tags:
+  - "methodology"
+  - "business-insights"

@@ -1,0 +1,22 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Community Spotlight: Rishi (@rxerium)"
+author: "ProjectDiscovery"
+date: "2026-07-13"
+url: "https://projectdiscovery.io/blog/community-spotlight-rishi-rxerium"
+source: "ProjectDiscovery"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Independent"
+
+summary: "“Open source isn’t about perfection; it’s about putting an idea forward and improving it together as a community.” Rishi (@rxerium) If you’ve spent any time in the Nuclei Templates repository, you’ve almost certainly run something Rishi engineered. With over 500 templates merged, picked up by the likes of the UK’s National Cyber Security Center (NCSC), California Cybersecurity Integration Cente"
+
+tags:
+  - "methodology"
