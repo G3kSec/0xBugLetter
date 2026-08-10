@@ -229,8 +229,19 @@ export function getWriteups(): Writeup[] {
   assertTaxonomyInSync();
 
   if (!fs.existsSync(WRITEUPS_DIR)) {
-    writeupsCache = [];
-    return writeupsCache;
+    // Fallar acá en vez de devolver [] en silencio: un archivo curado con
+    // cero entradas no es un estado válido, es siempre un path roto — y
+    // devolver [] hacía que el sitio "funcionara" (build verde, página
+    // vacía) sin ningún indicio de qué estaba mal. En Vercel esto pasó
+    // exactamente por eso: con el Root Directory en `web/`, `../data`
+    // apuntaba afuera del checkout y nadie se enteró hasta mirar la página.
+    fail(
+      "content.ts",
+      `no se encontró data/writeups/ en ${WRITEUPS_DIR} (cwd: ${process.cwd()}). ` +
+        `Si esto corre en Vercel con Root Directory = web/, activá ` +
+        `"Include files outside of the Root Directory in the Build Step" ` +
+        `en Project Settings → General → Root Directory y redeployá.`,
+    );
   }
 
   const files = fs
@@ -264,8 +275,11 @@ export function getSources(): Source[] {
 
   const file = path.join(DATA_DIR, "sources.yaml");
   if (!fs.existsSync(file)) {
-    sourcesCache = [];
-    return sourcesCache;
+    fail(
+      "content.ts",
+      `no se encontró data/sources.yaml en ${file} (cwd: ${process.cwd()}). ` +
+        `Ver la nota en getWriteups() sobre Root Directory en Vercel.`,
+    );
   }
 
   const raw = readYaml(file);
