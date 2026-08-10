@@ -1,0 +1,21 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "How to appeal a bug bounty submission"
+author: "Ayoub Safa"
+date: "2026-07-30"
+url: "https://www.intigriti.com/researchers/blog/hacking-tools/how-to-appeal-a-bug-bounty-submission"
+source: "Intigriti"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Intigriti"
+
+summary: "Qué hacer cuando un reporte válido se cierra como N/A o duplicado. Proceso concreto, no consejos genéricos."
+
+tags:
+  - "triage"
+  - "reporting"
+  - "process"

@@ -1,0 +1,18 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Inline Style Exfiltration: leaking data with chained CSS conditionals"
+author: "PortSwigger Research"
+date: "2025-08-26"
+url: "https://portswigger.net/research/inline-style-exfiltration"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Info Disclosure"
+severity: "Medium"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "css-injection"
+  - "exfiltration"

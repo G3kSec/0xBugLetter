@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "CRLF-Powered Desync Attacks: Beheading HTTP Streams"
+author: "PortSwigger Research"
+date: "2026-08-05"
+url: "https://portswigger.net/research/crlf-powered-desync-attacks"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Request Smuggling"
+severity: "Critical"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "desync"
+  - "crlf"
+  - "http-smuggling"

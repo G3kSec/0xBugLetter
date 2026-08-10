@@ -1,0 +1,21 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Top 10 web hacking techniques of 2025"
+author: "PortSwigger Research"
+date: "2026-02-05"
+url: "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+summary: "El ranking anual de la comunidad. Punto de partida obligado para entender qué técnicas movieron la aguja el año pasado."
+
+tags:
+  - "top10"
+  - "research"
+  - "year-in-review"

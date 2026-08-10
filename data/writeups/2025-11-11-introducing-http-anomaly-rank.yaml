@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Introducing HTTP Anomaly Rank"
+author: "PortSwigger Research"
+date: "2025-11-11"
+url: "https://portswigger.net/research/introducing-http-anomaly-rank"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "http"
+  - "tooling"
+  - "detection"

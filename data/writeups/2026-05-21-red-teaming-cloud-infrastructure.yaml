@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Red-Teaming Cloud Infrastructure with Neo"
+author: "ProjectDiscovery"
+date: "2026-05-21"
+url: "https://projectdiscovery.io/blog/red-teaming-cloud-infrastructure-with-neo"
+source: "ProjectDiscovery"
+
+# Clasificación
+bug_type: "Cloud Misconfig"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "cloud"
+  - "red-team"
+  - "automation"

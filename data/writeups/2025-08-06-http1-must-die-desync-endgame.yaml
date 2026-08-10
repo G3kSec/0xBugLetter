@@ -1,0 +1,20 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "HTTP/1.1 must die: the desync endgame"
+author: "James Kettle"
+author_url: "https://portswigger.net/research/james-kettle"
+date: "2025-08-06"
+url: "https://portswigger.net/research/http1-must-die"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Request Smuggling"
+severity: "Critical"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "desync"
+  - "http1"
+  - "upstream"

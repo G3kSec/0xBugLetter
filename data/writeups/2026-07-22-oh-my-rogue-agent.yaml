@@ -1,0 +1,18 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Oh My Rogue Agent"
+author: "ProjectDiscovery"
+date: "2026-07-22"
+url: "https://projectdiscovery.io/blog/oh-my-rogue-agent"
+source: "ProjectDiscovery"
+
+# Clasificación
+bug_type: "LLM / AI"
+severity: "High"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "ai-agents"
+  - "prompt-injection"

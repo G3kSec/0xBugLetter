@@ -1,0 +1,22 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Episode 184: 750+ Bugs in 2026 with 0xMoose (Ads Dawson)"
+author: "Justin Gardner & Joel Margolis"
+author_url: "https://www.criticalthinkingpodcast.io"
+date: "2026-07-23"
+url: "https://www.criticalthinkingpodcast.io/750-bugs-in-2026-with-0xmoose-ads-dawson/"
+source: "Critical Thinking Podcast"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+summary: "Cómo se sostiene un ritmo de 750+ bugs en un año. Entrevista con Ads Dawson sobre proceso y automatización."
+
+tags:
+  - "podcast"
+  - "interview"
+  - "volume-hunting"

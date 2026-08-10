@@ -1,0 +1,20 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Episode 186: Is Sol 5.6 SuperHuman for Bug Bounty?"
+author: "Justin Gardner & Joel Margolis"
+author_url: "https://www.criticalthinkingpodcast.io"
+date: "2026-08-06"
+url: "https://www.criticalthinkingpodcast.io/is-sol-56-superhuman-for-bug-bounty/"
+source: "Critical Thinking Podcast"
+
+# Clasificación
+bug_type: "LLM / AI"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "podcast"
+  - "ai"
+  - "tooling"

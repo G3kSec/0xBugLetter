@@ -1,0 +1,21 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine"
+author: "PortSwigger Research"
+date: "2025-09-17"
+url: "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "WebSocket"
+severity: "High"
+
+# Programa
+platform: "Independent"
+
+summary: "La superficie WebSocket queda casi sin testear en la mayoría de los programas. Esta herramienta la vuelve accesible."
+
+tags:
+  - "websocket"
+  - "tooling"
+  - "burp-extension"

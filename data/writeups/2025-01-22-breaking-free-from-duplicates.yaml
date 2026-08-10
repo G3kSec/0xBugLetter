@@ -1,0 +1,20 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Breaking Free from Duplicate Submissions: A Strategic Approach to Bug Bounty Success"
+author: "Ben Sadeghipour (NahamSec)"
+author_url: "https://www.nahamsec.com"
+date: "2025-01-22"
+url: "https://www.nahamsec.com/posts/why-bug-bounty-hunters-keep-finding-duplicates-and-how-to-stop"
+source: "NahamSec"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "duplicates"
+  - "strategy"
+  - "target-selection"
