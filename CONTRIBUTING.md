@@ -1,133 +1,134 @@
-# Contribuir a 0xBugLetter
+# Contributing to 0xBugLetter
 
-Gracias por querer sumar. Hay tres tipos de contribución, ordenados por lo
-seguido que pasan.
+Thanks for wanting to help. There are three types of contribution, ordered
+by how often they come up.
 
-**La mayoría de las entradas del archivo las agrega el bot solo**, todos los
-días, desde las fuentes marcadas `verified: true` en `data/sources.yaml` —
-ver [bot/README.md](bot/README.md#classification-read-this-part) para cómo
-funciona eso. Lo de acá abajo aplica cuando querés agregar algo que el bot no
-va a encontrar solo (una fuente que todavía no está en la lista, un artículo
-puntual, o corregir una clasificación que el bot adivinó mal).
+**Most entries in the archive are added by the bot on its own**, every day,
+from sources marked `verified: true` in `data/sources.yaml` — see
+[bot/README.md](bot/README.md#classification-read-this-part) for how that
+works. Everything below applies when you want to add something the bot
+won't find on its own (a source that isn't tracked yet, a one-off article,
+or fixing a classification it guessed wrong).
 
 ---
 
-## 1. Agregar un writeup a mano
+## 1. Add a writeup by hand
 
-### Criterio de inclusión
+### Inclusion criteria
 
-Esto es lo único que realmente importa, y es restrictivo a propósito. El valor
-de un archivo curado está en lo que deja afuera.
+This is the only thing that really matters, and it's restrictive on
+purpose. The value of a curated archive is in what it leaves out.
 
-**Se acepta:**
+**Accepted:**
 
-- Writeups de autores reconocidos en la comunidad, o con resultados
-  demostrables: bounties pagados, CVEs asignados, reportes divulgados en
-  plataformas oficiales.
-- Research original de labs y equipos con trayectoria (PortSwigger, Assetnote,
-  ProjectDiscovery, Detectify, y equivalentes).
-- Episodios de podcast y charlas con contenido técnico verificable.
+- Writeups by authors recognized in the community, or with demonstrable
+  results: paid bounties, assigned CVEs, reports disclosed on official
+  platforms.
+- Original research from labs and teams with a track record (PortSwigger,
+  Assetnote, ProjectDiscovery, Detectify, and equivalents).
+- Podcast episodes and talks with verifiable technical content.
 
-**No se acepta:**
+**Not accepted:**
 
-- Artículos tipo «gané $10.000 en una semana» sin PoC, sin reporte público y
-  sin nada que respalde el número.
-- Contenido regenerado con IA que reexplica el OWASP Top 10 por enésima vez.
-- Montos de bounty estimados, inferidos o «aproximados». Si el monto no es
-  público, **el campo se deja vacío**. Un dato inventado envenena las métricas
-  de todo el archivo.
+- "I made $10,000 in a week" posts with no PoC, no public report, and
+  nothing backing the number.
+- AI-regurgitated content re-explaining the OWASP Top 10 for the hundredth
+  time.
+- Estimated, inferred, or "approximate" bounty amounts. If the amount isn't
+  public, **the field stays empty**. A made-up number poisons the whole
+  archive's metrics.
 
-### Cómo
+### How
 
-1. Creá `data/writeups/YYYY-MM-DD-titulo-corto.yaml`. La fecha es la de
-   publicación del artículo, no la de hoy — y tiene que coincidir con el campo
-   `date` de adentro (el CI lo verifica).
+1. Create `data/writeups/YYYY-MM-DD-short-title.yaml`. The date is the
+   article's publication date, not today's — and it has to match the
+   `date` field inside (CI checks this).
 
-2. Completá los campos:
+2. Fill in the fields:
 
 ```yaml
 title: "Blind SSRF via PDF export"
 author: "@handle"
-author_url: "https://twitter.com/handle"   # opcional
+author_url: "https://twitter.com/handle"   # optional
 date: "2026-07-15"
-url: "https://ejemplo.com/writeup"
+url: "https://example.com/writeup"
 source: "HackerOne"
 
-# Clasificación
+# Classification
 bug_type: "SSRF"
 severity: "High"
-cwe: "CWE-918"                             # opcional
+cwe: "CWE-918"                             # optional
 
-# Programa
+# Program
 platform: "HackerOne"
-program: "Ejemplo Inc."                    # opcional
+program: "Example Inc."                    # optional
 
-# Bounty — sólo si el monto es público
+# Bounty — only if the amount is public
 is_paid: true
 bounty_amount: 5000
 currency: "USD"
 
-summary: "Una o dos frases propias, no el copy del artículo."  # opcional
+summary: "One or two sentences of your own, not the article's copy."  # optional
 
 tags:
   - "ssrf"
   - "pdf-export"
 ```
 
-3. Validá localmente y abrí el PR:
+3. Validate locally and open the PR:
 
 ```bash
 python .github/scripts/validate.py
 ```
 
-### Sobre `severity`
+### About `severity`
 
-Para un reporte concreto, es la severidad que se le asignó. Para research que
-describe una técnica, es el impacto típico de esa clase de bug. Si el artículo
-es una guía o una reflexión sin un bug puntual, va `Info`.
+For a specific report, it's the severity that was assigned. For research
+describing a technique, it's the typical impact of that bug class. If the
+article is a guide or a reflection with no concrete bug, use `Info`.
 
 ---
 
-## 2. Agregar o arreglar una fuente
+## 2. Add or fix a source
 
-Sumá un bloque a `data/sources.yaml`:
+Add a block to `data/sources.yaml`:
 
 ```yaml
-- name: "Nombre de la fuente"
-  url: "https://ejemplo.com/feed.xml"
-  site: "https://ejemplo.com"
+- name: "Source name"
+  url: "https://example.com/feed.xml"
+  site: "https://example.com"
   category: blog          # blog | platform | researcher | podcast | news
   status: active          # active | stale | broken | no-feed
-  verified: true          # ¿autor u organización reconocida?
-  note: "Contexto opcional."
+  verified: true          # recognized author or organization?
+  note: "Optional context."
 ```
 
-`verified: true` no es un detalle menor acá: es lo único que hace de filtro
-de calidad antes de que el bot empiece a archivar de esa fuente
-automáticamente. No lo marques así sin haber revisado quién publica ahí.
+`verified: true` isn't a minor detail here — it's the only quality filter
+before the bot starts auto-archiving from that source. Don't mark it that
+way without having checked who actually publishes there.
 
-**Reportar un feed roto también cuenta**, y es la contribución más rápida de
-revisar. Si una fuente marcada `broken` tiene URL nueva, cambiala y sacale la
-marca. Si un feed no expone una URL propia por artículo (algunos hosts de
-podcast hacen esto), el bot la salta automáticamente — mirá la nota de
-Critical Thinking Podcast en `data/sources.yaml` como ejemplo de cómo
-documentarlo.
-
----
-
-## Corregir una entrada auto-archivada
-
-El bot clasifica por keywords, no lee el artículo — se equivoca. Cualquier
-YAML en `data/writeups/` que empiece con el comentario `# Auto-archived by
-bot/index.py` viene sin revisión humana. Si `bug_type` o `severity` están
-mal, o falta `bounty_amount` porque el bot no puede inferirlo, es un archivo
-normal: editalo y mandá el PR, como cualquier otro cambio.
+**Reporting a broken feed counts too**, and it's the fastest contribution
+to review. If a source marked `broken` has a new URL, update it and drop
+the flag. If a feed doesn't expose a distinct URL per article (some podcast
+hosts do this), the bot skips it automatically — see the Critical Thinking
+Podcast note in `data/sources.yaml` as an example of how to document that.
 
 ---
 
-## 3. Cambios en el sitio
+## Fixing an auto-archived entry
 
-PR normal de desarrollo sobre `web/`. Antes de mandarlo:
+The bot classifies by keyword, it doesn't read the article — it gets things
+wrong. Any YAML in `data/writeups/` that starts with the comment
+`# Auto-archived by bot/index.py` shipped without human review. If
+`bug_type` or `severity` is wrong, or `bounty_amount` is missing because
+the bot can't infer it, it's just a regular file: edit it and send the PR,
+like any other change.
+
+---
+
+## 3. Changes to the site
+
+Normal development PR against `web/`. Before sending it:
 
 ```bash
 cd web
@@ -138,15 +139,16 @@ npm run build
 
 ---
 
-## Agregar un valor a la taxonomía
+## Adding a taxonomy value
 
-Las listas de `bug_type`, `severity` y `platform` están cerradas. Si cada
-writeup inventa su propia categoría, los filtros dejan de servir para algo.
+The `bug_type`, `severity`, and `platform` lists are closed. If every
+writeup invents its own category, the filters stop being useful for
+anything.
 
-Para sumar un valor hay que tocar **dos archivos en el mismo PR**:
+Adding a value means touching **two files in the same PR**:
 
-1. `data/taxonomy.yaml` — lo lee el validador de Python
-2. `web/src/lib/types.ts` — lo lee el sitio
+1. `data/taxonomy.yaml` — read by the Python validator
+2. `web/src/lib/types.ts` — read by the site
 
-El build falla a propósito si las dos listas no coinciden. Eso es lo que
-fuerza la discusión sobre si la categoría nueva hace falta.
+The build fails on purpose if the two lists don't match. That's what forces
+the discussion about whether the new category is actually needed.
