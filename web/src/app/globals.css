@@ -234,8 +234,8 @@
   --color-paid-bg: var(--paid-bg);
   --color-paid-border: var(--paid-border);
 
-  --font-sans: var(--font-plex-sans), ui-sans-serif, system-ui, sans-serif;
-  --font-mono: var(--font-plex-mono), ui-monospace, "SFMono-Regular", monospace;
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, "SFMono-Regular", monospace;
 
   /* Dense type scale, tuned for a data-heavy UI */
   --text-2xs: 0.6875rem;
@@ -273,7 +273,7 @@ html {
 body {
   background: var(--ground);
   color: var(--text);
-  font-family: var(--font-plex-sans), ui-sans-serif, system-ui, sans-serif;
+  font-family: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
   font-size: 0.9375rem;
   line-height: 1.65;
   -webkit-font-smoothing: antialiased;
@@ -326,7 +326,7 @@ summary {
 }
 
 @utility label {
-  font-family: var(--font-plex-mono), ui-monospace, monospace;
+  font-family: var(--font-geist-mono), ui-monospace, monospace;
   font-size: var(--text-2xs);
   letter-spacing: 0.1em;
   text-transform: uppercase;

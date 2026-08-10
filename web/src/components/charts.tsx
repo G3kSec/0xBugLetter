@@ -161,7 +161,7 @@ export function CadenceChart({
                   textAnchor="middle"
                   fill="var(--text-3)"
                   fontSize={9}
-                  fontFamily="var(--font-plex-mono), monospace"
+                  fontFamily="var(--font-geist-mono), monospace"
                 >
                   {point.key.slice(2).replace("-", "/")}
                 </text>
