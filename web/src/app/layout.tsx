@@ -22,42 +22,43 @@ const plexMono = IBM_Plex_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "0xBugLetter — Archivo curado de bug bounty",
+    default: "0xBugLetter | by G3kSec",
     template: "%s · 0xBugLetter",
   },
   description:
-    "Writeups y research de bug bounty, curados y verificados. Timeline filtrable por tipo de bug, severidad, plataforma y bounty.",
+    "A curated archive of bug bounty writeups and research. Every entry verified against its source, filterable by bug type and year.",
   keywords: [
     "bug bounty",
     "bug hunting",
     "writeups",
-    "vulnerabilidades",
-    "seguridad web",
+    "vulnerabilities",
+    "web security",
     "appsec",
   ],
+  authors: [{ name: "G3kSec", url: "https://github.com/G3kSec" }],
   openGraph: {
-    title: "0xBugLetter — Archivo curado de bug bounty",
+    title: "0xBugLetter — Curated bug bounty archive",
     description:
-      "Writeups y research de bug bounty, curados y verificados. Timeline filtrable.",
+      "A curated archive of bug bounty writeups and research. Every entry verified against its source.",
     type: "website",
   },
 };
 
 /**
- * No hay script inline de bootstrap de tema a propósito.
+ * There is no inline theme-bootstrap script on purpose.
  *
- * El default lo resuelve CSS con `prefers-color-scheme`, así que la enorme
- * mayoría no ve ningún flash. Sólo quien haya elegido explícitamente el tema
- * contrario al de su sistema percibe un frame con el otro tema, y ThemeToggle
- * lo corrige al hidratar.
+ * CSS resolves the default through `prefers-color-scheme`, so almost nobody
+ * sees a flash. Only someone who explicitly picked the opposite of their
+ * system theme gets one frame of the other theme, and ThemeToggle corrects it
+ * on hydration.
  *
- * A cambio, el sitio no necesita 'unsafe-inline' en la CSP — que para un
- * proyecto de seguridad es un intercambio que conviene.
+ * In exchange the site never needs 'unsafe-inline' in its CSP — a good trade
+ * for a security project.
  */
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html
-      lang="es"
+      lang="en"
       className={`${plexSans.variable} ${plexMono.variable}`}
       suppressHydrationWarning
     >

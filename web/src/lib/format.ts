@@ -13,22 +13,22 @@ export const SEVERITY_STYLES: Record<
   Info: { text: "text-info", bg: "bg-info-bg", rail: "bg-info" },
 };
 
-const MONTHS_ES = [
-  "ene", "feb", "mar", "abr", "may", "jun",
-  "jul", "ago", "sep", "oct", "nov", "dic",
+const MONTHS = [
+  "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
 ];
 
-/** "2026-08-06" → "6 ago 2026". Parseo manual: `new Date("2026-08-06")`
- *  interpreta UTC y en zonas negativas devuelve el día anterior. */
+/** "2026-08-06" → "6 Aug 2026". Parsed by hand: `new Date("2026-08-06")`
+ *  is read as UTC and lands on the previous day in negative offsets. */
 export function formatDate(iso: string): string {
   const [year, month, day] = iso.split("-").map(Number);
-  return `${day} ${MONTHS_ES[month - 1]} ${year}`;
+  return `${day} ${MONTHS[month - 1]} ${year}`;
 }
 
-/** "2026-08" → "ago 2026" */
+/** "2026-08" → "Aug 2026" */
 export function formatMonth(key: string): string {
   const [year, month] = key.split("-").map(Number);
-  return `${MONTHS_ES[month - 1]} ${year}`;
+  return `${MONTHS[month - 1]} ${year}`;
 }
 
 export function formatBounty(amount: number, currency = "USD"): string {

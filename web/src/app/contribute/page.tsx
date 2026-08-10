@@ -1,105 +1,104 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 
 import { CodeBlock, Step } from "@/components/code-block";
 import { BUG_TYPES, PLATFORMS, SEVERITIES } from "@/lib/types";
 
 export const metadata: Metadata = {
-  title: "Contribuir",
+  title: "Contribute",
   description:
-    "Cómo agregar un writeup o una fuente a 0xBugLetter mediante un pull request.",
+    "How to add a writeup or a source to 0xBugLetter through a pull request.",
 };
 
 export default function ContributePage() {
   return (
     <div className="mx-auto max-w-3xl px-5 py-10">
       <header className="mb-8">
-        <p className="label mb-1.5">Comunidad</p>
-        <h1 className="text-3xl font-semibold tracking-tight">Contribuir</h1>
+        <p className="label mb-1.5">Community</p>
+        <h1 className="text-3xl font-semibold tracking-tight">Contribute</h1>
         <p className="mt-2 max-w-[62ch] text-ink-2">
-          El archivo lo mantiene la comunidad. Agregar un writeup es crear un
-          archivo YAML y abrir un pull request — no hace falta tocar código.
+          The archive is maintained by the community. Adding a writeup means
+          creating a YAML file and opening a pull request — no code required.
         </p>
       </header>
 
-      {/* ── Criterio de inclusión ──────────────────────────────────── */}
+      {/* ── Inclusion criteria ─────────────────────────────────────── */}
       <section className="mb-10 rounded-md border border-accent-border bg-accent-bg p-5">
-        <h2 className="font-semibold tracking-tight">Qué entra y qué no</h2>
+        <h2 className="font-semibold tracking-tight">What gets in, and what doesn&rsquo;t</h2>
         <p className="mt-2 text-sm text-ink-2">
-          Este es el único criterio que importa, y es intencionalmente
-          restrictivo:
+          This is the only rule that really matters, and it&rsquo;s deliberately
+          strict:
         </p>
         <ul className="mt-3 flex flex-col gap-2 text-sm text-ink-2">
           <Rule ok>
-            Writeups de autores reconocidos en la comunidad, o con resultados
-            demostrables: bounties pagados, CVEs asignados, reportes divulgados
-            en plataformas oficiales.
+            Writeups by authors known in the community, or with demonstrable
+            results: paid bounties, assigned CVEs, reports disclosed on official
+            platforms.
           </Rule>
           <Rule ok>
-            Research original de labs y equipos de seguridad con trayectoria.
+            Original research from labs and security teams with a track record.
           </Rule>
           <Rule ok>
-            Episodios de podcast y charlas con contenido técnico verificable.
+            Podcast episodes and talks with verifiable technical content.
           </Rule>
           <Rule>
-            Artículos con títulos tipo «gané $10.000 en una semana» sin PoC,
-            sin reporte público y sin nada que respalde el número.
+            &ldquo;I made $10,000 in a week&rdquo; posts with no PoC, no public report
+            and nothing backing the number.
           </Rule>
           <Rule>
-            Contenido regenerado con IA que reexplica OWASP Top 10 por enésima
-            vez.
+            AI-regurgitated content re-explaining the OWASP Top 10 for the
+            hundredth time.
           </Rule>
           <Rule>
-            Montos de bounty estimados, inferidos o «aproximados». Si el monto no
-            es público, el campo se deja vacío.
+            Estimated, inferred or &ldquo;approximate&rdquo; bounty amounts. If the
+            number isn&rsquo;t public, the field stays empty.
           </Rule>
         </ul>
       </section>
 
-      {/* ── Pasos ──────────────────────────────────────────────────── */}
+      {/* ── Steps ──────────────────────────────────────────────────── */}
       <section className="mb-12">
-        <h2 className="mb-5 text-xl font-semibold tracking-tight">
-          Agregar un writeup
-        </h2>
+        <h2 className="mb-5 text-xl font-semibold tracking-tight">Add a writeup</h2>
 
         <ol className="flex flex-col gap-6">
-          <Step n={1} title="Creá el archivo">
+          <Step n={1} title="Create the file">
             <p>
-              En{" "}
+              In{" "}
               <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
                 data/writeups/
               </code>
-              , con el nombre{" "}
+              , named{" "}
               <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
-                YYYY-MM-DD-titulo-corto.yaml
+                YYYY-MM-DD-short-title.yaml
               </code>
-              . La fecha es la de publicación del artículo, no la de hoy.
+              . The date is the article&rsquo;s publication date, not today&rsquo;s.
             </p>
           </Step>
 
-          <Step n={2} title="Completá los campos">
-            <CodeBlock title="data/writeups/2026-07-15-ssrf-ejemplo.yaml">
+          <Step n={2} title="Fill in the fields">
+            <CodeBlock title="data/writeups/2026-07-15-ssrf-example.yaml">
               {`title: "Blind SSRF via PDF export"
 author: "@handle"
-author_url: "https://twitter.com/handle"   # opcional
+author_url: "https://twitter.com/handle"   # optional
 date: "2026-07-15"
-url: "https://ejemplo.com/writeup"
+url: "https://example.com/writeup"
 source: "HackerOne"
 
-# Clasificación
+# Classification
 bug_type: "SSRF"
 severity: "High"
-cwe: "CWE-918"                             # opcional
+cwe: "CWE-918"                             # optional
 
-# Programa
+# Program
 platform: "HackerOne"
-program: "Ejemplo Inc."                    # opcional
+program: "Example Inc."                    # optional
 
-# Bounty — sólo si el monto es público
+# Bounty — only when the amount is public
 is_paid: true
 bounty_amount: 5000
 currency: "USD"
 
-summary: "Una o dos frases propias, no el copy del artículo."  # opcional
+summary: "One or two sentences of your own, not the article's blurb."  # optional
 
 tags:
   - "ssrf"
@@ -107,28 +106,31 @@ tags:
             </CodeBlock>
           </Step>
 
-          <Step n={3} title="Abrí el pull request">
+          <Step n={3} title="Open the pull request">
             <p>
-              El CI valida el schema, chequea que la URL responda y que no sea un
-              duplicado. Si algo falla, el bot comenta en el PR qué corregir.
+              CI validates the schema, checks the URL resolves and confirms it
+              isn&rsquo;t a duplicate. If something fails, the bot comments on the PR
+              with what to fix.
             </p>
           </Step>
         </ol>
       </section>
 
-      {/* ── Valores permitidos ─────────────────────────────────────── */}
+      {/* ── Allowed values ─────────────────────────────────────────── */}
       <section className="mb-12">
-        <h2 className="mb-4 text-xl font-semibold tracking-tight">
-          Valores permitidos
-        </h2>
+        <h2 className="mb-4 text-xl font-semibold tracking-tight">Allowed values</h2>
         <p className="mb-5 max-w-[62ch] text-sm text-ink-2">
-          Las taxonomías están cerradas a propósito: si cada writeup inventa su
-          propia categoría, los filtros dejan de servir. Para agregar un valor
-          hay que modificar{" "}
+          The taxonomies are closed on purpose: if every writeup invents its own
+          category, the filters stop being useful. Adding a value means editing{" "}
+          <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
+            data/taxonomy.yaml
+          </code>{" "}
+          and{" "}
           <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
             web/src/lib/types.ts
           </code>{" "}
-          en el mismo PR — eso fuerza la discusión.
+          in the same PR — the build fails if they drift apart, which is what
+          forces the discussion.
         </p>
 
         <div className="flex flex-col gap-5">
@@ -138,30 +140,33 @@ tags:
         </div>
       </section>
 
-      {/* ── Agregar fuente ─────────────────────────────────────────── */}
+      {/* ── Add a source ───────────────────────────────────────────── */}
       <section>
-        <h2 className="mb-4 text-xl font-semibold tracking-tight">
-          Agregar una fuente
-        </h2>
+        <h2 className="mb-4 text-xl font-semibold tracking-tight">Add a source</h2>
         <p className="mb-4 max-w-[62ch] text-sm text-ink-2">
-          Para que el bot monitoree un feed nuevo, sumá un bloque a{" "}
+          Check the{" "}
+          <Link href="/sources" className="text-accent hover:underline">
+            sources page
+          </Link>{" "}
+          first — if it&rsquo;s already tracked, there&rsquo;s nothing to do. Otherwise add
+          a block to{" "}
           <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
             data/sources.yaml
           </code>
           :
         </p>
         <CodeBlock title="data/sources.yaml">
-          {`- name: "Nombre de la fuente"
-  url: "https://ejemplo.com/feed.xml"
-  site: "https://ejemplo.com"
+          {`- name: "Source name"
+  url: "https://example.com/feed.xml"
+  site: "https://example.com"
   category: blog          # blog | platform | researcher | podcast | news
-  status: active          # active | stale | broken
-  verified: true          # ¿autor u organización reconocida?
-  note: "Contexto opcional."`}
+  status: active          # active | stale | broken | no-feed
+  verified: true          # known author or organisation?
+  note: "Optional context."`}
         </CodeBlock>
         <p className="mt-4 max-w-[62ch] text-sm text-ink-2">
-          Reportar un feed roto también cuenta como contribución — y es la más
-          rápida de revisar.
+          Reporting a broken feed counts as a contribution too — and it&rsquo;s the
+          fastest one to review.
         </p>
       </section>
     </div>
@@ -176,7 +181,7 @@ function Rule({ ok = false, children }: { ok?: boolean; children: React.ReactNod
         className={`mt-[0.4rem] size-2 shrink-0 rounded-full ${ok ? "bg-paid" : "bg-critical"}`}
       />
       <span>
-        <span className="sr-only">{ok ? "Se acepta: " : "No se acepta: "}</span>
+        <span className="sr-only">{ok ? "Accepted: " : "Not accepted: "}</span>
         {children}
       </span>
     </li>

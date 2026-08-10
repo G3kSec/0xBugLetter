@@ -66,7 +66,7 @@ export const SOURCE_CATEGORIES = [
 ] as const;
 export type SourceCategory = (typeof SOURCE_CATEGORIES)[number];
 
-export const SOURCE_STATUSES = ["active", "stale", "broken"] as const;
+export const SOURCE_STATUSES = ["active", "stale", "broken", "no-feed"] as const;
 export type SourceStatus = (typeof SOURCE_STATUSES)[number];
 
 /** Un writeup curado. Un archivo YAML por entrada en `data/writeups/`. */

@@ -33,17 +33,22 @@ COLOR_HEADER = 0xEB459E
 COLOR_ARTICLE = 0x00B4D8
 
 
+# Fuentes que el bot no puede consultar: `broken` es un feed que falla y
+# `no-feed` es una fuente que directamente no tiene RSS.
+UNFETCHABLE = {"broken", "no-feed"}
+
+
 def load_sources():
-    """Devuelve las fuentes utilizables, salteando las marcadas como rotas."""
+    """Devuelve sólo las fuentes con un feed que el bot pueda leer."""
     with open(SOURCES_FILE, encoding="utf-8") as handle:
         config = yaml.safe_load(handle)
 
     sources = config.get("sources", [])
-    usable = [s for s in sources if s.get("status") != "broken"]
+    usable = [s for s in sources if s.get("status") not in UNFETCHABLE]
 
     skipped = len(sources) - len(usable)
     if skipped:
-        print(f"⏭  {skipped} fuente(s) salteada(s) por estar marcadas como rotas.")
+        print(f"⏭  {skipped} fuente(s) sin feed utilizable, salteadas.")
 
     return usable
 

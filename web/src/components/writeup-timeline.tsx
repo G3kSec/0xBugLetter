@@ -7,14 +7,10 @@ import type { Writeup } from "@/lib/types";
 
 import { WriteupCard } from "./writeup-card";
 
-type PaymentFilter = "all" | "paid" | "unpaid";
-
 interface Props {
   writeups: Writeup[];
 }
 
-/** Cuenta ocurrencias respetando el resto de los filtros activos, para que
- *  los contadores de cada faceta reflejen lo que realmente vas a obtener. */
 function countBy<K extends string>(items: Writeup[], pick: (w: Writeup) => K) {
   const counts = new Map<K, number>();
   for (const item of items) {
@@ -27,27 +23,16 @@ function countBy<K extends string>(items: Writeup[], pick: (w: Writeup) => K) {
 export function WriteupTimeline({ writeups }: Props) {
   const [query, setQuery] = useState("");
   const [bugTypes, setBugTypes] = useState<Set<string>>(new Set());
-  const [severities, setSeverities] = useState<Set<string>>(new Set());
-  const [platforms, setPlatforms] = useState<Set<string>>(new Set());
   const [years, setYears] = useState<Set<string>>(new Set());
-  const [payment, setPayment] = useState<PaymentFilter>("all");
 
   const facets = useMemo(() => {
     const byType = countBy(writeups, (w) => w.bugType);
-    const bySeverity = countBy(writeups, (w) => w.severity);
-    const byPlatform = countBy(writeups, (w) => w.platform);
     const byYear = countBy(writeups, (w) => w.date.slice(0, 4));
 
-    const sortByCount = (map: Map<string, number>) =>
-      [...map.entries()].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
-
     return {
-      bugTypes: sortByCount(byType),
-      // La severidad tiene orden propio: de más grave a menos, no por volumen.
-      severities: (["Critical", "High", "Medium", "Low", "Info"] as const)
-        .filter((s) => bySeverity.has(s))
-        .map((s) => [s, bySeverity.get(s) as number] as [string, number]),
-      platforms: sortByCount(byPlatform),
+      bugTypes: [...byType.entries()].sort(
+        (a, b) => b[1] - a[1] || a[0].localeCompare(b[0]),
+      ),
       years: [...byYear.entries()].sort((a, b) => b[0].localeCompare(a[0])),
     };
   }, [writeups]);
@@ -57,12 +42,7 @@ export function WriteupTimeline({ writeups }: Props) {
 
     return writeups.filter((w) => {
       if (bugTypes.size > 0 && !bugTypes.has(w.bugType)) return false;
-      if (severities.size > 0 && !severities.has(w.severity)) return false;
-      if (platforms.size > 0 && !platforms.has(w.platform)) return false;
       if (years.size > 0 && !years.has(w.date.slice(0, 4))) return false;
-
-      if (payment === "paid" && w.isPaid !== true) return false;
-      if (payment === "unpaid" && w.isPaid === true) return false;
 
       if (needle) {
         const haystack = [
@@ -72,6 +52,7 @@ export function WriteupTimeline({ writeups }: Props) {
           w.program ?? "",
           w.summary ?? "",
           w.bugType,
+          w.severity,
           ...w.tags,
         ]
           .join(" ")
@@ -81,7 +62,7 @@ export function WriteupTimeline({ writeups }: Props) {
 
       return true;
     });
-  }, [writeups, query, bugTypes, severities, platforms, years, payment]);
+  }, [writeups, query, bugTypes, years]);
 
   const grouped = useMemo(() => {
     const groups = new Map<string, Writeup[]>();
@@ -94,13 +75,7 @@ export function WriteupTimeline({ writeups }: Props) {
     return [...groups.entries()];
   }, [filtered]);
 
-  const activeCount =
-    bugTypes.size +
-    severities.size +
-    platforms.size +
-    years.size +
-    (payment === "all" ? 0 : 1) +
-    (query.trim() ? 1 : 0);
+  const activeCount = bugTypes.size + years.size + (query.trim() ? 1 : 0);
 
   function toggle(
     set: Set<string>,
@@ -116,91 +91,47 @@ export function WriteupTimeline({ writeups }: Props) {
   function clearAll() {
     setQuery("");
     setBugTypes(new Set());
-    setSeverities(new Set());
-    setPlatforms(new Set());
     setYears(new Set());
-    setPayment("all");
   }
 
   return (
     <div className="grid gap-8 lg:grid-cols-[220px_1fr]">
-      {/* ── Filtros ─────────────────────────────────────────────────── */}
+      {/* ── Filters ─────────────────────────────────────────────────── */}
       <aside className="lg:sticky lg:top-20 lg:self-start">
         <div className="flex items-center justify-between gap-2 pb-3">
-          <p className="label">Filtros</p>
+          <p className="label">Filters</p>
           {activeCount > 0 ? (
             <button
               type="button"
               onClick={clearAll}
               className="font-mono text-2xs text-accent transition-opacity hover:opacity-70"
             >
-              limpiar ({activeCount})
+              clear ({activeCount})
             </button>
           ) : null}
         </div>
 
         <label className="block pb-4">
-          <span className="sr-only">Buscar writeups</span>
+          <span className="sr-only">Search writeups</span>
           <input
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Buscar…"
+            placeholder="Search…"
             className="w-full rounded-sm border border-line-subtle bg-surface px-2.5 py-1.5 font-mono text-xs text-ink placeholder:text-ink-3 focus:border-accent focus:outline-none"
           />
         </label>
 
         <div className="flex flex-col gap-5">
           <FilterGroup
-            title="Severidad"
-            options={facets.severities}
-            selected={severities}
-            onToggle={(value) => toggle(severities, setSeverities, value)}
-          />
-
-          <div>
-            <p className="label pb-2">Bounty</p>
-            <div className="flex flex-wrap gap-1">
-              {(
-                [
-                  ["all", "Todos"],
-                  ["paid", "Pagado"],
-                  ["unpaid", "VDP / s.d."],
-                ] as const
-              ).map(([value, label]) => (
-                <button
-                  key={value}
-                  type="button"
-                  onClick={() => setPayment(value)}
-                  aria-pressed={payment === value}
-                  className={`rounded-sm border px-1.5 py-0.5 font-mono text-2xs transition-colors ${
-                    payment === value
-                      ? "border-accent-border bg-accent-bg text-accent"
-                      : "border-line-subtle text-ink-3 hover:border-line hover:text-ink-2"
-                  }`}
-                >
-                  {label}
-                </button>
-              ))}
-            </div>
-          </div>
-
-          <FilterGroup
-            title="Tipo de bug"
+            title="Bug type"
             options={facets.bugTypes}
             selected={bugTypes}
             onToggle={(value) => toggle(bugTypes, setBugTypes, value)}
           />
 
           <FilterGroup
-            title="Plataforma"
-            options={facets.platforms}
-            selected={platforms}
-            onToggle={(value) => toggle(platforms, setPlatforms, value)}
-          />
-
-          <FilterGroup
-            title="Año"
+            title="Year"
             options={facets.years}
             selected={years}
             onToggle={(value) => toggle(years, setYears, value)}
@@ -211,24 +142,24 @@ export function WriteupTimeline({ writeups }: Props) {
       {/* ── Timeline ────────────────────────────────────────────────── */}
       <div>
         <p className="nums pb-4 font-mono text-2xs text-ink-3">
-          {filtered.length} de {writeups.length} writeups
+          {filtered.length} of {writeups.length} writeups
         </p>
 
         {grouped.length === 0 ? (
           <div className="rounded-md border border-dashed border-line px-5 py-12 text-center">
-            <p className="text-ink-2">Ningún writeup coincide con estos filtros.</p>
+            <p className="text-ink-2">No writeups match these filters.</p>
             <button
               type="button"
               onClick={clearAll}
               className="mt-2 font-mono text-xs text-accent transition-opacity hover:opacity-70"
             >
-              Limpiar filtros
+              Clear filters
             </button>
           </div>
         ) : (
           <div className="relative">
-            {/* El eje temporal: una línea continua que atraviesa todos los
-                meses. Sin esto la página es una lista, no una cronología. */}
+            {/* The time axis: one continuous line through every month.
+                Without it this is a list, not a chronology. */}
             <div
               className="absolute left-[5px] top-2 bottom-2 w-px bg-line-subtle"
               aria-hidden="true"

@@ -59,10 +59,10 @@ export function ThemeToggle() {
     <button
       type="button"
       onClick={toggle}
-      // Durante la hidratación todavía no sabemos el tema; anunciar el
-      // opuesto equivocado confundiría a quien use lector de pantalla.
+      // During hydration the theme is still unknown; announcing the wrong
+      // opposite would mislead anyone on a screen reader.
       aria-label={
-        theme ? `Cambiar a tema ${theme === "dark" ? "claro" : "oscuro"}` : "Cambiar tema"
+        theme ? `Switch to ${theme === "dark" ? "light" : "dark"} theme` : "Switch theme"
       }
       className="grid size-8 place-items-center rounded-sm border border-line-subtle text-ink-3 transition-colors hover:border-line hover:text-ink"
     >

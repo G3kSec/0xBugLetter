@@ -1,3 +1,16 @@
+/*
+ * DESACTIVADO — la página no aporta lo suficiente con el volumen actual de
+ * writeups y ninguno declara bounty, así que la mitad de los gráficos
+ * muestran empty states.
+ *
+ * El guion bajo en `_metrics` la saca del routing de Next (private folder),
+ * pero el código queda intacto: para volver a habilitarla alcanza con
+ * renombrar la carpeta a `metrics` y sumar el link en site-header.tsx.
+ *
+ * Vale la pena revisarlo cuando el archivo tenga volumen y varios writeups
+ * con montos de bounty confirmados.
+ */
+
 import type { Metadata } from "next";
 
 import { BarList, BountyChart, CadenceChart, SeverityBars } from "@/components/charts";

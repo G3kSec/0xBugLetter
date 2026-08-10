@@ -66,3 +66,4 @@ source_statuses:
   - active
   - stale
   - broken
+  - no-feed

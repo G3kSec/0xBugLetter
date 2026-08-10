@@ -4,17 +4,16 @@ import { ThemeToggle } from "./theme-toggle";
 
 const NAV = [
   { href: "/writeups", label: "Writeups" },
-  { href: "/metrics", label: "Métricas" },
-  { href: "/sources", label: "Fuentes" },
+  { href: "/sources", label: "Sources" },
   { href: "/setup", label: "Bot" },
-  { href: "/contribute", label: "Contribuir" },
+  { href: "/contribute", label: "Contribute" },
 ] as const;
 
 export function SiteHeader() {
   return (
     <header className="sticky top-0 z-50 border-b border-line-subtle bg-ground/85 backdrop-blur-md">
-      {/* En mobile el nav baja a su propia fila: cinco ítems no entran al
-          lado del logo, y un nav que se corta sin aviso esconde secciones. */}
+      {/* On mobile the nav drops to its own row: four items don't fit beside
+          the logo, and a nav that clips without warning hides sections. */}
       <div className="mx-auto flex max-w-6xl items-center gap-4 px-5 py-2.5 sm:h-14 sm:gap-6 sm:py-0">
         <Link
           href="/"
@@ -41,7 +40,7 @@ export function SiteHeader() {
             href="https://github.com/G3kSec/0xBugLetter"
             target="_blank"
             rel="noreferrer noopener"
-            aria-label="Repositorio en GitHub"
+            aria-label="GitHub repository"
             className="grid size-8 place-items-center rounded-sm border border-line-subtle text-ink-3 transition-colors hover:border-line hover:text-ink"
           >
             <svg viewBox="0 0 16 16" fill="currentColor" className="size-4" aria-hidden="true">

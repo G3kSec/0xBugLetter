@@ -3,9 +3,9 @@ import type { Metadata } from "next";
 import { CodeBlock, Step } from "@/components/code-block";
 
 export const metadata: Metadata = {
-  title: "Configurar el bot",
+  title: "Bot setup",
   description:
-    "Cómo conectar el bot de 0xBugLetter a tu servidor de Discord con un webhook y un GitHub Action.",
+    "How to connect the 0xBugLetter bot to your Discord server with a webhook and a GitHub Action.",
 };
 
 export default function SetupPage() {
@@ -14,30 +14,33 @@ export default function SetupPage() {
       <header className="mb-8">
         <p className="label mb-1.5">Bot</p>
         <h1 className="text-3xl font-semibold tracking-tight">
-          Recibir los writeups en Discord
+          Get writeups in Discord
         </h1>
         <p className="mt-2 max-w-[62ch] text-ink-2">
-          El bot corre como GitHub Action, revisa los feeds una vez por día y
-          publica lo nuevo en un canal de Discord. No necesita servidor ni
-          hosting: corre en la infraestructura gratuita de Actions.
+          The bot runs as a GitHub Action, checks the feeds once a day and posts
+          what&rsquo;s new to a Discord channel. No server, no hosting — it runs on
+          the free Actions tier.
         </p>
       </header>
 
       <ol className="flex flex-col gap-6">
-        <Step n={1} title="Creá un webhook en tu servidor">
+        <Step n={1} title="Create a webhook in your server">
           <p>
-            En Discord: <strong className="text-ink">Configuración del canal → Integraciones → Webhooks → Nuevo webhook</strong>.
-            Ponele un nombre, elegí el canal donde querés los posts y copiá la URL.
+            In Discord:{" "}
+            <strong className="text-ink">
+              Channel settings → Integrations → Webhooks → New webhook
+            </strong>
+            . Name it, pick the channel you want the posts in, and copy the URL.
           </p>
           <p className="rounded-sm border border-medium/30 bg-medium-bg px-3 py-2 text-medium">
-            Esa URL es una credencial. Cualquiera que la tenga puede publicar en
-            tu canal — no la pegues en un issue ni la commitees.
+            That URL is a credential. Anyone who has it can post to your channel
+            — don&rsquo;t paste it into an issue and don&rsquo;t commit it.
           </p>
         </Step>
 
-        <Step n={2} title="Forkeá el repositorio">
+        <Step n={2} title="Fork the repository">
           <p>
-            Hacé un fork de{" "}
+            Fork{" "}
             <a
               href="https://github.com/G3kSec/0xBugLetter"
               target="_blank"
@@ -46,13 +49,13 @@ export default function SetupPage() {
             >
               G3kSec/0xBugLetter
             </a>
-            . El workflow ya viene configurado; sólo le falta la credencial.
+            . The workflow is already configured; all it needs is the credential.
           </p>
         </Step>
 
-        <Step n={3} title="Guardá el webhook como secret">
+        <Step n={3} title="Store the webhook as a secret">
           <p>
-            En tu fork:{" "}
+            In your fork:{" "}
             <strong className="text-ink">
               Settings → Secrets and variables → Actions → New repository secret
             </strong>
@@ -64,23 +67,23 @@ Value:  https://discord.com/api/webhooks/...`}
           </CodeBlock>
         </Step>
 
-        <Step n={4} title="Ajustá la frecuencia (opcional)">
+        <Step n={4} title="Adjust the schedule (optional)">
           <p>
-            Por defecto corre a la 01:00 UTC y manda hasta 3 artículos por día.
-            Se cambia en el workflow:
+            It runs at 01:00 UTC and posts up to 3 articles a day. Change it in
+            the workflow:
           </p>
           <CodeBlock title=".github/workflows/post.yml">
             {`on:
   schedule:
-    - cron: "0 1 * * *"   # diario, 01:00 UTC
-  workflow_dispatch:       # también se puede disparar a mano`}
+    - cron: "0 1 * * *"   # daily, 01:00 UTC
+  workflow_dispatch:       # can also be triggered by hand`}
           </CodeBlock>
           <p>
-            El tope diario está en{" "}
+            The daily cap lives in{" "}
             <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
               MAX_DAILY
             </code>{" "}
-            dentro de{" "}
+            inside{" "}
             <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
               bot/index.py
             </code>
@@ -88,25 +91,27 @@ Value:  https://discord.com/api/webhooks/...`}
           </p>
         </Step>
 
-        <Step n={5} title="Probalo">
+        <Step n={5} title="Try it">
           <p>
-            Andá a la pestaña <strong className="text-ink">Actions</strong> de tu
-            fork, elegí el workflow <em>Daily Post</em> y corré{" "}
-            <strong className="text-ink">Run workflow</strong>. Si el webhook está
-            bien, en unos segundos aparecen los posts en tu canal.
+            Open the <strong className="text-ink">Actions</strong> tab in your
+            fork, pick the <em>Daily Post</em> workflow and hit{" "}
+            <strong className="text-ink">Run workflow</strong>. If the webhook is
+            correct, the posts show up in your channel within seconds.
           </p>
         </Step>
       </ol>
 
       <section className="mt-12">
-        <h2 className="text-xl font-semibold tracking-tight">Cómo evita repetidos</h2>
+        <h2 className="text-xl font-semibold tracking-tight">
+          How it avoids duplicates
+        </h2>
         <p className="mt-2 max-w-[62ch] text-ink-2">
-          Cada URL publicada se guarda en{" "}
+          Every posted URL is appended to{" "}
           <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
             bot/sent_urls.txt
           </code>{" "}
-          y el Action commitea el archivo actualizado al terminar. Por eso el
-          workflow necesita permiso de escritura:
+          and the Action commits the updated file when it finishes. That&rsquo;s why
+          the workflow needs write permission:
         </p>
         <div className="mt-3">
           <CodeBlock title=".github/workflows/post.yml">
@@ -117,15 +122,15 @@ Value:  https://discord.com/api/webhooks/...`}
       </section>
 
       <section className="mt-10 rounded-md border border-line-subtle bg-surface p-5">
-        <h2 className="font-semibold tracking-tight">
-          ¿Querés que se publique en otro lado?
-        </h2>
+        <h2 className="font-semibold tracking-tight">Want it posted elsewhere?</h2>
         <p className="mt-1.5 max-w-[60ch] text-sm text-ink-2">
-          Hoy el bot sólo soporta Discord. La lógica de envío está aislada en{" "}
+          Right now the bot only supports Discord. The sending logic is isolated
+          in{" "}
           <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
             bot/index.py
           </code>
-          , así que agregar otro destino es acotado — y se agradece el PR.
+          , so adding another destination is a contained change — and the PR is
+          welcome.
         </p>
       </section>
     </div>

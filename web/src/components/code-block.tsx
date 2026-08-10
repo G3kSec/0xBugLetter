@@ -21,8 +21,8 @@ export function CodeBlock({
   );
 }
 
-/** Paso numerado. La numeración acá sí significa algo: el orden importa,
- *  no se puede crear el secret antes de tener el webhook. */
+/** Numbered step. The numbering carries meaning here — the order matters,
+ *  you can't create the secret before you have the webhook. */
 export function Step({
   n,
   title,

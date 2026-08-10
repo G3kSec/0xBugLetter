@@ -4,8 +4,8 @@ import type { Writeup } from "@/lib/types";
 import { Chip, SeverityBadge } from "./ui";
 
 /**
- * El rail de severidad a la izquierda es la firma visual del archivo:
- * permite escanear una columna de 30 entradas y ubicar lo grave sin leer.
+ * The severity rail on the left is the archive's visual signature: it lets
+ * you scan a column of 30 entries and spot the serious ones without reading.
  */
 export function WriteupCard({ writeup }: { writeup: Writeup }) {
   const rail = SEVERITY_STYLES[writeup.severity].rail;
@@ -23,7 +23,7 @@ export function WriteupCard({ writeup }: { writeup: Writeup }) {
             <Chip tone="paid">
               {writeup.bountyAmount
                 ? formatBounty(writeup.bountyAmount, writeup.currency)
-                : "PAGADO"}
+                : "PAID"}
             </Chip>
           ) : null}
         </div>

@@ -2,81 +2,86 @@
 
 /* ═══════════════════════════════════════════════════════════════════════
    0xBugLetter — Design tokens
-   Dirección: "Intercept". El lenguaje visual del proxy y la escala CVSS.
-   Acento Signal Cyan, deliberadamente fuera de la rampa de severidad
-   (rojo → naranja → ámbar) para que nunca compitan por la atención.
+
+   Green accent, shared with the rest of the 0x family (portfolio,
+   0xHashFavicon). Neutrals carry a slight green bias so the accent reads
+   as part of the surface rather than pasted on top of it.
+
+   The CVSS severity ramp (red → orange → amber → slate) stays entirely
+   separate from the accent, so brand and severity never compete.
    ═══════════════════════════════════════════════════════════════════════ */
 
 :root {
-  /* Superficies — neutrales con sesgo frío hacia el acento */
-  --ground: #f4f6f8;
+  /* Surfaces */
+  --ground: #f7faf8;
   --surface: #ffffff;
-  --surface-2: #eaeef3;
-  --surface-3: #dfe5ec;
+  --surface-2: #eaf1ec;
+  --surface-3: #dde8e0;
 
-  /* Bordes */
-  --border: #d3dae3;
-  --border-subtle: #e5eaf0;
-  --border-strong: #b8c2cf;
+  /* Borders */
+  --border: #d2e0d6;
+  --border-subtle: #e6eee9;
+  --border-strong: #b5c8bb;
 
-  /* Texto */
-  --text: #0d141c;
-  --text-2: #55606f;
-  --text-3: #8a95a4;
+  /* Text */
+  --text: #0b0e0b;
+  --text-2: #4f5a52;
+  --text-3: #66756b;
 
-  /* Acento — Signal Cyan, profundizado para contraste sobre claro */
-  --accent: #0b7c93;
-  --accent-hover: #096375;
-  --accent-bg: #0b7c9314;
-  --accent-border: #0b7c9340;
+  /* Accent */
+  --accent: #006e34;
+  --accent-hover: #005527;
+  --accent-contrast: #f8fef8;
+  --accent-bg: #006e3414;
+  --accent-border: #006e3440;
 
-  /* Rampa de severidad (CVSS) — semántica, separada del acento */
+  /* CVSS severity ramp — semantic, deliberately outside the accent hue */
   --sev-critical: #b4162c;
   --sev-critical-bg: #b4162c14;
   --sev-high: #c2500f;
   --sev-high-bg: #c2500f14;
   --sev-medium: #96690a;
   --sev-medium-bg: #96690a14;
-  --sev-low: #5c6a7d;
-  --sev-low-bg: #5c6a7d14;
-  --sev-info: #78838f;
-  --sev-info-bg: #78838f14;
+  --sev-low: #5f6d64;
+  --sev-low-bg: #5f6d6414;
+  --sev-info: #6b776f;
+  --sev-info-bg: #6b776f14;
 
-  /* Bounty pagado */
-  --paid: #0a7048;
-  --paid-bg: #0a704814;
-  --paid-border: #0a704840;
+  /* Confirmed payout — money is green, and so is the brand; reusing the
+     accent here is coherent rather than a collision. */
+  --paid: #006e34;
+  --paid-bg: #006e3414;
+  --paid-border: #006e3440;
 
-  /* Sombras */
-  --shadow-sm: 0 1px 2px rgb(13 20 28 / 0.05);
-  --shadow-md: 0 2px 10px rgb(13 20 28 / 0.07);
-  --shadow-lg: 0 8px 30px rgb(13 20 28 / 0.1);
+  --shadow-sm: 0 1px 2px rgb(11 14 11 / 0.05);
+  --shadow-md: 0 2px 10px rgb(11 14 11 / 0.07);
+  --shadow-lg: 0 8px 30px rgb(11 14 11 / 0.1);
 
-  /* Grid de fondo */
-  --grid-line: #0d141c0a;
+  --grid-line: #0b0e0b0a;
 
   color-scheme: light;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --ground: #080b11;
-    --surface: #0e131c;
-    --surface-2: #141b26;
-    --surface-3: #1c2431;
+    --ground: #070907;
+    --surface: #0d110e;
+    --surface-2: #131a15;
+    --surface-3: #152317;
 
-    --border: #212b3a;
-    --border-subtle: #171f2b;
-    --border-strong: #33404f;
+    --border: #1f2a21;
+    --border-subtle: #161e17;
+    --border-strong: #314234;
 
-    --text: #e3e9f1;
-    --text-2: #939fb0;
-    --text-3: #5c6879;
+    --text: #e5e9e5;
+    --text-2: #939e95;
+    --text-3: #727f75;
 
-    --accent: #23c9e8;
-    --accent-hover: #55d8f0;
-    --accent-bg: #23c9e81a;
-    --accent-border: #23c9e84d;
+    --accent: #46d76f;
+    --accent-hover: #6ce28d;
+    --accent-contrast: #070907;
+    --accent-bg: #46d76f1a;
+    --accent-border: #46d76f4d;
 
     --sev-critical: #ff6d80;
     --sev-critical-bg: #ff6d801a;
@@ -84,44 +89,45 @@
     --sev-high-bg: #ff93541a;
     --sev-medium: #e8b53d;
     --sev-medium-bg: #e8b53d1a;
-    --sev-low: #8896a9;
-    --sev-low-bg: #8896a91a;
-    --sev-info: #6d7a8a;
-    --sev-info-bg: #6d7a8a1a;
+    --sev-low: #8b9a8f;
+    --sev-low-bg: #8b9a8f1a;
+    --sev-info: #7d8a81;
+    --sev-info-bg: #7d8a811a;
 
-    --paid: #3fd68f;
-    --paid-bg: #3fd68f1a;
-    --paid-border: #3fd68f4d;
+    --paid: #46d76f;
+    --paid-bg: #46d76f1a;
+    --paid-border: #46d76f4d;
 
     --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
     --shadow-md: 0 2px 10px rgb(0 0 0 / 0.4);
     --shadow-lg: 0 8px 30px rgb(0 0 0 / 0.5);
 
-    --grid-line: #e3e9f10a;
+    --grid-line: #e5e9e50a;
 
     color-scheme: dark;
   }
 }
 
-/* El toggle del usuario tiene que ganarle a la media query en ambos sentidos */
+/* The explicit toggle has to beat the media query in both directions. */
 :root[data-theme="dark"] {
-  --ground: #080b11;
-  --surface: #0e131c;
-  --surface-2: #141b26;
-  --surface-3: #1c2431;
+  --ground: #070907;
+  --surface: #0d110e;
+  --surface-2: #131a15;
+  --surface-3: #152317;
 
-  --border: #212b3a;
-  --border-subtle: #171f2b;
-  --border-strong: #33404f;
+  --border: #1f2a21;
+  --border-subtle: #161e17;
+  --border-strong: #314234;
 
-  --text: #e3e9f1;
-  --text-2: #939fb0;
-  --text-3: #5c6879;
+  --text: #e5e9e5;
+  --text-2: #939e95;
+  --text-3: #727f75;
 
-  --accent: #23c9e8;
-  --accent-hover: #55d8f0;
-  --accent-bg: #23c9e81a;
-  --accent-border: #23c9e84d;
+  --accent: #46d76f;
+  --accent-hover: #6ce28d;
+  --accent-contrast: #070907;
+  --accent-bg: #46d76f1a;
+  --accent-border: #46d76f4d;
 
   --sev-critical: #ff6d80;
   --sev-critical-bg: #ff6d801a;
@@ -129,42 +135,43 @@
   --sev-high-bg: #ff93541a;
   --sev-medium: #e8b53d;
   --sev-medium-bg: #e8b53d1a;
-  --sev-low: #8896a9;
-  --sev-low-bg: #8896a91a;
-  --sev-info: #6d7a8a;
-  --sev-info-bg: #6d7a8a1a;
+  --sev-low: #8b9a8f;
+  --sev-low-bg: #8b9a8f1a;
+  --sev-info: #7d8a81;
+  --sev-info-bg: #7d8a811a;
 
-  --paid: #3fd68f;
-  --paid-bg: #3fd68f1a;
-  --paid-border: #3fd68f4d;
+  --paid: #46d76f;
+  --paid-bg: #46d76f1a;
+  --paid-border: #46d76f4d;
 
   --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
   --shadow-md: 0 2px 10px rgb(0 0 0 / 0.4);
   --shadow-lg: 0 8px 30px rgb(0 0 0 / 0.5);
 
-  --grid-line: #e3e9f10a;
+  --grid-line: #e5e9e50a;
 
   color-scheme: dark;
 }
 
 :root[data-theme="light"] {
-  --ground: #f4f6f8;
+  --ground: #f7faf8;
   --surface: #ffffff;
-  --surface-2: #eaeef3;
-  --surface-3: #dfe5ec;
+  --surface-2: #eaf1ec;
+  --surface-3: #dde8e0;
 
-  --border: #d3dae3;
-  --border-subtle: #e5eaf0;
-  --border-strong: #b8c2cf;
+  --border: #d2e0d6;
+  --border-subtle: #e6eee9;
+  --border-strong: #b5c8bb;
 
-  --text: #0d141c;
-  --text-2: #55606f;
-  --text-3: #8a95a4;
+  --text: #0b0e0b;
+  --text-2: #4f5a52;
+  --text-3: #66756b;
 
-  --accent: #0b7c93;
-  --accent-hover: #096375;
-  --accent-bg: #0b7c9314;
-  --accent-border: #0b7c9340;
+  --accent: #006e34;
+  --accent-hover: #005527;
+  --accent-contrast: #f8fef8;
+  --accent-bg: #006e3414;
+  --accent-border: #006e3440;
 
   --sev-critical: #b4162c;
   --sev-critical-bg: #b4162c14;
@@ -172,25 +179,25 @@
   --sev-high-bg: #c2500f14;
   --sev-medium: #96690a;
   --sev-medium-bg: #96690a14;
-  --sev-low: #5c6a7d;
-  --sev-low-bg: #5c6a7d14;
-  --sev-info: #78838f;
-  --sev-info-bg: #78838f14;
+  --sev-low: #5f6d64;
+  --sev-low-bg: #5f6d6414;
+  --sev-info: #6b776f;
+  --sev-info-bg: #6b776f14;
 
-  --paid: #0a7048;
-  --paid-bg: #0a704814;
-  --paid-border: #0a704840;
+  --paid: #006e34;
+  --paid-bg: #006e3414;
+  --paid-border: #006e3440;
 
-  --shadow-sm: 0 1px 2px rgb(13 20 28 / 0.05);
-  --shadow-md: 0 2px 10px rgb(13 20 28 / 0.07);
-  --shadow-lg: 0 8px 30px rgb(13 20 28 / 0.1);
+  --shadow-sm: 0 1px 2px rgb(11 14 11 / 0.05);
+  --shadow-md: 0 2px 10px rgb(11 14 11 / 0.07);
+  --shadow-lg: 0 8px 30px rgb(11 14 11 / 0.1);
 
-  --grid-line: #0d141c0a;
+  --grid-line: #0b0e0b0a;
 
   color-scheme: light;
 }
 
-/* ── Mapeo a utilidades Tailwind ──────────────────────────────────────── */
+/* ── Tailwind utility mapping ─────────────────────────────────────────── */
 
 @theme inline {
   --color-ground: var(--ground);
@@ -208,6 +215,7 @@
 
   --color-accent: var(--accent);
   --color-accent-hover: var(--accent-hover);
+  --color-accent-contrast: var(--accent-contrast);
   --color-accent-bg: var(--accent-bg);
   --color-accent-border: var(--accent-border);
 
@@ -229,7 +237,7 @@
   --font-sans: var(--font-plex-sans), ui-sans-serif, system-ui, sans-serif;
   --font-mono: var(--font-plex-mono), ui-monospace, "SFMono-Regular", monospace;
 
-  /* Escala tipográfica — densa, calibrada para UI de datos */
+  /* Dense type scale, tuned for a data-heavy UI */
   --text-2xs: 0.6875rem;
   --text-2xs--line-height: 1.4;
   --text-xs: 0.75rem;
@@ -283,7 +291,13 @@ body {
   border-radius: 2px;
 }
 
-/* Scrollbars discretos, consistentes con el tema */
+/* Anything that responds to a click should say so. */
+button:not(:disabled),
+[role="button"]:not(:disabled),
+summary {
+  cursor: pointer;
+}
+
 * {
   scrollbar-width: thin;
   scrollbar-color: var(--border-strong) transparent;
@@ -301,10 +315,9 @@ body {
   border: 3px solid var(--ground);
 }
 
-/* ── Utilidades propias ───────────────────────────────────────────────── */
+/* ── Custom utilities ─────────────────────────────────────────────────── */
 
-/* Retícula de fondo: evoca el papel milimetrado del cuaderno de research
-   sin caer en el "terminal falso". Muy sutil, casi subliminal. */
+/* Faint graph-paper grid — the research notebook, not a fake terminal. */
 @utility grid-bg {
   background-image:
     linear-gradient(to right, var(--grid-line) 1px, transparent 1px),
@@ -312,7 +325,6 @@ body {
   background-size: 32px 32px;
 }
 
-/* Etiqueta de metadata: mono, uppercase, tracking abierto */
 @utility label {
   font-family: var(--font-plex-mono), ui-monospace, monospace;
   font-size: var(--text-2xs);
@@ -321,7 +333,6 @@ body {
   color: var(--text-3);
 }
 
-/* Números que se alinean en columna */
 @utility nums {
   font-variant-numeric: tabular-nums;
   font-feature-settings: "tnum";

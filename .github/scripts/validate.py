@@ -81,7 +81,11 @@ def validate_writeup(path: Path, taxonomy: dict, seen_urls: dict[str, str]) -> N
 
     check_string(where, data, "title")
     check_string(where, data, "author")
-    check_string(where, data, "author_url", required=False)
+
+    author_url = check_string(where, data, "author_url", required=False)
+    if author_url and not author_url.startswith(("http://", "https://")):
+        error(where, '"author_url" tiene que empezar con http:// o https://')
+
     check_string(where, data, "source")
     check_string(where, data, "cwe", required=False)
     check_string(where, data, "program", required=False)
@@ -154,8 +158,16 @@ def validate_sources(taxonomy: dict) -> list[str]:
             error(label, '"verified" tiene que ser true o false')
 
         url = check_string(label, source, "url")
-        if url and source.get("status") != "broken":
+        if url and not url.startswith(("http://", "https://")):
+            # Este valor se renderiza como href en el sitio: un javascript:
+            # acá sería XSS almacenado en cuanto se mergee el PR.
+            error(label, '"url" tiene que empezar con http:// o https://')
+        elif url and source.get("status") not in ("broken", "no-feed"):
             urls.append(url)
+
+        site = check_string(label, source, "site")
+        if site and not site.startswith(("http://", "https://")):
+            error(label, '"site" tiene que empezar con http:// o https://')
 
     return urls
 
@@ -182,6 +194,39 @@ def check_urls(urls: list[str]) -> None:
             warn("urls", f"{url} no respondió — {exc}")
 
 
+def collect_source_names() -> set[str]:
+    with open(DATA_DIR / "sources.yaml", encoding="utf-8") as handle:
+        config = yaml.safe_load(handle)
+    sources = config.get("sources", []) if isinstance(config, dict) else []
+    return {s["name"] for s in sources if isinstance(s, dict) and "name" in s}
+
+
+def check_source_links(writeup_paths: list[Path], source_names: set[str]) -> None:
+    """El sitio cuenta cuántos writeups vienen de cada fuente cruzando
+    `source` contra el `name` de sources.yaml. Si no coinciden exactamente,
+    la fuente muestra cero sin que nada falle — de ahí esta advertencia.
+
+    Es warning y no error a propósito: un writeup puede venir de un lugar
+    puntual que no tiene sentido monitorear como feed."""
+    unknown: dict[str, int] = {}
+
+    for path in writeup_paths:
+        with open(path, encoding="utf-8") as handle:
+            data = yaml.safe_load(handle)
+        if not isinstance(data, dict):
+            continue
+        name = data.get("source")
+        if isinstance(name, str) and name not in source_names:
+            unknown[name] = unknown.get(name, 0) + 1
+
+    for name, count in sorted(unknown.items()):
+        warn(
+            "sources",
+            f'{count} writeup(s) con source "{name}", que no está en '
+            f"sources.yaml — no van a contarse en la página de fuentes",
+        )
+
+
 def main() -> int:
     taxonomy = load_taxonomy()
     seen_urls: dict[str, str] = {}
@@ -191,6 +236,7 @@ def main() -> int:
         validate_writeup(path, taxonomy, seen_urls)
 
     source_urls = validate_sources(taxonomy)
+    check_source_links(writeups, collect_source_names())
 
     if "--urls" in sys.argv:
         check_urls(list(seen_urls.keys()) + source_urls)

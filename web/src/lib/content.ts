@@ -26,6 +26,13 @@ import {
 const DATA_DIR = path.join(process.cwd(), "..", "data");
 const WRITEUPS_DIR = path.join(DATA_DIR, "writeups");
 
+/**
+ * En build el contenido se lee una sola vez y se cachea. En dev no: Next no
+ * vigila `../data`, así que con cache habría que reiniciar el server cada vez
+ * que alguien toca un YAML. Releer 28 archivos por request no cuesta nada.
+ */
+const CACHE_ENABLED = process.env.NODE_ENV !== "development";
+
 /* ── Helpers de validación ───────────────────────────────────────────────
    Fallan ruidosamente en build antes que renderizar datos corruptos.
    El mensaje siempre nombra el archivo: quien manda el PR tiene que poder
@@ -54,6 +61,39 @@ function optionalString(
     fail(file, `el campo "${key}" tiene que ser string`);
   }
   return value.trim() || undefined;
+}
+
+/**
+ * Cualquier campo que después termine en un `href` tiene que pasar por acá.
+ *
+ * El contenido llega por pull request, así que una URL `javascript:` en un
+ * YAML sería XSS almacenado en cuanto se mergee. Sólo http(s), y se rechaza
+ * antes de que el valor llegue a un componente.
+ */
+function requireHttpUrl(file: string, obj: RawRecord, key: string): string {
+  const value = requireString(file, obj, key);
+  let parsed: URL;
+
+  try {
+    parsed = new URL(value);
+  } catch {
+    return fail(file, `"${key}" no es una URL válida: ${value}`);
+  }
+
+  if (parsed.protocol !== "http:" && parsed.protocol !== "https:") {
+    fail(file, `"${key}" tiene que usar http o https (recibí "${parsed.protocol}")`);
+  }
+
+  return value;
+}
+
+function optionalHttpUrl(
+  file: string,
+  obj: RawRecord,
+  key: string,
+): string | undefined {
+  if (obj[key] === undefined || obj[key] === null || obj[key] === "") return undefined;
+  return requireHttpUrl(file, obj, key);
 }
 
 function requireEnum<T extends string>(
@@ -135,10 +175,7 @@ function parseWriteup(fileName: string, raw: unknown): Writeup {
     fail(fileName, `"date" tiene que estar en formato YYYY-MM-DD (recibí "${date}")`);
   }
 
-  const url = requireString(fileName, obj, "url");
-  if (!/^https?:\/\//.test(url)) {
-    fail(fileName, `"url" tiene que empezar con http:// o https://`);
-  }
+  const url = requireHttpUrl(fileName, obj, "url");
 
   const bountyRaw = obj.bounty_amount;
   let bountyAmount: number | undefined;
@@ -166,7 +203,7 @@ function parseWriteup(fileName: string, raw: unknown): Writeup {
     slug: fileName.replace(/\.ya?ml$/, ""),
     title: requireString(fileName, obj, "title"),
     author: requireString(fileName, obj, "author"),
-    authorUrl: optionalString(fileName, obj, "author_url"),
+    authorUrl: optionalHttpUrl(fileName, obj, "author_url"),
     date,
     url,
     source: requireString(fileName, obj, "source"),
@@ -187,7 +224,7 @@ let writeupsCache: Writeup[] | null = null;
 
 /** Todos los writeups curados, del más reciente al más viejo. */
 export function getWriteups(): Writeup[] {
-  if (writeupsCache) return writeupsCache;
+  if (writeupsCache && CACHE_ENABLED) return writeupsCache;
 
   assertTaxonomyInSync();
 
@@ -223,7 +260,7 @@ export function getWriteups(): Writeup[] {
 let sourcesCache: Source[] | null = null;
 
 export function getSources(): Source[] {
-  if (sourcesCache) return sourcesCache;
+  if (sourcesCache && CACHE_ENABLED) return sourcesCache;
 
   const file = path.join(DATA_DIR, "sources.yaml");
   if (!fs.existsSync(file)) {
@@ -248,8 +285,8 @@ export function getSources(): Source[] {
     }
     return {
       name: requireString(label, obj, "name"),
-      url: requireString(label, obj, "url"),
-      site: requireString(label, obj, "site"),
+      url: requireHttpUrl(label, obj, "url"),
+      site: requireHttpUrl(label, obj, "site"),
       category: requireEnum<SourceCategory>(label, obj, "category", SOURCE_CATEGORIES),
       status: requireEnum<SourceStatus>(label, obj, "status", SOURCE_STATUSES),
       verified: obj.verified,
@@ -258,6 +295,21 @@ export function getSources(): Source[] {
   });
 
   return sourcesCache;
+}
+
+/**
+ * Cuántos writeups del archivo vienen de cada fuente.
+ *
+ * Es lo que responde "¿esta fuente se ve o no se ve en la página?": una
+ * fuente monitoreada con cero writeups significa que el bot la publica en
+ * Discord pero nadie curó nada de ahí todavía.
+ */
+export function getWriteupCountsBySource(): Map<string, number> {
+  const counts = new Map<string, number>();
+  for (const writeup of getWriteups()) {
+    counts.set(writeup.source, (counts.get(writeup.source) ?? 0) + 1);
+  }
+  return counts;
 }
 
 /* ── Métricas ───────────────────────────────────────────────────────────── */

@@ -1,34 +1,57 @@
-# 0xBugLetter — Fuentes monitoreadas
+# 0xBugLetter — monitored sources
 #
-# Para agregar una fuente, abrí un Pull Request añadiendo un bloque acá.
-# El CI valida que el feed sea accesible y que el schema sea correcto.
+# This file is the canonical list of what is already tracked. Check it before
+# proposing a new source, so we don't end up with duplicates.
 #
-# Campos:
-#   name      (requerido) Nombre visible de la fuente
-#   url       (requerido) URL del feed RSS/Atom
-#   site      (requerido) URL del sitio principal
-#   category  (requerido) blog | platform | researcher | podcast | news
-#   status    (requerido) active | stale | broken
-#   verified  (requerido) true si la fuente es de un autor/organización reconocida
-#   note      (opcional)  Contexto adicional
+# To add one, open a Pull Request with a new block below. CI verifies the feed
+# is reachable and the schema is correct.
+#
+# Fields:
+#   name      (required) Display name
+#   url       (required) RSS/Atom feed URL — or the site URL when status is no-feed
+#   site      (required) Main site URL
+#   category  (required) blog | platform | researcher | podcast | news
+#   status    (required) active | stale | broken | no-feed
+#   verified  (required) true when the author or org is an established name
+#   note      (optional) Extra context, shown on the site
+#
+# About `status`:
+#   active   Feed works, the bot pulls from it every day.
+#   stale    Feed works but the source rarely publishes.
+#   broken   Feed URL fails. The bot skips it. Needs a replacement URL.
+#   no-feed  Worth following, but has no usable RSS. The bot can't watch it —
+#            writeups from here are added by hand.
 
 sources:
-  # ── Investigación / Labs ────────────────────────────────────────────────
+  # ── Research & labs ─────────────────────────────────────────────────────
   - name: "PortSwigger Research"
     url: "https://portswigger.net/research/rss"
     site: "https://portswigger.net/research"
     category: blog
     status: active
     verified: true
-    note: "El equipo de James Kettle. Research original de altísimo nivel."
+    note: "James Kettle's team. Original research, consistently top tier."
 
-  - name: "ProjectDiscovery Blog"
+  - name: "ProjectDiscovery"
     url: "https://projectdiscovery.io/blog/rss/"
     site: "https://projectdiscovery.io/blog"
     category: blog
     status: active
     verified: true
-    note: "URL corregida — el feed viejo (blog.projectdiscovery.io) redirige."
+    note: "URL corrected — the old blog.projectdiscovery.io feed redirects here."
+
+  - name: "Assetnote Security Research"
+    url: "https://www.assetnote.io/resources/research"
+    site: "https://www.assetnote.io/resources/research"
+    category: blog
+    status: no-feed
+    verified: true
+    note: >-
+      Deep vulnerability research on enterprise software — the Craft CMS RCE,
+      the PAN-OS auth bypass, the Next.js middleware bypass. Still publishing
+      after the Searchlight Cyber acquisition, but the old RSS feed
+      (blog.assetnote.io) returns 404 and no replacement feed exists. Worth
+      reading anyway; writeups from here get added manually.
 
   - name: "Detectify Labs"
     url: "https://labs.detectify.com/feed/"
@@ -36,16 +59,16 @@ sources:
     category: blog
     status: stale
     verified: true
-    note: "Feed válido pero baja frecuencia de publicación."
+    note: "Feed is fine, but posts are infrequent."
 
-  # ── Plataformas ─────────────────────────────────────────────────────────
-  - name: "Intigriti Blog"
+  # ── Platforms ───────────────────────────────────────────────────────────
+  - name: "Intigriti"
     url: "https://www.intigriti.com/blog/feed/"
     site: "https://www.intigriti.com/blog"
     category: platform
     status: active
     verified: true
-    note: "URL corregida — blog.intigriti.com redirige acá. Incluye Bug Bytes."
+    note: "URL corrected — blog.intigriti.com redirects here. Includes Bug Bytes."
 
   - name: "Bugcrowd Blog"
     url: "https://www.bugcrowd.com/blog/feed/"
@@ -54,23 +77,31 @@ sources:
     status: active
     verified: true
 
+  - name: "HackerOne Blog"
+    url: "https://www.hackerone.com/blog.rss"
+    site: "https://www.hackerone.com/blog"
+    category: platform
+    status: broken
+    verified: true
+    note: "Returns 404. Needs a replacement feed URL — good first contribution."
+
   # ── Podcasts ────────────────────────────────────────────────────────────
-  - name: "Critical Thinking — Bug Bounty Podcast"
+  - name: "Critical Thinking Podcast"
     url: "https://feeds.cohostpodcasting.com/y3zHW5ae"
     site: "https://www.criticalthinkingpodcast.io"
     category: podcast
     status: active
     verified: true
-    note: "Justin Gardner (Rhynorater) y Joel Margolis (teknogeek). By hackers for hackers."
+    note: "Justin Gardner (Rhynorater) and Joel Margolis (teknogeek). By hackers, for hackers."
 
-  # ── Researchers individuales ────────────────────────────────────────────
+  # ── Individual researchers ──────────────────────────────────────────────
   - name: "NahamSec"
     url: "https://www.nahamsec.com/posts?format=rss"
     site: "https://www.nahamsec.com"
     category: researcher
     status: stale
     verified: true
-    note: "Ben Sadeghipour. Feed válido, último post Feb 2025."
+    note: "Ben Sadeghipour. Feed is valid; last post was February 2025."
 
   - name: "Vickie Li Dev"
     url: "https://vickieli.dev/feed.xml"
@@ -78,46 +109,3 @@ sources:
     category: researcher
     status: active
     verified: true
-
-  # ── Agregadores (alto volumen, baja señal) ──────────────────────────────
-  - name: "Medium · Bug Bounty"
-    url: "https://medium.com/feed/tag/bug-bounty"
-    site: "https://medium.com/tag/bug-bounty"
-    category: news
-    status: active
-    verified: false
-    note: "Alto volumen. Calidad variable — no todo lo de acá entra al archivo curado."
-
-  - name: "Medium · Bug Bounty Writeups"
-    url: "https://medium.com/feed/tag/bug-bounty-writeup"
-    site: "https://medium.com/tag/bug-bounty-writeup"
-    category: news
-    status: active
-    verified: false
-
-  - name: "Medium · Bug Bounty Hunter"
-    url: "https://medium.com/feed/tag/bug-bounty-hunter"
-    site: "https://medium.com/tag/bug-bounty-hunter"
-    category: news
-    status: active
-    verified: false
-
-  # ── Rotas / pendientes de reemplazo ─────────────────────────────────────
-  - name: "Assetnote Research"
-    url: "https://blog.assetnote.io/feed/"
-    site: "https://www.assetnote.io/resources/research"
-    category: blog
-    status: broken
-    verified: true
-    note: >-
-      Devuelve 404. Assetnote fue adquirida por Searchlight Cyber (Ene 2025).
-      El research sigue publicándose en assetnote.io/resources/research pero sin
-      feed RSS funcional. Buscar reemplazo.
-
-  - name: "HackerOne Blog"
-    url: "https://www.hackerone.com/blog.rss"
-    site: "https://www.hackerone.com/blog"
-    category: platform
-    status: broken
-    verified: true
-    note: "Devuelve 404. Buscar la URL nueva del feed."
