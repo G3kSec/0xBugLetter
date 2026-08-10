@@ -1,11 +1,12 @@
 name: Daily Post
+
 on:
   schedule:
     - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  post:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,16 +18,23 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
 
-      - name: Run script
+      - name: Run bot
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: chmod +x ./.github/scripts/start.sh && /usr/bin/bash ./.github/scripts/start.sh
+          MAX_DAILY: "3"
+          MAX_AGE_DAYS: "45"
+        run: |
+          chmod +x ./.github/scripts/start.sh
+          ./.github/scripts/start.sh
 
-      - name: Commit & Push
+      - name: Commit new archive entries
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "💣 Automated Daily Post 🔥"
+          commit_message: "chore: auto-archive daily drop"
+          file_pattern: data/writeups/*.yaml
           commit_user_name: G3kSec [GitHub Actions]
           commit_author: G3kSec <g3ksec@users.noreply.github.com>

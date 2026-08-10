@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Drag and Pwnd: Leverage ASCII characters to exploit VS Code"
+author: "PortSwigger Research"
+date: "2025-04-30"
+url: "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "RCE"
+severity: "High"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "vscode"
+  - "ascii"
+  - "desktop-app"

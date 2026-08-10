@@ -1,0 +1,70 @@
+name: Proponer un writeup
+description: Sugerir un writeup o research para el archivo curado
+title: "[writeup] "
+labels: ["writeup", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Si te animás a mandar el PR directamente es más rápido — mirá
+        [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md). Si no, completá esto
+        y alguien lo agrega.
+
+  - type: input
+    id: url
+    attributes:
+      label: URL del writeup
+      placeholder: https://…
+    validations:
+      required: true
+
+  - type: input
+    id: author
+    attributes:
+      label: Autor
+      description: Handle o nombre de quien lo escribió.
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Fecha de publicación
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severidad
+      description: Para research sin un bug puntual, elegí Info.
+      options: [Critical, High, Medium, Low, Info]
+    validations:
+      required: true
+
+  - type: input
+    id: bug_type
+    attributes:
+      label: Tipo de bug
+      description: Tiene que estar en data/taxonomy.yaml (ej. SSRF, IDOR, Methodology).
+    validations:
+      required: true
+
+  - type: input
+    id: bounty
+    attributes:
+      label: Bounty (opcional)
+      description: >-
+        Sólo si el monto es público. Si no lo es, dejalo vacío — no estimes.
+      placeholder: "5000 USD"
+
+  - type: textarea
+    id: why
+    attributes:
+      label: ¿Por qué entra?
+      description: >-
+        El criterio es autor reconocido en la comunidad o resultados
+        demostrables. Contanos cuál aplica.
+    validations:
+      required: true

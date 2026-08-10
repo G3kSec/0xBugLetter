@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Repeater Strike: manual testing, amplified"
+author: "PortSwigger Research"
+date: "2025-07-15"
+url: "https://portswigger.net/research/repeater-strike-manual-testing-amplified"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "burp"
+  - "tooling"
+  - "manual-testing"

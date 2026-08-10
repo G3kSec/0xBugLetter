@@ -1,0 +1,31 @@
+name: Reportar una fuente rota
+description: Un feed RSS que dejó de responder o cambió de URL
+title: "[fuente] "
+labels: ["source", "bug"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Nombre de la fuente
+      description: Como aparece en data/sources.yaml.
+    validations:
+      required: true
+
+  - type: input
+    id: old_url
+    attributes:
+      label: URL que falla
+    validations:
+      required: true
+
+  - type: input
+    id: new_url
+    attributes:
+      label: URL nueva (si la conocés)
+      description: Con esto el arreglo es de una línea.
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Qué devuelve
+      placeholder: "404 / redirige a … / feed vacío / timeout"

@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "RAG and ruin: why your existing controls may miss AI poisoning attacks"
+author: "Intigriti"
+date: "2026-07-28"
+url: "https://www.intigriti.com/blog/business-insights/why-your-existing-controls-may-miss-ai-poisoning-attacks"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "LLM / AI"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "Key takeaways RAG systems expand the application’s trust boundary by adding external, mutable content to the model context. If a threat actor can influence what gets indexed and retrieved, they can influence what the model says or does. In simple QA systems, that may mean misinformation or unsafe recommendations. In agentic systems with tools and permissions, it can become data leakage, un"
+
+tags:
+  - "llm-ai"
+  - "business-insights"

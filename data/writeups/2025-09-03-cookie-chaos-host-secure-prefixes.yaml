@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes"
+author: "PortSwigger Research"
+date: "2025-09-03"
+url: "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Session"
+severity: "High"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "cookies"
+  - "session-fixation"
+  - "browser"

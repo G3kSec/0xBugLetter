@@ -1,0 +1,23 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "My Expense Report resulted in a Server-Side Request Forgery (SSRF) on Lyft"
+author: "Ben Sadeghipour (NahamSec)"
+author_url: "https://www.nahamsec.com"
+date: "2020-05-29"
+url: "https://www.nahamsec.com/posts/my-expense-report-resulted-in-a-server-side-request-forgery-ssrf-on-lyft"
+source: "NahamSec"
+
+# Clasificación
+bug_type: "SSRF"
+severity: "High"
+
+# Programa
+platform: "HackerOne"
+program: "Lyft"
+
+summary: "Un flujo de expense report que renderiza PDF del lado del servidor termina en SSRF. Clásico del género y todavía vigente como patrón."
+
+tags:
+  - "ssrf"
+  - "pdf-generation"
+  - "cloud-metadata"

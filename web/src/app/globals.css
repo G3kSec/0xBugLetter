@@ -1,0 +1,350 @@
+@import "tailwindcss";
+
+/* ═══════════════════════════════════════════════════════════════════════
+   0xBugLetter — Design tokens
+
+   Green accent, shared with the rest of the 0x family (portfolio,
+   0xHashFavicon). Neutrals carry a slight green bias so the accent reads
+   as part of the surface rather than pasted on top of it.
+
+   The CVSS severity ramp (red → orange → amber → slate) stays entirely
+   separate from the accent, so brand and severity never compete.
+   ═══════════════════════════════════════════════════════════════════════ */
+
+:root {
+  /* Surfaces */
+  --ground: #f7faf8;
+  --surface: #ffffff;
+  --surface-2: #eaf1ec;
+  --surface-3: #dde8e0;
+
+  /* Borders */
+  --border: #d2e0d6;
+  --border-subtle: #e6eee9;
+  --border-strong: #b5c8bb;
+
+  /* Text */
+  --text: #0b0e0b;
+  --text-2: #4f5a52;
+  --text-3: #66756b;
+
+  /* Accent */
+  --accent: #006e34;
+  --accent-hover: #005527;
+  --accent-contrast: #f8fef8;
+  --accent-bg: #006e3414;
+  --accent-border: #006e3440;
+
+  /* CVSS severity ramp — semantic, deliberately outside the accent hue */
+  --sev-critical: #b4162c;
+  --sev-critical-bg: #b4162c14;
+  --sev-high: #c2500f;
+  --sev-high-bg: #c2500f14;
+  --sev-medium: #96690a;
+  --sev-medium-bg: #96690a14;
+  --sev-low: #5f6d64;
+  --sev-low-bg: #5f6d6414;
+  --sev-info: #6b776f;
+  --sev-info-bg: #6b776f14;
+
+  /* Confirmed payout — money is green, and so is the brand; reusing the
+     accent here is coherent rather than a collision. */
+  --paid: #006e34;
+  --paid-bg: #006e3414;
+  --paid-border: #006e3440;
+
+  --shadow-sm: 0 1px 2px rgb(11 14 11 / 0.05);
+  --shadow-md: 0 2px 10px rgb(11 14 11 / 0.07);
+  --shadow-lg: 0 8px 30px rgb(11 14 11 / 0.1);
+
+  --grid-line: #0b0e0b0a;
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ground: #070907;
+    --surface: #0d110e;
+    --surface-2: #131a15;
+    --surface-3: #152317;
+
+    --border: #1f2a21;
+    --border-subtle: #161e17;
+    --border-strong: #314234;
+
+    --text: #e5e9e5;
+    --text-2: #939e95;
+    --text-3: #727f75;
+
+    --accent: #46d76f;
+    --accent-hover: #6ce28d;
+    --accent-contrast: #070907;
+    --accent-bg: #46d76f1a;
+    --accent-border: #46d76f4d;
+
+    --sev-critical: #ff6d80;
+    --sev-critical-bg: #ff6d801a;
+    --sev-high: #ff9354;
+    --sev-high-bg: #ff93541a;
+    --sev-medium: #e8b53d;
+    --sev-medium-bg: #e8b53d1a;
+    --sev-low: #8b9a8f;
+    --sev-low-bg: #8b9a8f1a;
+    --sev-info: #7d8a81;
+    --sev-info-bg: #7d8a811a;
+
+    --paid: #46d76f;
+    --paid-bg: #46d76f1a;
+    --paid-border: #46d76f4d;
+
+    --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
+    --shadow-md: 0 2px 10px rgb(0 0 0 / 0.4);
+    --shadow-lg: 0 8px 30px rgb(0 0 0 / 0.5);
+
+    --grid-line: #e5e9e50a;
+
+    color-scheme: dark;
+  }
+}
+
+/* The explicit toggle has to beat the media query in both directions. */
+:root[data-theme="dark"] {
+  --ground: #070907;
+  --surface: #0d110e;
+  --surface-2: #131a15;
+  --surface-3: #152317;
+
+  --border: #1f2a21;
+  --border-subtle: #161e17;
+  --border-strong: #314234;
+
+  --text: #e5e9e5;
+  --text-2: #939e95;
+  --text-3: #727f75;
+
+  --accent: #46d76f;
+  --accent-hover: #6ce28d;
+  --accent-contrast: #070907;
+  --accent-bg: #46d76f1a;
+  --accent-border: #46d76f4d;
+
+  --sev-critical: #ff6d80;
+  --sev-critical-bg: #ff6d801a;
+  --sev-high: #ff9354;
+  --sev-high-bg: #ff93541a;
+  --sev-medium: #e8b53d;
+  --sev-medium-bg: #e8b53d1a;
+  --sev-low: #8b9a8f;
+  --sev-low-bg: #8b9a8f1a;
+  --sev-info: #7d8a81;
+  --sev-info-bg: #7d8a811a;
+
+  --paid: #46d76f;
+  --paid-bg: #46d76f1a;
+  --paid-border: #46d76f4d;
+
+  --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.3);
+  --shadow-md: 0 2px 10px rgb(0 0 0 / 0.4);
+  --shadow-lg: 0 8px 30px rgb(0 0 0 / 0.5);
+
+  --grid-line: #e5e9e50a;
+
+  color-scheme: dark;
+}
+
+:root[data-theme="light"] {
+  --ground: #f7faf8;
+  --surface: #ffffff;
+  --surface-2: #eaf1ec;
+  --surface-3: #dde8e0;
+
+  --border: #d2e0d6;
+  --border-subtle: #e6eee9;
+  --border-strong: #b5c8bb;
+
+  --text: #0b0e0b;
+  --text-2: #4f5a52;
+  --text-3: #66756b;
+
+  --accent: #006e34;
+  --accent-hover: #005527;
+  --accent-contrast: #f8fef8;
+  --accent-bg: #006e3414;
+  --accent-border: #006e3440;
+
+  --sev-critical: #b4162c;
+  --sev-critical-bg: #b4162c14;
+  --sev-high: #c2500f;
+  --sev-high-bg: #c2500f14;
+  --sev-medium: #96690a;
+  --sev-medium-bg: #96690a14;
+  --sev-low: #5f6d64;
+  --sev-low-bg: #5f6d6414;
+  --sev-info: #6b776f;
+  --sev-info-bg: #6b776f14;
+
+  --paid: #006e34;
+  --paid-bg: #006e3414;
+  --paid-border: #006e3440;
+
+  --shadow-sm: 0 1px 2px rgb(11 14 11 / 0.05);
+  --shadow-md: 0 2px 10px rgb(11 14 11 / 0.07);
+  --shadow-lg: 0 8px 30px rgb(11 14 11 / 0.1);
+
+  --grid-line: #0b0e0b0a;
+
+  color-scheme: light;
+}
+
+/* ── Tailwind utility mapping ─────────────────────────────────────────── */
+
+@theme inline {
+  --color-ground: var(--ground);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-surface-3: var(--surface-3);
+
+  --color-line: var(--border);
+  --color-line-subtle: var(--border-subtle);
+  --color-line-strong: var(--border-strong);
+
+  --color-ink: var(--text);
+  --color-ink-2: var(--text-2);
+  --color-ink-3: var(--text-3);
+
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-contrast: var(--accent-contrast);
+  --color-accent-bg: var(--accent-bg);
+  --color-accent-border: var(--accent-border);
+
+  --color-critical: var(--sev-critical);
+  --color-critical-bg: var(--sev-critical-bg);
+  --color-high: var(--sev-high);
+  --color-high-bg: var(--sev-high-bg);
+  --color-medium: var(--sev-medium);
+  --color-medium-bg: var(--sev-medium-bg);
+  --color-low: var(--sev-low);
+  --color-low-bg: var(--sev-low-bg);
+  --color-info: var(--sev-info);
+  --color-info-bg: var(--sev-info-bg);
+
+  --color-paid: var(--paid);
+  --color-paid-bg: var(--paid-bg);
+  --color-paid-border: var(--paid-border);
+
+  --font-sans: var(--font-plex-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, "SFMono-Regular", monospace;
+
+  /* Dense type scale, tuned for a data-heavy UI */
+  --text-2xs: 0.6875rem;
+  --text-2xs--line-height: 1.4;
+  --text-xs: 0.75rem;
+  --text-xs--line-height: 1.5;
+  --text-sm: 0.8125rem;
+  --text-sm--line-height: 1.55;
+  --text-base: 0.9375rem;
+  --text-base--line-height: 1.65;
+  --text-lg: 1.0625rem;
+  --text-lg--line-height: 1.55;
+  --text-xl: 1.25rem;
+  --text-xl--line-height: 1.4;
+  --text-2xl: 1.5rem;
+  --text-2xl--line-height: 1.3;
+  --text-3xl: 2rem;
+  --text-3xl--line-height: 1.2;
+  --text-4xl: 2.75rem;
+  --text-4xl--line-height: 1.08;
+  --text-5xl: 3.5rem;
+  --text-5xl--line-height: 1.04;
+}
+
+/* ── Base ─────────────────────────────────────────────────────────────── */
+
+* {
+  border-color: var(--border-subtle);
+}
+
+html {
+  background: var(--ground);
+}
+
+body {
+  background: var(--ground);
+  color: var(--text);
+  font-family: var(--font-plex-sans), ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.9375rem;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: var(--accent-bg);
+  color: var(--accent);
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Anything that responds to a click should say so. */
+button:not(:disabled),
+[role="button"]:not(:disabled),
+summary {
+  cursor: pointer;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--border-strong) transparent;
+}
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 6px;
+  border: 3px solid var(--ground);
+}
+
+/* ── Custom utilities ─────────────────────────────────────────────────── */
+
+/* Faint graph-paper grid — the research notebook, not a fake terminal. */
+@utility grid-bg {
+  background-image:
+    linear-gradient(to right, var(--grid-line) 1px, transparent 1px),
+    linear-gradient(to bottom, var(--grid-line) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+@utility label {
+  font-family: var(--font-plex-mono), ui-monospace, monospace;
+  font-size: var(--text-2xs);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-3);
+}
+
+@utility nums {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum";
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

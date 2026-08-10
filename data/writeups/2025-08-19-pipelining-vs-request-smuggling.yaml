@@ -1,0 +1,21 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling"
+author: "PortSwigger Research"
+date: "2025-08-19"
+url: "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Request Smuggling"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+summary: "Lectura obligada antes de reportar un smuggling: la mayoría de los falsos positivos vienen de confundir pipelining con desync."
+
+tags:
+  - "http-smuggling"
+  - "false-positive"
+  - "triage"

@@ -1,15 +1,15 @@
 #!/bin/bash
-set -e
+set -euo pipefail
 
-echo "Instalando dependencias..."
-pip install -r requirements.txt
-
-if [ -z "$DISCORD_WEBHOOK" ]; then
-  echo "Error: DISCORD_WEBHOOK no definido."
+if [ -z "${DISCORD_WEBHOOK:-}" ]; then
+  echo "Error: DISCORD_WEBHOOK no está definido."
   exit 1
 fi
 
-echo "🏃 Ejecutando index.py..."
-python3 ./index.py
+echo "📦 Instalando dependencias..."
+pip install --quiet -r bot/requirements.txt
 
-echo "✅ Script completado con éxito."
+echo "🏃 Ejecutando el bot..."
+python3 bot/index.py
+
+echo "✅ Listo."

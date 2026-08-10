@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Intigriti Bug Bytes #238 — July 2026"
+author: "Ayoub Safa"
+date: "2026-07-31"
+url: "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-238-july-2026"
+source: "Intigriti"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Intigriti"
+
+tags:
+  - "newsletter"
+  - "curated"
+  - "monthly"

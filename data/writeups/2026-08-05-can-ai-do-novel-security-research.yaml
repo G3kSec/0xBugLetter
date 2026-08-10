@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Can AI do novel security research? Meet the HTTP Terminator"
+author: "PortSwigger Research"
+date: "2026-08-05"
+url: "https://portswigger.net/research/can-ai-do-novel-security-research"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "LLM / AI"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "ai"
+  - "research"
+  - "automation"

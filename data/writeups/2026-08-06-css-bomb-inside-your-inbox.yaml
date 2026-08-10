@@ -1,0 +1,24 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "CSS: the bomb inside your inbox"
+author: "Gareth Heyes"
+author_url: "https://portswigger.net/research/gareth-heyes"
+date: "2026-08-06"
+url: "https://portswigger.net/research/css-the-bomb-inside-your-inbox"
+source: "PortSwigger Research"
+
+# Clasificación
+bug_type: "Info Disclosure"
+severity: "High"
+
+# Programa
+platform: "Independent"
+
+summary: "CSS sanitizado en clientes de webmail resulta suficiente para exfiltrar tokens con attribute selectors, spoofear UI y montar un keylogger sin una línea de JavaScript. Afecta a Gmail, Outlook, Fastmail y ProtonMail."
+
+tags:
+  - "css-injection"
+  - "webmail"
+  - "sanitizer-bypass"
+  - "exfiltration"
+  - "keylogger"

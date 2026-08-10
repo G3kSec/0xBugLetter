@@ -1,0 +1,22 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Beyond CVSS: rethinking scoring systems amidst AI Safety and Security"
+author: "Eleanor Barlow"
+date: "2026-08-06"
+url: "https://www.intigriti.com/blog/business-insights/rethinking-cvss-scoring-systems-amidst-ai-safety-and-security"
+source: "Intigriti"
+
+# Clasificación
+bug_type: "Methodology"
+severity: "Info"
+
+# Programa
+platform: "Intigriti"
+
+summary: "CVSS no fue diseñado para bugs de sistemas de IA. El artículo discute por qué la escala se rompe y qué alternativas hay sobre la mesa."
+
+tags:
+  - "cvss"
+  - "scoring"
+  - "ai"
+  - "triage"

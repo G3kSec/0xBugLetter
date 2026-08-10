@@ -1,0 +1,20 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Episode 183: PortSwigger Research Impossible XSS SOLVED"
+author: "Justin Gardner & Joel Margolis"
+author_url: "https://www.criticalthinkingpodcast.io"
+date: "2026-07-16"
+url: "https://www.criticalthinkingpodcast.io/portswigger-research-impossible-xss-solved/"
+source: "Critical Thinking Podcast"
+
+# Clasificación
+bug_type: "XSS"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "podcast"
+  - "xss"
+  - "challenge"

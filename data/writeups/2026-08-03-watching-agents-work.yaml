@@ -1,0 +1,19 @@
+# Verificado contra el feed RSS de la fuente.
+
+title: "Watching Agents Work: A Behavioral Audit of Offensive-Security LLM Runs"
+author: "ProjectDiscovery"
+date: "2026-08-03"
+url: "https://projectdiscovery.io/blog/watching-agents-work-a-behavioral-audit-of-offensive-security-llm-runs"
+source: "ProjectDiscovery"
+
+# Clasificación
+bug_type: "LLM / AI"
+severity: "Info"
+
+# Programa
+platform: "Independent"
+
+tags:
+  - "ai-agents"
+  - "offensive-security"
+  - "audit"

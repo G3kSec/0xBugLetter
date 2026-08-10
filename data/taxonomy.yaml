@@ -1,0 +1,69 @@
+# Taxonomías cerradas de 0xBugLetter.
+#
+# Este archivo es la única fuente de verdad: lo leen el validador de PRs
+# (Python) y el loader de la web (TypeScript). Si agregás un valor acá,
+# agregalo también a web/src/lib/types.ts en el mismo PR — el build falla
+# a propósito si las dos listas no coinciden.
+#
+# Las listas están cerradas por diseño. Si cada writeup inventa su propia
+# categoría, los filtros dejan de servir para algo.
+
+severities:
+  - Critical
+  - High
+  - Medium
+  - Low
+  - Info
+
+platforms:
+  - HackerOne
+  - Bugcrowd
+  - Intigriti
+  - YesWeHack
+  - Independent
+  - Vendor VDP
+
+bug_types:
+  - XSS
+  - SSRF
+  - IDOR
+  - SQLi
+  - RCE
+  - Auth Bypass
+  - Access Control
+  - Race Condition
+  - CSRF
+  - Open Redirect
+  - Info Disclosure
+  - Business Logic
+  - File Upload
+  - XXE
+  - Deserialization
+  - Request Smuggling
+  - Cache Poisoning
+  - Prototype Pollution
+  - SSTI
+  - WebSocket
+  - Session
+  - Subdomain Takeover
+  - GraphQL
+  - OAuth
+  - SAML
+  - LLM / AI
+  - Supply Chain
+  - Cloud Misconfig
+  - Recon
+  - Methodology
+
+source_categories:
+  - blog
+  - platform
+  - researcher
+  - podcast
+  - news
+
+source_statuses:
+  - active
+  - stale
+  - broken
+  - no-feed
