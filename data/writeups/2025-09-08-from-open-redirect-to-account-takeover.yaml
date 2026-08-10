@@ -1,0 +1,27 @@
+# Scraped and verified against the source at g3ksec.xyz/writeups/ —
+# author's own report, cross-checked against the article's markdown source
+# (not just the rendered page) before filling in severity.
+
+title: "From Open Redirect to Account Takeover"
+author: "G3kSec"
+author_url: "https://hackerone.com/g3ksec"
+date: "2025-09-08"
+url: "https://g3ksec.xyz/writeups/from-open-redirect-to-account-takeover"
+source: "G3kSec Blog"
+
+# Classification
+bug_type: "Open Redirect"
+severity: "Medium"
+
+# Program
+platform: "Independent"
+# Program name isn't disclosed in the writeup (uses "target.com" as a
+# placeholder) — left blank rather than guessed.
+
+summary: "An open redirect in a phone-based login flow chained into account takeover — a redirectTo parameter carrying the auth token was bypassed with the classic @ URL trick, escalating a commonly-dismissed low-severity bug into full token theft."
+
+tags:
+  - "open-redirect"
+  - "account-takeover"
+  - "at-symbol-bypass"
+  - "token-leakage"
