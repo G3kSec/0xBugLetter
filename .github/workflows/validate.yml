@@ -29,6 +29,27 @@ jobs:
       - name: Validate content
         run: python .github/scripts/validate.py --urls
 
+  bot:
+    name: Bot dry run
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: bot/requirements.txt
+
+      - name: Install deps
+        run: pip install --quiet -r bot/requirements.txt
+
+      # Exercises the real feeds and the whole selection path without a
+      # webhook, so a PR that adds a source proves the bot can read it before
+      # anyone merges.
+      - name: Dry run
+        run: python bot/index.py --dry-run
+
   web:
     name: Build
     runs-on: ubuntu-latest

@@ -74,8 +74,11 @@ sources:
     url: "https://www.bugcrowd.com/blog/feed/"
     site: "https://www.bugcrowd.com/blog"
     category: platform
-    status: active
+    status: broken
     verified: true
+    note: >-
+      Responde 200 pero devuelve HTML en vez de RSS, así que el parser saca
+      cero entradas. Hace falta encontrar la URL real del feed.
 
   - name: "HackerOne Blog"
     url: "https://www.hackerone.com/blog.rss"
@@ -107,5 +110,6 @@ sources:
     url: "https://vickieli.dev/feed.xml"
     site: "https://vickieli.dev"
     category: researcher
-    status: active
+    status: stale
     verified: true
+    note: "Feed válido, pero el último post es de agosto de 2023."

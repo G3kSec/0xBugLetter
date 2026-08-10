@@ -69,26 +69,23 @@ Value:  https://discord.com/api/webhooks/...`}
 
         <Step n={4} title="Adjust the schedule (optional)">
           <p>
-            It runs at 01:00 UTC and posts up to 3 articles a day. Change it in
-            the workflow:
+            It runs at 01:00 UTC and posts up to 3 articles a day. Both are
+            configurable:
           </p>
           <CodeBlock title=".github/workflows/post.yml">
             {`on:
   schedule:
     - cron: "0 1 * * *"   # daily, 01:00 UTC
-  workflow_dispatch:       # can also be triggered by hand`}
+  workflow_dispatch:       # can also be triggered by hand
+
+# ...
+
+- name: Run bot
+  env:
+    DISCORD_WEBHOOK: \${{ secrets.DISCORD_WEBHOOK }}
+    MAX_DAILY: "3"        # articles per run
+    MAX_AGE_DAYS: "45"    # older than this is backlog, not news`}
           </CodeBlock>
-          <p>
-            The daily cap lives in{" "}
-            <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
-              MAX_DAILY
-            </code>{" "}
-            inside{" "}
-            <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
-              bot/index.py
-            </code>
-            .
-          </p>
         </Step>
 
         <Step n={5} title="Try it">
@@ -98,8 +95,56 @@ Value:  https://discord.com/api/webhooks/...`}
             <strong className="text-ink">Run workflow</strong>. If the webhook is
             correct, the posts show up in your channel within seconds.
           </p>
+          <p>
+            To see what it would send without sending anything — no webhook
+            required:
+          </p>
+          <CodeBlock title="Terminal">
+            {`pip install -r bot/requirements.txt
+python bot/index.py --dry-run`}
+          </CodeBlock>
         </Step>
       </ol>
+
+      <section className="mt-12">
+        <h2 className="text-xl font-semibold tracking-tight">
+          How it decides what to post
+        </h2>
+        <p className="mt-2 max-w-[62ch] text-ink-2">
+          Two rules do most of the work, and both exist because the naive
+          version behaved badly.
+        </p>
+
+        <div className="mt-4 flex flex-col gap-3">
+          <div className="rounded-md border border-line-subtle bg-surface p-4">
+            <h3 className="font-semibold tracking-tight">
+              One article per source, per pass
+            </h3>
+            <p className="mt-1.5 max-w-[62ch] text-sm text-ink-2">
+              The bot cycles through the sources instead of walking the file
+              top to bottom. Without this, whichever feed sits first in{" "}
+              <code className="rounded-sm bg-surface-2 px-1 py-0.5 font-mono text-xs">
+                sources.yaml
+              </code>{" "}
+              takes every slot — in practice PortSwigger consumed all three
+              every day and the sources further down were never reached.
+            </p>
+          </div>
+
+          <div className="rounded-md border border-line-subtle bg-surface p-4">
+            <h3 className="font-semibold tracking-tight">
+              Anything older than 45 days is backlog
+            </h3>
+            <p className="mt-1.5 max-w-[62ch] text-sm text-ink-2">
+              Several of these feeds still expose posts from 2017&ndash;2023. A
+              feed being new to the bot doesn&rsquo;t make its archive news, so old
+              entries are skipped rather than announced as a &ldquo;new read&rdquo;.
+              This also stops a freshly added source from flooding the channel
+              with years of history.
+            </p>
+          </div>
+        </div>
+      </section>
 
       <section className="mt-12">
         <h2 className="text-xl font-semibold tracking-tight">
