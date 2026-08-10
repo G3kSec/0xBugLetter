@@ -31,10 +31,10 @@ jobs:
           chmod +x ./.github/scripts/start.sh
           ./.github/scripts/start.sh
 
-      - name: Commit history
+      - name: Commit new archive entries
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: daily drop"
-          file_pattern: bot/sent_urls.txt
+          commit_message: "chore: auto-archive daily drop"
+          file_pattern: data/writeups/*.yaml
           commit_user_name: G3kSec [GitHub Actions]
           commit_author: G3kSec <g3ksec@users.noreply.github.com>

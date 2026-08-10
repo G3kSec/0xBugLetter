@@ -3,9 +3,16 @@
 Gracias por querer sumar. Hay tres tipos de contribución, ordenados por lo
 seguido que pasan.
 
+**La mayoría de las entradas del archivo las agrega el bot solo**, todos los
+días, desde las fuentes marcadas `verified: true` en `data/sources.yaml` —
+ver [bot/README.md](bot/README.md#classification-read-this-part) para cómo
+funciona eso. Lo de acá abajo aplica cuando querés agregar algo que el bot no
+va a encontrar solo (una fuente que todavía no está en la lista, un artículo
+puntual, o corregir una clasificación que el bot adivinó mal).
+
 ---
 
-## 1. Agregar un writeup
+## 1. Agregar un writeup a mano
 
 ### Criterio de inclusión
 
@@ -90,14 +97,31 @@ Sumá un bloque a `data/sources.yaml`:
   url: "https://ejemplo.com/feed.xml"
   site: "https://ejemplo.com"
   category: blog          # blog | platform | researcher | podcast | news
-  status: active          # active | stale | broken
+  status: active          # active | stale | broken | no-feed
   verified: true          # ¿autor u organización reconocida?
   note: "Contexto opcional."
 ```
 
+`verified: true` no es un detalle menor acá: es lo único que hace de filtro
+de calidad antes de que el bot empiece a archivar de esa fuente
+automáticamente. No lo marques así sin haber revisado quién publica ahí.
+
 **Reportar un feed roto también cuenta**, y es la contribución más rápida de
 revisar. Si una fuente marcada `broken` tiene URL nueva, cambiala y sacale la
-marca.
+marca. Si un feed no expone una URL propia por artículo (algunos hosts de
+podcast hacen esto), el bot la salta automáticamente — mirá la nota de
+Critical Thinking Podcast en `data/sources.yaml` como ejemplo de cómo
+documentarlo.
+
+---
+
+## Corregir una entrada auto-archivada
+
+El bot clasifica por keywords, no lee el artículo — se equivoca. Cualquier
+YAML en `data/writeups/` que empiece con el comentario `# Auto-archived by
+bot/index.py` viene sin revisión humana. Si `bug_type` o `severity` están
+mal, o falta `bounty_amount` porque el bot no puede inferirlo, es un archivo
+normal: editalo y mandá el PR, como cualquier otro cambio.
 
 ---
 

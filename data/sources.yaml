@@ -95,7 +95,12 @@ sources:
     category: podcast
     status: active
     verified: true
-    note: "Justin Gardner (Rhynorater) and Joel Margolis (teknogeek). By hackers, for hackers."
+    note: >-
+      Justin Gardner (Rhynorater) and Joel Margolis (teknogeek). By hackers,
+      for hackers. The feed's <link> field always points at the homepage
+      instead of the episode, so the bot can't dedup reliably and skips this
+      source entirely — add episodes manually with the real URL from
+      criticalthinkingpodcast.io.
 
   # ── Individual researchers ──────────────────────────────────────────────
   - name: "NahamSec"

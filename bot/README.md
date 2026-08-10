@@ -1,10 +1,17 @@
 # The bot
 
-Reads the feeds in `data/sources.yaml`, picks what hasn't been posted yet and
-sends it to Discord. Runs as a GitHub Action, once a day at 01:00 UTC.
+Reads the feeds in `data/sources.yaml`, works out what isn't archived yet,
+writes a new entry to `data/writeups/` for it, and posts it to Discord. Runs
+as a GitHub Action, once a day at 01:00 UTC.
 
-There is no server and no database. State is one text file that the Action
-commits back to the repo.
+There is no server, no database, and no separate history file. The archive
+itself is the state: an article is "already handled" once a YAML file for its
+URL exists in `data/writeups/`, whether the bot wrote it or a human did.
+
+**This is fully automatic — nothing is queued for review.** New entries land
+in `data/writeups/` and get committed by the same run that fetches them. Read
+[Classification](#classification-read-this-part) below before trusting the
+`bug_type`/`severity` on an auto-archived entry for anything that matters.
 
 ---
 
@@ -25,22 +32,24 @@ commits back to the repo.
                      exit 1│            ▼
                            │  ┌──────────────────────────┐
                            │  │  Load data/sources.yaml  │
-                           │  │  drop broken / no-feed   │
+                           │  │  drop broken / no-feed / │
+                           │  │  unverified               │
                            │  └────────────┬─────────────┘
                            │               ▼
                            │  ┌──────────────────────────┐
-                           │  │  Load bot/sent_urls.txt  │
-                           │  │  → the "already posted"  │
-                           │  │    set                   │
+                           │  │  Scan data/writeups/*.yaml│
+                           │  │  → set of archived URLs   │
                            │  └────────────┬─────────────┘
                            │               ▼
-                           │  ┌──────────────────────────────────────┐
-                           │  │  FOR EACH source                     │
-                           │  │    GET feed (20s timeout, own UA)    │
-                           │  │    take newest 15 entries            │
-                           │  │    drop: already sent (URL normalised)│
-                           │  │    drop: older than MAX_AGE_DAYS      │
-                           │  │    sort newest first                  │
+                           │  ┌────────────────────────────────────────┐
+                           │  │  FOR EACH source                       │
+                           │  │    GET feed (20s timeout, own UA)      │
+                           │  │    entries share one link? → skip      │
+                           │  │      source (can't dedup reliably)     │
+                           │  │    take newest 15 entries              │
+                           │  │    drop: URL already archived          │
+                           │  │    drop: older than MAX_AGE_DAYS       │
+                           │  │    sort newest first                    │
                            │  └────────────┬─────────────────────────┘
                            │               ▼
                            │  ┌──────────────────────────┐
@@ -56,66 +65,80 @@ commits back to the repo.
                            │         │  └────────────┬─────────────┘
                            │         │               ▼
                            │         │  ┌──────────────────────────┐
+                           │         │  │  Classify: bug_type,     │
+                           │         │  │  severity, platform      │
+                           │         │  │  (keyword match, see     │
+                           │         │  │  below)                  │
+                           │         │  └────────────┬─────────────┘
+                           │         │               ▼
+                           │         │  ┌──────────────────────────┐
+                           │         │  │  Write data/writeups/    │
+                           │         │  │  {date}-{slug}.yaml       │
+                           │         │  └────────────┬─────────────┘
+                           │         │               ▼
+                           │         │  ┌──────────────────────────┐
                            │         │  │  POST header (once)      │
                            │         │  │  POST each article       │
                            │         │  │  429 → back off, max 3   │
                            │         │  └────────────┬─────────────┘
                            │         │               ▼
                            │         │  ┌──────────────────────────┐
-                           │         │  │  Rewrite sent_urls.txt:  │
-                           │         │  │  add sent + drop entries │
-                           │         │  │  older than MAX_AGE_DAYS │
-                           │         │  └────────────┬─────────────┘
-                           │         │               ▼
-                           │         │  ┌──────────────────────────┐
-                           │         │  │  Action commits history  │
+                           │         │  │  Action commits the new  │
+                           │         │  │  data/writeups/*.yaml     │
                            │         │  └────────────┬─────────────┘
                            ▼         ▼               ▼
-                        exit 1    exit 0    exit 0 (sent) / 1 (all failed)
+                        exit 1    exit 0          exit 0
 ```
 
----
-
-## The two rules that shape what gets posted
-
-**Round-robin across sources.** One article per source per pass, so no feed
-monopolises the day. Previously the bot walked `sources.yaml` in order and
-stopped at the cap — PortSwigger sat first in the file and consumed all three
-slots every single day, and the sources at the bottom were never reached at
-all.
-
-**A recency window.** Anything older than `MAX_AGE_DAYS` is backlog, not news.
-Several of these feeds still expose entries from 2017-2023; without the window
-the bot would announce a nine-year-old post as a "new read". It also stops a
-newly added source from dumping its entire archive into the channel over the
-following weeks.
+The archive write happens **before** the Discord post and doesn't depend on
+it succeeding. If Discord is down, the entry still gets archived and
+committed — Discord is a notification side-channel now, not the source of
+truth. A failed post is logged and not retried; the entry already exists, so
+next run's dedup check would just skip it again anyway.
 
 ---
 
-## About `sent_urls.txt`
+## Classification — read this part
 
-Some state has to persist between runs — otherwise the bot can't tell what it
-already posted. But it doesn't need to remember forever: an article older
-than `MAX_AGE_DAYS` gets rejected by the age filter regardless of whether it's
-in this file, so keeping it around past that point is pure waste.
+RSS gives a title and a summary, nothing more. There's no reliable way to
+know the actual bug type, severity, or bounty amount from that alone — a
+human curator used to read the article. This is keyword matching over the
+title and summary text (see `BUG_TYPE_PATTERNS` in `bot/index.py`), and **it
+gets things wrong**.
 
-Each line is `date<TAB>url`. Every run rewrites the whole file: newly sent
-URLs are added, and anything past the age window is dropped. The file stays
-roughly bounded to `MAX_DAILY × MAX_AGE_DAYS` entries instead of growing
-without limit — it had reached 222 lines covering the bot's entire history
-before this existed.
+Concretely: *"CSS: the bomb inside your inbox"* is CSS-injection-driven data
+exfiltration — hand-classified as `Info Disclosure` when it was curated
+manually. A careless rule matching `css` against XSS-like patterns would
+misfile it. That's why the XSS pattern requires the literal word `xss`, not
+`css`, and why severity defaults to `Info` rather than guessing upward when
+unsure. The classifier is built to under-commit, not to be clever.
 
-Lines from before this change (URL only, no date) are treated as sent today
-on first load, so they age out on schedule instead of needing a separate
-migration.
+`bounty_amount`, `is_paid`, and `program` are **never** guessed — RSS doesn't
+carry that information, and inventing it would break the one rule this
+archive doesn't bend on. Those fields stay empty on auto-archived entries
+unless someone adds them by hand.
 
-This still means a small file gets committed by the daily Action. That commit
-is the tradeoff for the architecture the rest of the project already made: no
-database, no server, state lives in git. The alternative — reading Discord's
-own message history to reconstruct what was posted — would need a bot token
-with read access instead of a send-only webhook, for a problem this file
-already solves in a few dozen lines.
-following weeks.
+Every auto-archived file is marked at the top:
+
+```yaml
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+```
+
+**If a classification is wrong, just edit the file and commit the fix.**
+There's no special process — it's a YAML file like any other.
+
+### The one guardrail: verified sources only
+
+The bot only archives from sources marked `verified: true` in
+`data/sources.yaml`. That's what stands in for the human judgment a manual
+curator used to apply per-article — not "is this specific post good," but
+"is this publisher one whose bylines are worth trusting by default." Medium
+and other low-signal aggregators were removed from `sources.yaml` for exactly
+this reason; don't re-add a source as `verified: true` without actually
+checking who's behind it.
 
 ---
 
@@ -126,29 +149,28 @@ pip install -r bot/requirements.txt
 python bot/index.py --dry-run
 ```
 
-`--dry-run` needs no webhook and sends nothing. It fetches the real feeds and
-prints exactly what would go out:
+`--dry-run` needs no webhook and writes/sends nothing. It shows exactly what
+would be archived, including the classification guess:
 
 ```
-checking 7 feeds (history: 222 urls)
-  PortSwigger Research: 3 new (12 older than 45d)
-  ProjectDiscovery: 4 new (11 older than 45d)
-  Intigriti: 9 new (6 older than 45d)
+checking 7 feeds (archive: 31 entries)
+  PortSwigger Research: 0 new (1 older than 45d)
+  Intigriti: 5 new (6 older than 45d)
+  Critical Thinking Podcast: feed doesn't expose per-entry URLs (skipped)
   ...
 
-selected 3 of 22 candidates across 4 sources
+selected 3 of 7 candidates across 2 sources
 
---- dry run, nothing sent ---
-  [PortSwigger Research] CSS: the bomb inside your inbox (3d ago)
-  [Critical Thinking Podcast] Episode 186: Is Sol 5.6 SuperHuman... (4d ago)
-  [Intigriti] Beyond CVSS: rethinking scoring systems... (4d ago)
+--- dry run, nothing written or sent ---
+  [Intigriti] Intigriti named new provider for Adobe's Bug Bounty... (6d ago)
+      -> bug_type=Methodology severity=Info platform=Intigriti
 ```
 
 This is also the fastest way to check a source you're proposing: add it to
-`data/sources.yaml`, run the dry run, and see whether the bot can read it. CI
-runs the same command on every PR.
+`data/sources.yaml`, run the dry run, and see whether the bot can read it and
+dedup it correctly. CI runs the same command on every PR.
 
-To actually post:
+To actually archive and post:
 
 ```bash
 DISCORD_WEBHOOK="https://discord.com/api/webhooks/..." python bot/index.py
@@ -156,7 +178,7 @@ DISCORD_WEBHOOK="https://discord.com/api/webhooks/..." python bot/index.py
 
 | Flag | What it does |
 | --- | --- |
-| `--dry-run` | Fetch and select, send nothing. No webhook needed. |
+| `--dry-run` | Classify and select, write and send nothing. No webhook needed. |
 | `--limit N` | Override the per-run cap for one run. |
 
 ---
@@ -166,18 +188,9 @@ DISCORD_WEBHOOK="https://discord.com/api/webhooks/..." python bot/index.py
 | Setting | Default | Where |
 | --- | --- | --- |
 | `DISCORD_WEBHOOK` | — | GitHub Actions secret. Required to post. |
-| `MAX_DAILY` | `3` | Env var. Articles per run. |
+| `MAX_DAILY` | `3` | Env var. Entries archived + posted per run. |
 | `MAX_AGE_DAYS` | `45` | Env var. Older than this counts as backlog. |
 | Schedule | `0 1 * * *` | `cron` in `.github/workflows/post.yml` |
-
-To change the cap permanently, set it in the workflow:
-
-```yaml
-- name: Run bot
-  env:
-    DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-    MAX_DAILY: "5"
-```
 
 ---
 
@@ -185,11 +198,8 @@ To change the cap permanently, set it in the workflow:
 
 | Code | Meaning |
 | --- | --- |
-| `0` | Articles sent, or nothing new to send. |
-| `1` | No webhook configured, or every send failed. |
-
-A failed run leaves `sent_urls.txt` untouched, so nothing is silently lost —
-the next run retries the same articles.
+| `0` | Entries archived (and posted, best-effort), or nothing new. |
+| `1` | No webhook configured. |
 
 ---
 
@@ -199,15 +209,17 @@ the next run retries the same articles.
 | --- | --- |
 | One feed is down | Logged, skipped, the run continues with the rest. |
 | Feed returns HTML instead of RSS | Zero entries, logged, skipped. Mark it `broken` in `sources.yaml`. |
-| Discord rate limits (429) | Waits `retry_after`, retries up to 3 times, then gives up on that message. |
-| Webhook is invalid | Every send fails, exit 1, history untouched. |
-| An article send fails | Its URL is not recorded, so the next run retries it. |
+| Feed doesn't expose per-entry URLs | Every entry shares one `link` — the whole source is skipped, logged, so a duplicate can't slip past dedup. Add entries from that source by hand. |
+| Discord rate limits (429) | Waits `retry_after`, retries up to 3 times, then gives up on that message — the archive entry stays either way. |
+| Webhook is invalid | Archiving still happens; every Discord post fails and is logged. |
 
 ---
 
 ## Adding a source
 
-Edit `data/sources.yaml`, then verify before opening the PR:
+Check the `/sources` page on the site first — if it's already tracked,
+there's nothing to do. Otherwise edit `data/sources.yaml`, then verify before
+opening the PR:
 
 ```bash
 python bot/index.py --dry-run
@@ -216,6 +228,14 @@ python .github/scripts/validate.py --urls
 
 If the dry run shows `0 new` and the feed has recent posts, the feed URL is
 probably wrong. If it shows `feed returned no entries`, the URL is serving
-something that isn't RSS — mark it `broken` and note what it returns.
+something that isn't RSS — mark it `broken`. If it shows the per-entry-URL
+skip message, the feed can't be auto-archived reliably — mark it with a note
+explaining why (see the Critical Thinking Podcast entry in
+`data/sources.yaml` for the pattern) and add its content manually instead.
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md) for the source schema.
+**A source only gets auto-archived if it's `verified: true`.** See
+[Classification](#classification-read-this-part) for why that matters more
+now than it used to.
+
+See [CONTRIBUTING.md](../CONTRIBUTING.md) for the full source and writeup
+schema.

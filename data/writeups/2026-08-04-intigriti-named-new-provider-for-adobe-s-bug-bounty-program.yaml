@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Intigriti named new provider for Adobe's Bug Bounty Program"
+author: "Intigriti"
+date: "2026-08-04"
+url: "https://www.intigriti.com/blog/news/intigriti-named-new-provider-for-adobes-bug-bounty-program"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "Adobe empowers everyone to create through industry-leading platforms and tools that unleash creativity, productivity, and personalized customer experiences. Starting September 1, 2026, Intigriti will be the new home of the Adobe Bug Bounty Program. Why Intigriti and Adobe? As AI reshapes how organizations build and ship products, security testing needs to keep pace. Intigriti's global community of"
+
+tags:
+  - "methodology"
+  - "news"

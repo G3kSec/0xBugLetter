@@ -1,0 +1,24 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Introducing Internal Network Scanning: see your network the way an attacker inside it would"
+author: "ProjectDiscovery"
+date: "2026-07-21"
+url: "https://projectdiscovery.io/blog/introducing-internal-network-scanning-see-your-network-the-way-an-attacker-inside-it-would"
+source: "ProjectDiscovery"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Independent"
+
+summary: "Most breaches don't begin with a zero-day but with something ordinary like a forgotten server, an unmanaged network device, a service reachable across a segment that was supposed to be isolated. Internal scanning was supposed to catch exactly that but most scanners match a host's banner and version against a CVE list and flag everything potentially affected, so the few reachable exposures sit lost"
+
+tags:
+  - "methodology"
+  - "vulnerability-management"
+  - "scanners"
