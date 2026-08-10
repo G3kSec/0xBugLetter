@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "AI’s convenience cost. The impact of the lethal trifecta on organizations today"
+author: "Intigriti"
+date: "2026-07-23"
+url: "https://www.intigriti.com/blog/business-insights/impact-of-the-lethal-trifecta-on-organizations-today"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "The lethal trifecta matters more now than ever because AI tools can read your data, absorb instructions, and act on your behalf. That means a poisoned email, webpage, or document could trick your AI into leaking information or taking actions you never approved. The more AI becomes your assistant, the more its access, permissions, and actions need guardrails. This blog takes a look at the lethal"
+
+tags:
+  - "methodology"
+  - "business-insights"
