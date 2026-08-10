@@ -62,8 +62,9 @@ commits back to the repo.
                            │         │  └────────────┬─────────────┘
                            │         │               ▼
                            │         │  ┌──────────────────────────┐
-                           │         │  │  Append SENT urls only   │
-                           │         │  │  to bot/sent_urls.txt    │
+                           │         │  │  Rewrite sent_urls.txt:  │
+                           │         │  │  add sent + drop entries │
+                           │         │  │  older than MAX_AGE_DAYS │
                            │         │  └────────────┬─────────────┘
                            │         │               ▼
                            │         │  ┌──────────────────────────┐
@@ -87,6 +88,33 @@ all.
 Several of these feeds still expose entries from 2017-2023; without the window
 the bot would announce a nine-year-old post as a "new read". It also stops a
 newly added source from dumping its entire archive into the channel over the
+following weeks.
+
+---
+
+## About `sent_urls.txt`
+
+Some state has to persist between runs — otherwise the bot can't tell what it
+already posted. But it doesn't need to remember forever: an article older
+than `MAX_AGE_DAYS` gets rejected by the age filter regardless of whether it's
+in this file, so keeping it around past that point is pure waste.
+
+Each line is `date<TAB>url`. Every run rewrites the whole file: newly sent
+URLs are added, and anything past the age window is dropped. The file stays
+roughly bounded to `MAX_DAILY × MAX_AGE_DAYS` entries instead of growing
+without limit — it had reached 222 lines covering the bot's entire history
+before this existed.
+
+Lines from before this change (URL only, no date) are treated as sent today
+on first load, so they age out on schedule instead of needing a separate
+migration.
+
+This still means a small file gets committed by the daily Action. That commit
+is the tradeoff for the architecture the rest of the project already made: no
+database, no server, state lives in git. The alternative — reading Discord's
+own message history to reconstruct what was posted — would need a bot token
+with read access instead of a send-only webhook, for a problem this file
+already solves in a few dozen lines.
 following weeks.
 
 ---

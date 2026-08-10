@@ -109,17 +109,64 @@ def load_sources() -> list[dict]:
     return usable
 
 
-def load_sent_urls() -> set[str]:
+def load_sent_urls() -> dict[str, dt.date]:
+    """Map of previously-sent URL to the date it was recorded.
+
+    Lines from before this change (URL only, no date) are treated as sent
+    today, so they age out on the normal schedule instead of needing a
+    one-off migration.
+    """
     if not HISTORY_FILE.exists():
-        return set()
+        return {}
+
+    today = dt.date.today()
+    entries: dict[str, dt.date] = {}
+
     with open(HISTORY_FILE, encoding="utf-8") as handle:
-        return {normalize_url(line.strip()) for line in handle if line.strip()}
+        for raw_line in handle:
+            line = raw_line.strip()
+            if not line:
+                continue
+
+            if "\t" in line:
+                date_str, url = line.split("\t", 1)
+                try:
+                    sent_date = dt.date.fromisoformat(date_str)
+                except ValueError:
+                    sent_date = today
+            else:
+                url, sent_date = line, today
+
+            entries[normalize_url(url)] = sent_date
+
+    return entries
 
 
-def save_urls(urls: list[str]) -> None:
-    with open(HISTORY_FILE, "a", encoding="utf-8") as handle:
-        for url in urls:
-            handle.write(url + "\n")
+def save_sent_urls(previous: dict[str, dt.date], sent: list["Article"]) -> None:
+    """Rewrite the history file with the merged, pruned set.
+
+    Entries older than MAX_AGE_DAYS are dropped: an article that old would
+    be rejected by the age filter in collect_candidates regardless of
+    whether it's remembered here, so keeping it forever is pure waste. This
+    keeps the file bounded instead of growing without limit — it reached
+    222 lines covering the bot's entire history before this change.
+    """
+    today = dt.date.today()
+    merged = dict(previous)
+
+    for article in sent:
+        merged[article.url] = article.published.date() if article.published else today
+
+    cutoff = today - dt.timedelta(days=MAX_AGE_DAYS)
+    kept = {url: date for url, date in merged.items() if date >= cutoff}
+
+    pruned = len(merged) - len(kept)
+    if pruned:
+        print(f"  pruned {pruned} history entries older than {MAX_AGE_DAYS}d")
+
+    with open(HISTORY_FILE, "w", encoding="utf-8") as handle:
+        for url, date in sorted(kept.items(), key=lambda item: (item[1], item[0])):
+            handle.write(f"{date.isoformat()}\t{url}\n")
 
 
 def normalize_url(url: str) -> str:
@@ -167,7 +214,7 @@ def strip_html(text: str) -> str:
 
 
 def collect_candidates(
-    sources: list[dict], sent_urls: set[str]
+    sources: list[dict], sent_urls: dict[str, dt.date]
 ) -> dict[str, list[Article]]:
     """Every eligible article, grouped by source.
 
@@ -353,19 +400,27 @@ def main() -> int:
     candidates = collect_candidates(sources, sent_urls)
 
     total = sum(len(items) for items in candidates.values())
-    if total == 0:
-        print("\nnothing new today")
-        return 0
+    selected = select_articles(candidates, limit) if total else []
 
-    selected = select_articles(candidates, limit)
-    print(f"\nselected {len(selected)} of {total} candidates across {len(candidates)} sources")
+    if selected:
+        print(f"\nselected {len(selected)} of {total} candidates across {len(candidates)} sources")
+    else:
+        print("\nnothing new today")
 
     if args.dry_run:
-        print("\n--- dry run, nothing sent ---")
-        for article in selected:
-            age = article.age_days
-            age_text = f"{age:.0f}d ago" if age is not None else "no date"
-            print(f"  [{article.source}] {article.title[:60]} ({age_text})")
+        # Dry run stays fully side-effect free: no pruning, no file writes.
+        if selected:
+            print("\n--- dry run, nothing sent ---")
+            for article in selected:
+                age = article.age_days
+                age_text = f"{age:.0f}d ago" if age is not None else "no date"
+                print(f"  [{article.source}] {article.title[:60]} ({age_text})")
+        return 0
+
+    if not selected:
+        # Still prune on a quiet day, so the history file shrinks even
+        # without a new article to trigger the rewrite.
+        save_sent_urls(sent_urls, [])
         return 0
 
     # The header only makes sense alongside actual articles, so it goes out
@@ -374,7 +429,7 @@ def main() -> int:
     #
     # It's attempted once: if the webhook is dead, retrying the header before
     # every article just doubles the failed requests.
-    sent: list[str] = []
+    sent_articles: list[Article] = []
     header_attempted = False
 
     for article in selected:
@@ -384,15 +439,14 @@ def main() -> int:
 
         if post(webhook_url, article_payload(article)):
             print(f"  sent: {article.title[:60]}")
-            sent.append(article.url)
+            sent_articles.append(article)
         else:
             print(f"  failed: {article.title[:60]}")
 
-    if sent:
-        save_urls(sent)
+    save_sent_urls(sent_urls, sent_articles)
 
-    print(f"\n{len(sent)}/{len(selected)} articles sent")
-    return 0 if sent else 1
+    print(f"\n{len(sent_articles)}/{len(selected)} articles sent")
+    return 0 if sent_articles else 1
 
 
 if __name__ == "__main__":
