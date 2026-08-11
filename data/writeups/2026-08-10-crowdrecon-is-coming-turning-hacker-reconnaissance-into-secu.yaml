@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "CrowdRecon is coming: turning hacker reconnaissance into security intelligence"
+author: "Intigriti"
+date: "2026-08-10"
+url: "https://www.intigriti.com/blog/news/introducing-crowdrecon"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "At DEF CON 34, our team introduced something exciting. Something the Intigriti team has been building for months, and our Senior Product Manager, Radu Voloaga, took to the stage in the Bug Bounty Village to give everyone the first real look at CrowdRecon. How CrowdRecon closes the gap It started with a question we kept running into: what happens to all the reconnaissance work hackers do before a v"
+
+tags:
+  - "methodology"
+  - "news"
