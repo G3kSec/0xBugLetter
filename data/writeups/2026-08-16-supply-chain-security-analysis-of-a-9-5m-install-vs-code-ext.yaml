@@ -1,0 +1,25 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Supply Chain Security Analysis of a 9.5M-Install VS Code Extension"
+author: "ProjectDiscovery"
+date: "2026-08-16"
+url: "https://projectdiscovery.io/blog/a-9-5m-install-vs-code-extension-one-markdown-file-and-a-supply-chain-foothold"
+source: "ProjectDiscovery"
+
+# Classification — auto-guessed, see note above
+bug_type: "Supply Chain"
+severity: "Info"
+
+# Program
+platform: "Independent"
+
+summary: "Your code editor extensions auto-update and run with your privileges on the machine that holds your source code, your SSH keys, and your publishing credentials, but they rarely show up in a software bill of materials. Using Neo we audited one of the most popular ones, Markdown Preview Enhanced has roughly 9.5 million installs. The neo found five CVEs across two attack surfaces. A WaveDrom render"
+
+tags:
+  - "supply-chain"
+  - "neo"
+  - "research"
+  - "vs-code"
