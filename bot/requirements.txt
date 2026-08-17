@@ -1,4 +1,4 @@
-requests
-feedparser
-pyyaml
-beautifulsoup4
+requests==2.34.2
+feedparser==6.0.14
+pyyaml==6.0.3
+beautifulsoup4==4.15.0
