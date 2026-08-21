@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Web fuzzing for hackers"
+author: "Intigriti"
+date: "2026-08-20"
+url: "https://www.intigriti.com/researchers/blog/hacking-tools/web-fuzzing-for-hackers"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "Fuzzing has been around for as long as web applications have. In fact, the term itself was coined back in 1988, when Barton Miller, a professor at the University of Wisconsin, was working over a dial-up connection during a thunderstorm and noticed that the resulting line noise was consistently crashing the UNIX utilities he was running. Web fuzzing is no different. Despite the rise of automated sc"
+
+tags:
+  - "methodology"
+  - "hacking-tools"
